@@ -1,0 +1,1 @@
+- [ ] [[registro lembrete]] em {{date:MM}} {{date:YYYY}}. No âmbito do(a) 
