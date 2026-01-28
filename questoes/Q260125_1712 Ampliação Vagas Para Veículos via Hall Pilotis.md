@@ -1,0 +1,35 @@
+---
+mnemonico: Q260125_1712
+created: 2026-01-25T17:22
+tipo_questao: 
+status_questao: INFORMAR
+area: INFORMAR
+v: 1
+summary:
+---
+- [ ] Dar baixa
+
+#questao 
+
+- **Descrição:** **QUE** ao longo das primeiras semanas do ano, em levantamento boca-a-boca, [[Síndica]] quis saber dos condôminos sobre "_opinião em converter área do [[Hall Pilotis]] em vagas para veículos_"
+			- **QUE** essa possibilidade teria benefício direto na valorização dos imóveis
+			- **QUE** essa possibilidade daria resolução as questões obstrução de espaço de manobras dos carros que hoje impacta a garagem quando atinge limite de uso de 1 vaga por apartamento
+			- **QUE** em configurações futuras poder-se-ia ampliar o portão de garagem do Heleri, dando resolução aos episódios de obstrução da saída dos carros, causados por "uso limite do espaço de vaga a frente do Heleri" (quando as pontas dianteiras ou traseiras dos carros impedem manobras de entrada e saída, que demandam certa angulação de manobra dos veículos moradores Heleri)
+			- **QUE** a ideia teve manifesta adesão pelas unidades: [[Unidade 102]], [[Unidade 201]], [[Unidade 301]], [[Unidade 302]]
+			- **QUE** abre-se frente de estudo para análise da transformação do layout [[Hall Pilotis]], bem como área impactada, bem como aferição de real função aos veículos (considerando tamanho dos carros atuais)
+
+- **Motivação:** 
+
+- **Custo:** N/A
+
+- **Risco:** N/A
+
+- **Onde:** 
+
+- **Termo encerramento:** Quando estudo estiver concluído para apresentação em Assembleia competente
+
+
+
+# metadado
+
+[year:: 2026] | [month:: 01] | [day:: 25] | [dayWeek:: Sunday] | [dayWeekShort:: Sun] | [monthYear:: Jan] | [weekNumber:: 05] | [quarter:: 1] | [dayOfYear:: 025] | [weekNumber2:: 05-] | [month2:: 01-] | [day2:: 25-]
