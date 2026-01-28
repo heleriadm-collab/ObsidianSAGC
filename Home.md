@@ -57,6 +57,7 @@ As **questões** surgem à partir de registros diários de **situações pendent
 **Se** você **puder ajudar** na resolução de alguma questão registrada, **TODA E QUALQUER AJUDA SERÁ BEM VINDA!**
 
 
+
 **Link das Questões =>** https://heleriadm-collab.github.io/SAGCHeleri/questoes/
 
 **Link Questões ENCERRADAS =>**  [[Visão Geral#FEITO]]
