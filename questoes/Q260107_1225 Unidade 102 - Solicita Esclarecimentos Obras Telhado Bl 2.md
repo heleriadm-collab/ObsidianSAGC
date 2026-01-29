@@ -23,19 +23,42 @@ summary:
 
 - **Termo encerramento:** [10:35, 13/01/2026] LS: Encerramento da questão registrada no Sistema de Apoio a Gestão Condominial Heleri (SAGC )como: Q260107_1225 Unidade 102 - Solicita Esclarecimentos Obras Telhado Bl 2
 
+# RESULTADO FINAL
+
+| Estágio                                  | Documento / Evento Chave                                                 | Descrição / Ponto Relevante                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🗓️ Mar/2025**                         | Ata da Assembleia                                                        | Fechamento da contratação com base em cotações.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **✍️ Jul/2025**                          | Proposta Comercial MV3                                                   | Contrato aceito no valor de **R$ 7.000,00 de entrada + 4x R$ 4.255,00**. A Unidade 402 financiou o material.<br><br>[[20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI]]<br>                                                                                                                                                                                                                                                                                                                                                                                               |
+| **⚠️ Nov/2025**                          | Ata da Assembleia Extraordinária                                         | A Unidade 402 apresentou **reclamação formal** contra a MV3, listando: atrasos extremos, imperícia, desperdício, **desvio de 56% no custo de materiais**, falta de comunicação e piora nas avarias de sua unidade. <br>[[251103_Notificacao_Listas_de_problemas_Obra_Telhado_Bloco_2_MV3_Nov2025_assinado\|03 nov - Notificação à MV3]]<br>[[251110_AGE_NOV_2025_STATUS_OBRA_BL2\|10 nov -  AGE NOV 25]]<br>[[ATA251111 Reunião MV3 Questões da AGE NOV 2025\|11 nov - ATA REUNIÃO MV3]]<br>[[20251112_6 - CRONOGRAMA FISICO MV3\|12 nov - CRONOGRAMA RESPOSTA MV3]]<br><br> |
+| **📝 Controle Independente (Unid. 412)** | Planilha de Custos, Registros de WhatsApp, Relatório de Não Conformidade | Documentação detalhada dos gastos, comunicação sobre o andamento da obra e problemas técnicos identificados.<br>[[260106_Analise_Custos_Obras_telhado_bloco_2_Heleri_Anexo_CREA\|06 jan 26 Relatório Análise Custos Obra]]<br>                                                                                                                                                                                                                                                                                                                                               |
+| **🔨 Pós-Assembleia (Nov/2025)**         | Cronograma da MV3                                                        | Cronograma físico **não cumprido** pela contratada.<br>[[20251112_6 - CRONOGRAMA FISICO MV3\|12 nov - CRONOGRAMA RESPOSTA MV3]]<br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **🔄 Jan/2026**                          | Ata de Reunião (06/01)                                                   | A nova administração formalizou um **pedido de distrato** (rescisão) do contrato com a MV3.<br><br>[[ATA260106 Reunião Heleri MV3 proposição distrato\|06 jan 26 - Ata Proposta Distrato]]<br>                                                                                                                                                                                                                                                                                                                                                                               |
+| **📩 Resposta da MV3 (09/01)**           | Comunicado da Empresa                                                    | A MV3 **recusou o distrato**, alegou inadimplência do condomínio e declarou estar em "período de garantia", mesmo sem ter finalizado a obra.<br><br>[[20260109_Comunicado_Posicao_MV3_AoPedidoDistrato\|09 jan 26 Resposta MV3 Pedido Distrato]]                                                                                                                                                                                                                                                                                                                             |
+
 # Atendimento
+
 
 **QUE** alinhado em [[2026-01-08#14 46 Ato Adm. - Gestão Heleri - Contato]] foi o provimento das informações  
 
 (1) ata Assembleia JAN/2025 cotações 
+
 (2) ata Assembleia MAR/2025 fechamento 
+
 (3) Proposta Comercial MV3 Aceita pelo Heleri 
+
 (4) ata Assembleia NOV/2025 
+
 (5) Relatório Custo Materiais 
+
 (6) Comprovantes de Aquisição Material 
+
 (7) Notificação 1 e 2 Síndico à MV3 
+
 (8) Ata reunião Gestão 2026 e MV3 em 06/01
+
 (9) Resposta MV3 ao Pedido Distrato 09/01
+
+---
 
 **(1) ata Assembleia JAN/2025 cotações** 
 ERRATA. Em Janeiro não houve AGE. Foi realizado comunicado para pedido de cotações e reparos
@@ -68,7 +91,7 @@ Em pedido de Assembleia Extraordinária para publicidade de protesto por parte d
 **Apresentação (autor 402):** 20251110_AGE_NOV_2025_STATUS_OBRA_BL2.pdf
 **Ata:** Ata AGE 10 11 2025.docx
 **Linha tempo:** Linha do tempo obra telhado bloco 2.docx
-**Lista problemas:** `Listas_de_problemas_Obra_Telhado_Bloco_2_-_MV3_-_Nov_2025_assinado.pdf`
+**Lista problemas:** [[251103_Notificacao_Listas_de_problemas_Obra_Telhado_Bloco_2_MV3_Nov2025_assinado]]
 **À MV3 Engenharia - Parte 1:** À MV3 Engenharia - Parte 1.docx
 **À MV3 Engenharia - Parte 2:** À MV3 Engenharia - Parte 2.docx
 **Vistoria telhado (fotos na linha tempo):** https://docs.google.com/document/d/1ZKGqZIIdiIXbXlZAKQsi24bnGrgY21ipMploUjZPUSA/edit?tab=t.0
@@ -97,9 +120,12 @@ Retorno MV3. Acusa Heleri de inadimplência e indevidamente se declara em perío
 
 **Controle Independente (não administração) - Unidade 402**
 
-(1) **Valores empreendidos:** 20250718_-Controle_Material_Obra_Bloco_2_Heleri_SL.xlsx
-(2) **Grupo Whatsapp de 17/07/2025 13:16 a 04/11/2025 07:48** => 20251104_WhatsApp com Acompanhamento Obra Telhado Bl2.txt
+(1) **Valores empreendidos:** [[260106_Analise_Custos_Obras_telhado_bloco_2_Heleri_Anexo_CREA]]
+
+(2) **Grupo Whatsapp de 17/07/2025 a 22/01/2026** =>  [[260122_Conversa do WhatsApp com Acompanhamento Obra Telhado Bl2]]
+
 (3) **Não conformidade da fiada (AGE NOV-2025):** 20251107_Nao_Conformidade_Fiada_Encaixe_Telhas.pdf
+
 
 
 
