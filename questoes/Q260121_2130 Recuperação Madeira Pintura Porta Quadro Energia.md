@@ -7,11 +7,12 @@ area: MANUTENCAO
 v: 1
 summary:
 ---
-- [x] Dar baixa
+- [ ] Dar baixa
 
 #questao 
 
 - **Descrição:** **QUE** em ronda Síndica verifica necessidade de recuperação da "_porta de madeira do quadro de energia_"
+		- **QUE** Realizada aquisição [[NF260121_Material Restauração Piso Portaria Interna]]
 
 - **Motivação:** 
 
@@ -21,7 +22,7 @@ summary:
 
 - **Onde:**  [[Quadro Energia]] / [[Entrada da Garagem]]
 
-- **Termo encerramento:** [[NF260121_Material Restauração Piso Portaria Interna]]
+- **Termo encerramento:** 
 
 
 
