@@ -3,7 +3,7 @@ mnemonico: Q260125_1712
 created: 2026-01-25T17:22
 tipo_questao: 
 status_questao: INFORMAR
-area: INFORMAR
+area: INFRAESTRUTURA
 v: 1
 summary:
 ---
@@ -17,14 +17,16 @@ summary:
 			- **QUE** em configurações futuras poder-se-ia ampliar o portão de garagem do Heleri, dando resolução aos episódios de obstrução da saída dos carros, causados por "uso limite do espaço de vaga a frente do Heleri" (quando as pontas dianteiras ou traseiras dos carros impedem manobras de entrada e saída, que demandam certa angulação de manobra dos veículos moradores Heleri)
 			- **QUE** a ideia teve manifesta adesão pelas unidades: [[Unidade 102]], [[Unidade 201]], [[Unidade 301]], [[Unidade 302]]
 			- **QUE** abre-se frente de estudo para análise da transformação do layout [[Hall Pilotis]], bem como área impactada, bem como aferição de real função aos veículos (considerando tamanho dos carros atuais)
+			- **QUE** na data de [[2026-01-29]] foi observado que o maior carro na garagem (pertencente [[Unidade 301]]) consegue passar pelo **vão de 2,48m** (hoje menor espaço de todos).
+			- **QUE** na data de [[2026-01-29]] questão foi incluída na pauta para deliberação via Assembleia Geral Extraordinária de FEVEREIRO/2026 (convocação em curso pela [[Administradora Apolo]])
 
-- **Motivação:** 
+- **Motivação:** **(1)** Episódios que evidenciam sobrecarga das vagas quando todas Unidades exercem direito de uso **(2)** Situações em que é necessário movimentação de moradores para desobstruir espaço de manobra para entrada e saída de veículo
 
 - **Custo:** N/A
 
 - **Risco:** N/A
 
-- **Onde:** 
+- **Onde:** [[Garagem]], [[Hall Pilotis]], [[Entrada da Garagem]]
 
 - **Termo encerramento:** Quando estudo estiver concluído para apresentação em Assembleia competente
 
