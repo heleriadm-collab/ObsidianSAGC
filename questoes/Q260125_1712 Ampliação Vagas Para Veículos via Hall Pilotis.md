@@ -16,7 +16,8 @@ summary:
 			- **QUE** essa possibilidade daria resolução as questões obstrução de espaço de manobras dos carros que hoje impacta a garagem quando atinge limite de uso de 1 vaga por apartamento
 			- **QUE** em configurações futuras poder-se-ia ampliar o portão de garagem do Heleri, dando resolução aos episódios de obstrução da saída dos carros, causados por "uso limite do espaço de vaga a frente do Heleri" (quando as pontas dianteiras ou traseiras dos carros impedem manobras de entrada e saída, que demandam certa angulação de manobra dos veículos moradores Heleri)
 			- **QUE** a ideia teve manifesta adesão pelas unidades: [[Unidade 102]], [[Unidade 201]], [[Unidade 301]], [[Unidade 302]]
-			- **QUE** abre-se frente de estudo para análise da transformação do layout [[Hall Pilotis]], bem como área impactada, bem como aferição de real função aos veículos (considerando tamanho dos carros atuais)
+			- **QUE** abre-se **frente de estudo** para **análise da transformação** do layout [[Hall Pilotis]], bem como área impactada, bem como aferição de real função aos veículos (considerando tamanho dos carros atuais)
+			- **QUE** em [[2026-01-24#17 12 Questão - Ampliação Vagas Para Veículos via Hall Pilotis]] foram tomadas medidas via croquis **(1)** [[#Do Hall Pilotis]] **(2)** [[#Da Garagem]]
 			- **QUE** na data de [[2026-01-29]] foi observado que o maior carro na garagem (pertencente [[Unidade 301]]) consegue passar pelo **vão de 2,48m** (hoje menor espaço de todos).
 			- **QUE** na data de [[2026-01-29]] questão foi incluída na pauta para deliberação via Assembleia Geral Extraordinária de FEVEREIRO/2026 (convocação em curso pela [[Administradora Apolo]])
 
@@ -30,7 +31,17 @@ summary:
 
 - **Termo encerramento:** Quando estudo estiver concluído para apresentação em Assembleia competente
 
+# Estudo
 
+## Croquis
+
+### Do Hall Pilotis
+
+<iframe src="https://drive.google.com/file/d/1tskyteehD6ac08nPWryZ1rSKcqPtO15F/preview" width="640" height="480"></iframe>
+
+### Da Garagem
+
+<iframe src="https://drive.google.com/file/d/1cSJnz9ElQXq8hkWQAPo7Fp5aTfTV_KnP/preview" width="640" height="480"></iframe>
 
 # metadado
 
