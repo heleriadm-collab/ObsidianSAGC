@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "0f18d3cd177e62be",
+    "type": "split",
+    "children": [
+      {
+        "id": "de581350d24f47ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dd516686c4ae041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "questoes/Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis"
+            }
+          },
+          {
+            "id": "867a130761aec61f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "relatorios/Relatório MENSAL - 01 - 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relatório MENSAL - 01 - 2026"
+            }
+          },
+          {
+            "id": "49f45e0ada088121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "questoes/Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5813a3753b4d9d66",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e5938837bd59e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cba533b17c89c64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "17715b91453e322e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f113b175f0af8c96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a5ddad4165c5b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce2b5e73426e241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05298d472c858657",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "questoes/Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia"
+            }
+          },
+          {
+            "id": "dc11419e695f8636",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "questoes/Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia"
+            }
+          },
+          {
+            "id": "7895a2f2f4ca2abf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "300bffd02fc0e6b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "questoes/Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "49f45e0ada088121",
+  "lastOpenFiles": [
+    "storage/260116_g_drive_marcelolopessilva.txt",
+    "storage/260116_PASTAS_g_drive_marcelolopessilva.txt",
+    "storage/NF260121_Limpador Pós Obra Vodocia Remove Cimento E Rejuntes 5 Litros.md",
+    "storage/ATA260106 Reunião Heleri MV3 proposição distrato.md",
+    "storage/ATA251111 Reunião MV3 Questões da AGE NOV 2025.md",
+    "storage/20260109_Posicao_MV3_Ao_Pedido_Distrato - CATALOGAR.md",
+    "storage/20260109_Comunicado_Posicao_MV3_AoPedidoDistrato.md",
+    "storage/20251112_6 - CRONOGRAMA FISICO MV3.md",
+    "storage/20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI.md",
+    "storage/251114_Relacao_Comprovantes_Aquisicao_Obras_Telhado_Bloco_2_Heleri.md",
+    "storage/251110_AGE_NOV_2025_STATUS_OBRA_BL2.md",
+    "storage/251103_Notificacao_Listas_de_problemas_Obra_Telhado_Bloco_2_MV3_Nov2025_assinado.md",
+    "storage/250705_Vistorias Telhado_incidente_falta_ralo.md",
+    "storage/2601_AGE_JAN_2026_Apresentacao.md",
+    "storage/2601 Playlist compilação Vídeos status Telhado BL2 ANTES e DURANTE Obras.md",
+    "storage/2507_art2020250191670_assinado_assinado.md",
+    "storage/Planilha_Controle_Despesas_v2601_1.md",
+    "storage/NF260121_Saco De Lixo 240 Litros Preto Reforçado 115x120cm C_50un.md",
+    "storage/NF260121_Material Restauração Piso Portaria Interna.md",
+    "storage/NF260121_Mangueira De Incêndio Para Hidrante Tipo 1 1 1_2 15m Platina.md",
+    "storage",
+    "Nova pasta",
+    "relatorios/Relatório MENSAL - 01 - 2026.md",
+    "questoes/Q260121_2128 Tampo Vaso Sanitário Quarto Zelador.md",
+    "diario/2026-01-24.md",
+    "questoes/Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis.md",
+    "Home.md",
+    "locais/Unidade 301.md",
+    "pessoas/Sandro 301.md"
+  ]
+}
