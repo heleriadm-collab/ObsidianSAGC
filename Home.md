@@ -276,4 +276,9 @@ https://chatgpt.com/
 
 Considerando timeline do mermaid (tal como exemplo abaixo), peço montar timeline semanal das issues registradas no sistema
 
+
+
+Gostaria de redigir pauta para convocação à Assembleia Geral Extraordinária, nos termos de assuntos específicos e urgentes. Para nortear a pauta a constar no Comunicado formal, tenho os seguintes itens e peço apoio para verificar português e se há ajustes a considerar:
+
+
 -->
