@@ -52,14 +52,13 @@ created: 2026-01-22T16:07
 
 - **md5:** MD5 hash de 260122_Conversa do WhatsApp com Acompanhamento Obra Telhado Bl2.pdf: 2a43b172e470ad9c24f277be25a26ca6
 
-- **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Storage:** [[Google Drive Heleri Adm]]
 
-- **Link:** [[260122_Conversa do WhatsApp com Acompanhamento Obra Telhado Bl2.pdf]]
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/file/d/12cfTaVn4yl8Bj6JdMd6Ez9v22TadDyjO/view?usp=sharing
 
 # Visualização 
 
- ![[260122_Conversa do WhatsApp com Acompanhamento Obra Telhado Bl2.pdf]]
+<iframe src="https://drive.google.com/file/d/12cfTaVn4yl8Bj6JdMd6Ez9v22TadDyjO/preview" width="640" height="480"></iframe>
 
 # metadado
 

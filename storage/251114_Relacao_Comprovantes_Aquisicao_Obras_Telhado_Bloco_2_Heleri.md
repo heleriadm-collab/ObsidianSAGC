@@ -29,10 +29,9 @@ created: 2026-01-25T14:36
 
 - **md5:** MD5 hash de 251114_Relacao_Comprovantes_Aquisicao_Obras_Telhado_Bloco_2_Heleri.pdf: cdbee7b3aac28e1dc4060737dedacbf5
 
-- **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Storage:** [[Google Drive Heleri Adm]]
 
-- **Link:** [[251114_Relacao_Comprovantes_Aquisicao_Obras_Telhado_Bloco_2_Heleri.pdf]]
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/file/d/1X7AmC7zyurtIG7tVWqcalG5sQST6WnZb/view?usp=sharing
 
 # LISTAGEM AQUISIÇÕES – CONFORME WHATSAPP
 
@@ -140,8 +139,7 @@ entrega: 24/10/2025 material: 4ª caçamba 5m³ (pedido 48 71 43)
 
 # Visualização
 
-![[251114_Relacao_Comprovantes_Aquisicao_Obras_Telhado_Bloco_2_Heleri.pdf]]
-
+<iframe src="https://drive.google.com/file/d/1X7AmC7zyurtIG7tVWqcalG5sQST6WnZb/preview" width="640" height="480"></iframe>
 # metadado
 
 [year:: 2026] | [month:: 01] | [day:: 25] | [dayWeek:: Sunday] | [dayWeekShort:: Sun] | [monthYear:: Jan] | [weekNumber:: 05] | [quarter:: 1] | [dayOfYear:: 025] | [weekNumber2:: 05-] | [month2:: 01-] | [day2:: 25-]

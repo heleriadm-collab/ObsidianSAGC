@@ -11,24 +11,26 @@ summary:
 
 - **Quando**: [[2025-11-11]]
 
-- **Onde:** 
+- **Onde:** [[Unidade 101]]
 
-- **Pauta:** Questões levantadas e apresentadas por [[Unidade 402]], e Síndico Marcelo, aos Condôminos na [[AGE - Novembro 2025]]
+- **Pauta:** Questões levantadas e apresentadas por [[Unidade 402]], e Síndico Marcelo, aos Condôminos na [[AGE - Novembro 2025]]/[[251110_AGE_NOV_2025_STATUS_OBRA_BL2]]
 
-- **Participantes:** 
+- **Participantes:** [[Marcelo 101]] (Síndico), [[Lucia Cob 01]] e [[José Wagner 201]] (Conselheiros), [[Milton Vilarino Junior - MV3]] e [[Rogerio MV3]]
 
 - **Publicidade:**
 
 - **Compõe:** [[Q260109_1847 Providência ao Pedido de Distrato]]
 
 - **Documento:** 
-		- [[ATA251111 Reunião MV3 Questões da AGE NOV 2025_1.jpeg]]
-		- [[ATA251111 Reunião MV3 Questões da AGE NOV 2025_2.jpeg]]
+		- ATA251111 Reunião MV3 Questões da AGE NOV 2025_1.jpeg
+		- ATA251111 Reunião MV3 Questões da AGE NOV 2025_2.jpeg
 		- vide também [[#Transcrição]]
 
 - **Ata:** N/A
 
-- **Storage:** temporariamente local até definição storage [[heleri.adm@gmail.com - conta]]
+- **Storage:** [[Google Drive Heleri Adm]]
+
+- **Link:** **(1)** https://drive.google.com/file/d/13xSl0jXDjD0Iwq7LV6hf7NDYgHhs6gjr/view?usp=sharing **(2)** https://drive.google.com/file/d/1pHBMitvqisrLwpcsVyGxr03rpbgh0CA7/view?usp=sharing **(3)** Busca geral: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=ATA251111
 # Transcrição
 
 Segue a **transcrição fiel do conteúdo legível da ata apresentada na imagem**, preservando a redação, a ordem e o sentido do texto:
@@ -102,9 +104,14 @@ A ata, tal como redigida, **não declara aceite da obra**, **reconhece infiltra�
 (2) entrega não é ato unilateral. Ainda que CONTRATADA tenha manifestado fim da obra, se CONTRATANTE não delibera o aceite então obra não terminou
 (3) na ata como está claro não término e permanência dos vícios
 
+# Visualização
 
-![[ATA251111 Reunião MV3 Questões da AGE NOV 2025_1.jpeg]]
-![[ATA251111 Reunião MV3 Questões da AGE NOV 2025_2.jpeg]]
+## Página 01
+
+<iframe src="https://drive.google.com/file/d/13xSl0jXDjD0Iwq7LV6hf7NDYgHhs6gjr/preview" width="640" height="480"></iframe>
+## Página 02
+
+<iframe src="https://drive.google.com/file/d/1pHBMitvqisrLwpcsVyGxr03rpbgh0CA7/preview" width="640" height="480"></iframe>
 
 # metadado
 

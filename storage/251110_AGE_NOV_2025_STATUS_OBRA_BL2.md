@@ -32,15 +32,13 @@ created: 2026-01-22T15:39
 
 - **md5:** MD5 hash de 251110_AGE_NOV_2025_STATUS_OBRA_BL2.pdf: a5edd18626ea1d765f340667e849b9f5
 
-- **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Storage:** [[Google Drive Heleri Adm]]
 
-- **Link:** [[251110_AGE_NOV_2025_STATUS_OBRA_BL2.pdf]]
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/file/d/1GpjQ9RKMtBKCESAeKEfVFylNUPJ6-L4V/view?usp=sharing
 
 # Visualização
 
-![[251110_AGE_NOV_2025_STATUS_OBRA_BL2.pdf]]
-
+<iframe src="https://drive.google.com/file/d/1GpjQ9RKMtBKCESAeKEfVFylNUPJ6-L4V/preview" width="640" height="480"></iframe>
 # metadado
 
 [year:: 2026] | [month:: 01] | [day:: 22] | [dayWeek:: Thursday] | [dayWeekShort:: Thu] | [monthYear:: Jan] | [weekNumber:: 04] | [quarter:: 1] | [dayOfYear:: 022] | [weekNumber2:: 04-] | [month2:: 01-] | [day2:: 22-]

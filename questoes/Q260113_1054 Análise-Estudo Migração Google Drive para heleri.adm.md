@@ -25,9 +25,69 @@ summary:
 
 - **Risco:** N/A
 
-- **Onde:** [[Google Drive - Gestão 2025]], [[heleri.adm@gmail.com - conta]]
+- **Onde:** [[heleri.adm@gmail.com - conta]], [[Google Drive Heleri Adm]]
 
 - **Termo encerramento:** 
+
+## Bateria 01 de Upload Arquivos - Storage Documentos
+
+https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=
+
+
+
+
+
+1. [[2507_art2020250191670_assinado_assinado]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=2507_art2020250191670_assinado_assinado
+
+2. [[250705_Vistorias Telhado_incidente_falta_ralo]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=250705_Vistorias
+   
+3. [[251103_Notificacao_Listas_de_problemas_Obra_Telhado_Bloco_2_MV3_Nov2025_assinado]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=251103
+	1. https://drive.google.com/file/d/1dukZWHV82Jfsu3_kZSnB48Y4Pung-TP-/view
+		- **(2)** **251105_À MV3 Engenharia - Parte 1:**  https://drive.google.com/file/d/1sbvstsXFpf6S4SM2vOOom1jW8LnIvR5E/view?usp=sharing
+		- **(3)** **251105_À MV3 Engenharia - Parte 2:** https://drive.google.com/file/d/1NlTWtHMfeOTS2J4wPiDynMNoBu1CLHpr/view?usp=sharing
+
+4. [[251110_AGE_NOV_2025_STATUS_OBRA_BL2]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=251110_AGE_NOV_2025_STATUS_OBRA_BL2
+   
+5. [[251114_Relacao_Comprovantes_Aquisicao_Obras_Telhado_Bloco_2_Heleri]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=251114_Relacao_Comprovantes_Aquisicao
+
+6. [[251231_COMUNICADO_MV3_INFORMA_LAUDO]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=251231_COMUNICADO_MV3_INFORMA_LAUDO
+   
+7. [[260109_Proposta_2_e_3_Alternativas_MV3]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=260109_Proposta_2_e_3_Alternativas_MV3
+   
+8. [[260113_FOLHA DE PONTO MENSAL heleri]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=260113_FOLHA
+
+9. [[260122_Conversa do WhatsApp com Acompanhamento Obra Telhado Bl2]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=260122_Conversa
+   
+   
+10. [[260122_Email_Consulta_Jurídica_Apolo_Caso_Telhas_Soltas_Q260109_1847]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=260122_Email_Consulta_Jurídica_Apolo_Caso_Telhas_Soltas_Q260109_1847
+    
+
+11. [[20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=20250717_4
+    
+
+12. [[20251112_6 - CRONOGRAMA FISICO MV3]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=20251112_6
+    
+
+13. [[ATA260106 Reunião Heleri MV3 proposição distrato]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=ATA260106
+    
+
+14. [[20260109_Comunicado_Posicao_MV3_AoPedidoDistrato]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=20260109_Comunicado_Posicao_MV3_AoPedidoDistrato
+    
+
+15. [[NF260121_Limpador Pós Obra Vodocia Remove Cimento E Rejuntes 5 Litros]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=NF260121_Limpador
+    
+
+16. [[ATA251111 Reunião MV3 Questões da AGE NOV 2025]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=ATA251111
+    
+
+17. [[NF260121_Mangueira De Incêndio Para Hidrante Tipo 1 1 1_2 15m Platina]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=NF260121_Mangueira
+    
+
+18. [[NF260121_Material Restauração Piso Portaria Interna]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=NF260121_Material
+    
+
+19. [[NF260121_Saco De Lixo 240 Litros Preto Reforçado 115x120cm C_50un]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=NF260121_Saco
+
 
 
 

@@ -23,14 +23,16 @@ created: 2026-01-12T11:17
 
 - **Análise:** 
 
-- **md5:** 1a8e213d040b2fe5e428150a659f5e17 - MD5 hash de 20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI.pdf:
-1a8e213d040b2fe5e428150a659f5e17
+- **md5:** 1a8e213d040b2fe5e428150a659f5e17 - MD5 hash de 20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI.pdf: 1a8e213d040b2fe5e428150a659f5e17
 
-- **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Storage:** [[Google Drive Heleri Adm]]
 
-- **Link:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/file/d/1-wOtWKco7PVIzf4quFnydmLSqBDXgjNN/view?usp=sharing
 
-![[20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI.pdf]]
+# Visualização
+
+<iframe src="https://drive.google.com/file/d/1-wOtWKco7PVIzf4quFnydmLSqBDXgjNN/preview" width="640" height="480"></iframe>
+
 
 # metadado
 

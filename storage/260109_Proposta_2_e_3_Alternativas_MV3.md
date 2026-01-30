@@ -27,10 +27,9 @@ created: 2026-01-22T17:07
 
 - **md5:** MD5 hash de 260109_Proposta_2_e_3_Alternativas_MV3.pdf: 322ad9cbe7406af1b9875eafa8ec5256
 
-- **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Storage:** [[Google Drive Heleri Adm]]
 
-- **Link:** [[260109_Proposta_2_e_3_Alternativas_MV3.pdf]]
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/file/d/1_6NHpuZQxUe9Bx1Pk1Bz8hMwJ0pQkpnt/view?usp=sharing
 
 # Transcrição
 
@@ -104,7 +103,8 @@ exposição a água e outras intercorrências.
 
 # Visualização
 
-![[260109_Proposta_2_e_3_Alternativas_MV3.pdf]]
+<iframe src="https://drive.google.com/file/d/1_6NHpuZQxUe9Bx1Pk1Bz8hMwJ0pQkpnt/preview" width="640" height="480"></iframe>
+
 # metadado
 
 [year:: 2026] | [month:: 01] | [day:: 22] | [dayWeek:: Thursday] | [dayWeekShort:: Thu] | [monthYear:: Jan] | [weekNumber:: 04] | [quarter:: 1] | [dayOfYear:: 022] | [weekNumber2:: 04-] | [month2:: 01-] | [day2:: 22-]

@@ -28,15 +28,13 @@ created: 2026-01-22T15:47
 
 - **md5:** MD5 hash de 251231_COMUNICADO_MV3_INFORMA_LAUDO.pdf: b3468aa89daf9a2cb96450feeb14f808
 
-- **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Storage:** [[Google Drive Heleri Adm]]
 
-- **Link:** [[251231_COMUNICADO_MV3_INFORMA_LAUDO.pdf]]
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/file/d/1brcOITIIxdRLZVT70neZzxAMfFn9Tsj6/view?usp=sharing
 
 # Visualização 
 
-![[251231_COMUNICADO_MV3_INFORMA_LAUDO.pdf]]
-
+<iframe src="https://drive.google.com/file/d/1brcOITIIxdRLZVT70neZzxAMfFn9Tsj6/preview" width="640" height="480"></iframe>
 # metadado
 
 [year:: 2026] | [month:: 01] | [day:: 22] | [dayWeek:: Thursday] | [dayWeekShort:: Thu] | [monthYear:: Jan] | [weekNumber:: 04] | [quarter:: 1] | [dayOfYear:: 022] | [weekNumber2:: 04-] | [month2:: 01-] | [day2:: 22-]

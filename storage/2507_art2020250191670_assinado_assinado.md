@@ -32,12 +32,12 @@ created: 2026-01-22T14:02
 
 - **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
 
-- **Link:** [[2507_art2020250191670_assinado_assinado.pdf]]
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=2507_art2020250191670_assinado_assinado
+
 
 # Visualização 
 
-![[2507_art2020250191670_assinado_assinado.pdf]]
+<iframe src="https://drive.google.com/file/d/1LzjIJs9w2TcNeZVrKZeo2ttk9I0IB2ei/preview" width="640" height="480"></iframe>
 
 # metadado
 

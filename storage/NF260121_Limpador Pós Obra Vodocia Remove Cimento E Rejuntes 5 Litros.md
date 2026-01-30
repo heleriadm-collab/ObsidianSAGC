@@ -27,12 +27,13 @@ created: 2026-01-21T18:17
 - **md5:** MD5 hash de 20260121_Limpador Pós Obra Vodocia Remove Cimento E Rejuntes 5 Litros.pdf:
 		- 91063bd39249832418e4b588db862d26
 
-- **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Storage:** [[Google Drive Heleri Adm]]
 
-- **Link:** [[20260121_Limpador Pós Obra Vodocia Remove Cimento E Rejuntes 5 Litros.pdf]]
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/file/d/1Wm0CuCk5TziXXftur2y-6XSjvAu1MgbR/view?usp=sharing
 
-![[20260121_Limpador Pós Obra Vodocia Remove Cimento E Rejuntes 5 Litros.pdf]]
+# Visualização
+
+<iframe src="https://drive.google.com/file/d/1Wm0CuCk5TziXXftur2y-6XSjvAu1MgbR/preview" width="640" height="480"></iframe>
 # metadado
 
 [year:: 2026] | [month:: 01] | [day:: 21] | [dayWeek:: Wednesday] | [dayWeekShort:: Wed] | [monthYear:: Jan] | [weekNumber:: 04] | [quarter:: 1] | [dayOfYear:: 021] | [weekNumber2:: 04-] | [month2:: 01-] | [day2:: 21-]

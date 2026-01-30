@@ -11,7 +11,7 @@ summary:
 
 - **Quando**: [[2026-01-06#19 00 Reunião - Gestão Heleri - Heleri proposição de Distrato]]
 
-- **Onde:** 
+- **Onde:** vídeo conferência
 
 - **Pauta:** distrato por [[inadimplemento da contratada]]
 
@@ -19,12 +19,20 @@ summary:
 
 - **Publicidade:**
 
-- **Documento:** [[20260106_ATA DE REUNIAO_Heleri_MV3_v3_final.pdf]]
+- **Documento:** 
 		- **md5:** **b5ed43169958f53b338337f3593284bb**
 
 - **Ata:** vide [[#Redação v3 - FINAL]]
 
 - **Compõe:** [[Q260109_1847 Providência ao Pedido de Distrato]]
+
+- **Storage:** [[Google Drive Heleri Adm]]
+
+- **Link:** https://drive.google.com/file/d/1X_tYGJ6N1hwHsQgUKvH2BbFw_pDjD93C/view?usp=sharing
+
+# Visualização
+
+<iframe src="https://drive.google.com/file/d/1X_tYGJ6N1hwHsQgUKvH2BbFw_pDjD93C/preview" width="640" height="480"></iframe>
 
 # Redação v3 - FINAL
 

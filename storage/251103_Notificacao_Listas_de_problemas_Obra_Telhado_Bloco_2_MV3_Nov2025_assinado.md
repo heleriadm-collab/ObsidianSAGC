@@ -11,12 +11,12 @@ created: 2026-01-22T14:35
 - **Descrição:** Notificação à [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] diante de evidências registradas em vídeo e no [[Grupo Whatsapp Acompanhamento Obras Telhado BL2]]
 		- **Arquivo:** ` 251103_Notificacao_Listas_de_problemas_Obra_Telhado_Bloco_2_MV3_Nov2025_assinado.pdf `
 		- ... e também arquivos correlatos complementares:
-		- [[251105_À MV3 Engenharia - Parte 1.pdf]]
-		- [[251105_À MV3 Engenharia - Parte 2.pdf]]
+		- [251105_À MV3 Engenharia - Parte 1.pdf](https://drive.google.com/file/d/1sbvstsXFpf6S4SM2vOOom1jW8LnIvR5E/view?usp=sharing)
+		- [251105_À MV3 Engenharia - Parte 2.pdf](https://drive.google.com/file/d/1NlTWtHMfeOTS2J4wPiDynMNoBu1CLHpr/view?usp=sharing)
 		- ...
-		- vide [[#Visualização]]
+		- vide (1) [[#Visualização]] (2) [[#Parte 1]] (3) [[#Parte 2]]
 
-- **Objetivo:** (1) Notificar permanência dos vícios 
+- **Objetivo:** **(1)** Notificar permanência dos vícios 
 		- **(2)** Expor registros conforme gravados em 
 		- **(2.1)** [[2601 Playlist compilação Vídeos status Telhado BL2 ANTES e DURANTE Obras#02 novembro 2025 - Pós anúncio término das obras telhado Bloco 2]] 
 		- **(2.2)** [[2601 Playlist compilação Vídeos status Telhado BL2 ANTES e DURANTE Obras#02 novembro 2025 - Ralo disfuncional por impossibilidade de escoamento]]
@@ -42,17 +42,22 @@ created: 2026-01-22T14:35
 
 - **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
 
-- **Link:** **(1)** [[251103_Notificacao_Listas_de_problemas_Obra_Telhado_Bloco_2_MV3_Nov2025_assinado.pdf]] 
-		- **(2)** [[251105_À MV3 Engenharia - Parte 1.pdf]] 
-		- **(3)** [[251105_À MV3 Engenharia - Parte 2.pdf]]
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** **(1)** https://drive.google.com/file/d/1dukZWHV82Jfsu3_kZSnB48Y4Pung-TP-/view
+		- **(2)** **251105_À MV3 Engenharia - Parte 1:**  https://drive.google.com/file/d/1sbvstsXFpf6S4SM2vOOom1jW8LnIvR5E/view?usp=sharing
+		- **(3)** **251105_À MV3 Engenharia - Parte 2:** https://drive.google.com/file/d/1NlTWtHMfeOTS2J4wPiDynMNoBu1CLHpr/view?usp=sharing
+
 
 # Visualização
 
-![[251103_Notificacao_Listas_de_problemas_Obra_Telhado_Bloco_2_MV3_Nov2025_assinado.pdf]]
+<iframe src="https://drive.google.com/file/d/1dukZWHV82Jfsu3_kZSnB48Y4Pung-TP-/preview" width="640" height="480"></iframe>
 
+## Parte 1
 
-![[251105_À MV3 Engenharia - Parte 2.pdf]]
+<iframe src="https://drive.google.com/file/d/1sbvstsXFpf6S4SM2vOOom1jW8LnIvR5E/preview" width="640" height="480"></iframe>
+
+## Parte 2
+
+<iframe src="https://drive.google.com/file/d/1NlTWtHMfeOTS2J4wPiDynMNoBu1CLHpr/preview" width="640" height="480"></iframe>
 
 # metadado
 

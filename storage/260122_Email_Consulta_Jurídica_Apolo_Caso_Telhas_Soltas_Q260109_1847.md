@@ -27,13 +27,11 @@ created: 2026-01-22T11:08
 
 - **md5:** 
 
-- **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Storage:** [[Google Drive Heleri Adm]]
 
-- **Link:** [[260122_Email_Consulta_Jurídica_Apolo_Caso_Telhas_Soltas_Q260109_1847.pdf]]
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/file/d/1YZhPun7KuTzhiZF_13iD2mk-x52s_1To/view?usp=sharing
 
-![[260122_Email_Consulta_Jurídica_Apolo_Caso_Telhas_Soltas_Q260109_1847.pdf]]
-
+<iframe src="https://drive.google.com/file/d/1YZhPun7KuTzhiZF_13iD2mk-x52s_1To/preview" width="640" height="480"></iframe>
 # Transcrição
 
 Heleri <heleri.adm@gmail.com>

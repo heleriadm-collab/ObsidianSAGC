@@ -26,9 +26,13 @@ created: 2026-01-12T13:00
 
 - **md5:** 757c6154994bdc3254004ac94dc5bc6b
 
-- **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Storage:** [[Google Drive Heleri Adm]]
 
-- **Link:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=20260109_Comunicado_Posicao_MV3_AoPedidoDistrato
+
+# Visualização
+
+<iframe src="https://drive.google.com/file/d/1y4ovzVGLCs12AwIuJQtpFtn1k-_BIM2H/preview" width="640" height="480"></iframe>
 
 # Transcrição
 

@@ -29,11 +29,10 @@ created: 2026-01-22T14:53
 
 - **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
 
-- **Link:** [[250705_Vistorias Telhado_incidente_falta_ralo.pdf]]
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=250705_Vistorias
 
-![[250705_Vistorias Telhado_incidente_falta_ralo.pdf]]
 
+<iframe src="https://drive.google.com/file/d/1ZM0_WNl1Fy5UPtVN1H7_mUHhfWpDlVwA/preview" width="640" height="480"></iframe>
 # metadado
 
 [year:: 2026] | [month:: 01] | [day:: 22] | [dayWeek:: Thursday] | [dayWeekShort:: Thu] | [monthYear:: Jan] | [weekNumber:: 04] | [quarter:: 1] | [dayOfYear:: 022] | [weekNumber2:: 04-] | [month2:: 01-] | [day2:: 22-]
