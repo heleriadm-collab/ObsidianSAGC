@@ -31,10 +31,6 @@ summary:
 
 ## Bateria 01 de Upload Arquivos - Storage Documentos
 
-https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=
-
-
-
 
 
 1. [[2507_art2020250191670_assinado_assinado]]: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=2507_art2020250191670_assinado_assinado

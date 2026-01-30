@@ -4,15 +4,7 @@
 
 !!! Para ficar atualizado, sempre é possível começar lendo o **[[Visão Geral#Diário Bordo do Mês]]**
 
-# 20:05 Ato Adm. - Normalização Storage Arquivos
 
-- Em [[Gestão Condominial do Heleri]], segue registro de ato..
-		- **Motivação:** [[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm]]
-		- **Registra-se:** 
-			- **QUE** [[Leonardo 402]] faz normalização de [[storage SAGC Heleri]] para documentos ficarem em [[Google Drive Heleri Adm]]
-			- 
-		- ---
-		- **Ref.:** [[ato administrativo]]
 
 
 # [Diário](https://heleriadm-collab.github.io/SAGCHeleri/diario/) 
