@@ -4,7 +4,7 @@ created: 2026-01-15T16:57
 ---
 
 
-#adm/recurso #adm/reuniao 
+#adm/recurso #adm/reuniao #adm/AGE
 
 # Pauta
 
