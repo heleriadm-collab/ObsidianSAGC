@@ -188,3 +188,78 @@ FROM #pessoa/morador
 
 
 
+<!-- 
+AO DIA 29/01/2026
+
+# 21:48 Questão - Heleri - Vazamento cano externo bl2 entre Andar 1 e 2
+
+- No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260129_2148 Vazamento cano externo bl2 entre Andar 1 e 2]]
+		- **Descrição:** 
+			- **QUE** foi verificado vazamento descendo por coluna da [[Garagem]], advindo do [[Bloco 2]], posição entre cozinha e antessala OU da [[Unidade 102]] OU da [[Unidade 202]] (a averiguar)
+			- **QUE** imagem registra-se em https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Q260129_2148
+		- **Quando:** visto às 14:37 (29/01)
+		- **Onde:** escorrendo por coluna [[Garagem]] entre [[Unidade 102]] e/OU da [[Unidade 202]]
+		- ---
+		- **Ref.:** [[registro questão]], [[registro de dano - avaria]]
+
+- [ ] [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260129_2148 Vazamento cano externo bl2 entre Andar 1 e 2]] avaliar competência e dar ciência as partes
+
+[[Google Drive Heleri Adm]]
+```shell
+Heleri-registro questao-Q260129_2148-vazemento-bl2-andar 1 OU 2
+```
+
+# 21:36 Ato Adm. - Cadastro Cometa Como Fornecedor Heleri
+
+- Em [[Gestão Condominial do Heleri]], segue registro de ato..
+		- **Motivação:** (1) cadastro de carteira de fornecedores (2) opção próxima, de pronta entrega (3) opção com política de devolução testada
+		- **Registra-se:** 
+			- **QUE** [[Síndica]] solicita averiguar com [[Cometa Material Construção - fornecedor]] a respeito de cadastro/credenciamento do Heleri
+			- **QUE** gerente comercial da Cometa, Sr [[Moises - Cometa]] informa que irá enviar formulário para cadastro
+			- **QUE** Sr [[Moises - Cometa]] informa que o faturamento é mensal e segue plano de parcelamento padrão (até R$ 600 em até 4x e à partir de R$ 1200 em 6x)
+			- **QUE** Sr [[Moises - Cometa]] poderá analisar preço de material de recorrência (limpeza, por exemplo), para eventualmente cobrir oferta
+			- **QUE** gerente da Cometa também informa que nota fiscal/boleto-parcelamento sairá registrado no CNPJ do Condomínio
+			- ---
+			- **QUE** para prosseguimento, fica registrada questão [[questoes/Q260129_2144]]
+		- ---
+		- **Ref.:** [[ato administrativo]], [[registro levantamento]], [[registro fornecedor]], [[registro questão]]
+
+# 20:05 Ato Adm. - Normalização Storage Arquivos
+
+- Em [[Gestão Condominial do Heleri]], segue registro de ato..
+		- **Motivação:** [[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm]]
+		- **Registra-se:** 
+			- **QUE** [[Leonardo 402]] faz normalização de [[storage SAGC Heleri]] para documentos ficarem em [[Google Drive Heleri Adm]]
+			- **QUE** foi realizado upload/migração dos arquivo [[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm#Bateria 01 de Upload Arquivos - Storage Documentos]] para [[Google Drive Heleri Adm]]
+		- ---
+		- **Ref.:** [[ato administrativo]], [[registro configuração]]
+
+
+# 18:18 Visita de Rotina SOS Elevadores - Sr Flavio
+
+QUE SOS Elevadores realiza visita de rotina, através do técnico Sr Flavio SOS
+QUE Leonardo 402 franqueou acesso Sr Flavio as dependência da Casa de Máquinas
+QUE ao fim da inspeção de rotina Sr Flavio entregou "Cartão de Conservação Mensal", e instruiu que deverá ser utilizado e preenchido em próximas visitas
+
+# 17:29 Registrar
+
+QUE foi realizado pedido de avaliação de financiamento de Condomínios [[CashMe]] da construtora CYRELA 
+QUE Consultora atendente foi "Isis Dias" via contato whatsapp +55 11 93244-1176
+QUE foram passadas informações iniciais
+[15:23, 29/01/2026] Isis CYRELA CashMe Dias: Nome do condomínio: Totalmente residencial? Quantas unidades? Para qual finalidade o condomínio busca recurso? Qual valor o condomínio busca?
+[17:29, 29/01/2026] LS: Em todo caso nosso contexto é:
+Prédio, Rio de Janeiro, região da Tijuca, 8,3 Unidades (0,3 - referente Cobertura).
+Sou marido da Síndica, e ajo como Secretário, fazendo orçamentos e levantamentos conforme ela solicita.
+Dados Condomínio: 
+Condomínio Edifício Heleri  
+*CNPJ:* 73.211.799/0001-39 
+*Endereço:* Rua Silva Guimarães, nº 24 – Tijuca – Rio de Janeiro/RJ  
+Representante Legal: Ana Tereza
+
+
+# 18:01 Pedido Esclarecimento
+
+QUE Marcelo 101 solicita, via Grupo Heleri, esclarecimento sobre pedido de nova AGE
+
+
+-->
