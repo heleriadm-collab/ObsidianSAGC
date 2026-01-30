@@ -263,3 +263,17 @@ QUE Marcelo 101 solicita, via Grupo Heleri, esclarecimento sobre pedido de nova 
 
 
 -->
+
+<!-- 
+
+poderia resumir o que está disposto na página 
+https://heleriadm-collab.github.io/SAGCHeleri/questoes/Q260107_1225-Unidade-102---Solicita-Esclarecimentos-Obras-Telhado-Bl-2?
+
+....
+https://chat.deepseek.com/
+https://chatgpt.com/
+
+
+Considerando timeline do mermaid (tal como exemplo abaixo), peço montar timeline semanal das issues registradas no sistema
+
+-->
