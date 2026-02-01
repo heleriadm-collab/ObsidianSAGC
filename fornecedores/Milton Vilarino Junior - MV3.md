@@ -8,14 +8,14 @@ created: 2026-01-06T16:47
 
 
 - **Descrição:** Gestor titular/sócio da [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]]
-		- **Razão Social:** 
-		- **CNPJ:** 
+		- **Razão Social:** VILARINOS EMPREENDIMENTOS LTDA (MV3 ENGENHARIA)
+		- **CNPJ:** 36.117.641/0001-78
 		- **Nome Completo:** Milton Vilarino Junior
 		- **CPF:** 025.760.737-43
 
 - **Endereço:** Rua Pompílio da Rocha, 76 - Campo Grande - Rio de Janeiro/RJ
 
-- **Contato:** 
+- **Contato:** [[+55 21 97085-9618 - Milton MV3]]
 
 - **Links:** 
 
