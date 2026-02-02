@@ -2,7 +2,7 @@
 > O **SAGC** é a forma que **Gestão 2026** encontrou de **estar presente mesmo** quando precisar estar **ausente**
 
 
-!!! Para ficar atualizado, sempre é possível começar lendo o **[[Visão Geral#Diário Bordo do Mês]]**
+!!! Para ficar atualizado, sempre é possível começar lendo o **[[Visão Geral#Diário Bordo do Mês]]** <= **[[Visão Geral#Diário Bordo do Mês|CLIQUE AQUI]]**
 
 
 
@@ -10,14 +10,15 @@
 # [Diário](https://heleriadm-collab.github.io/SAGCHeleri/diario/) 
 
 
-| Semana         | S                               | T                               | Q                               | Q                               | S                               | S                               | D                               |
-| -------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
-| semana 01/2026 |                                 |                                 |                                 |                                 |                                 | [[diario/2026-01-03.md\|03.01]] | [[diario/2026-01-04.md\|04.01]] |
-| semana 02/2026 | [[diario/2026-01-05.md\|05.01]] | [[diario/2026-01-06.md\|06.01]] | [[diario/2026-01-07.md\|07.01]] | [[diario/2026-01-08.md\|08.01]] | [[diario/2026-01-09.md\|09.01]] |                                 | [[diario/2026-01-11.md\|11.01]] |
-| semana 03/2026 | [[diario/2026-01-12.md\|12.01]] | [[diario/2026-01-13.md\|13.01]] | [[diario/2026-01-14.md\|14.01]] | [[diario/2026-01-15.md\|15.01]] | [[diario/2026-01-16.md\|16.01]] |                                 |                                 |
-| semana 04/2026 |                                 | [[diario/2026-01-20.md\|20.01]] | [[diario/2026-01-21.md\|21.01]] | [[diario/2026-01-22.md\|22.01]] | [[diario/2026-01-23.md\|23.01]] | [[diario/2026-01-24.md\|24.01]] | [[diario/2026-01-25.md\|25.01]] |
-| semana 05/2026 | [[diario/2026-01-26.md\|26.01]] | [[diario/2026-01-27.md\|27.01]] | [[diario/2026-01-28.md\|28.01]] | [[diario/2026-01-29.md\|29.01]] | [[diario/2026-01-30.md\|30.01]] | [[diario/2026-01-31.md\|31.01]] | [[diario/2026-02-01.md\|01.02]] |
-| semana 06/2026 |                                 |                                 |                                 |                                 |                                 |                                 |                                 |
+| Semana         | S                                | T                                | Q                                | Q                                | S                                | S                                | D                                |
+| -------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| semana 01/2026 |                                  |                                  |                                  |                                  |                                  | [[diario/2026-01-03.md\|03 JAN]] | [[diario/2026-01-04.md\|04 JAN]] |
+| semana 02/2026 | [[diario/2026-01-05.md\|05 JAN]] | [[diario/2026-01-06.md\|06 JAN]] | [[diario/2026-01-07.md\|07 JAN]] | [[diario/2026-01-08.md\|08 JAN]] | [[diario/2026-01-09.md\|09 JAN]] |                                  | [[diario/2026-01-11.md\|11 JAN]] |
+| semana 03/2026 | [[diario/2026-01-12.md\|12 JAN]] | [[diario/2026-01-13.md\|13 JAN]] | [[diario/2026-01-14.md\|14 JAN]] | [[diario/2026-01-15.md\|15 JAN]] | [[diario/2026-01-16.md\|16 JAN]] |                                  |                                  |
+| semana 04/2026 |                                  | [[diario/2026-01-20.md\|20 JAN]] | [[diario/2026-01-21.md\|21 JAN]] | [[diario/2026-01-22.md\|22 JAN]] | [[diario/2026-01-23.md\|23 JAN]] | [[diario/2026-01-24.md\|24 JAN]] | [[diario/2026-01-25.md\|25 JAN]] |
+| semana 05/2026 | [[diario/2026-01-26.md\|26 JAN]] | [[diario/2026-01-27.md\|27 JAN]] | [[diario/2026-01-28.md\|28 JAN]] | [[diario/2026-01-29.md\|29 JAN]] | [[diario/2026-01-30.md\|30 JAN]] | [[diario/2026-01-31.md\|31 JAN]] | [[diario/2026-02-01.md\|01 FEV]] |
+| semana 06/2026 |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
+
 
 
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
@@ -65,6 +66,11 @@ As **questões** surgem à partir de registros diários de **situações pendent
 **Link das Questões =>** https://heleriadm-collab.github.io/SAGCHeleri/questoes/
 
 **Link Questões ENCERRADAS =>**  [[Visão Geral#FEITO]]
+
+
+
+
+
 
 ```mermaid
 timeline
