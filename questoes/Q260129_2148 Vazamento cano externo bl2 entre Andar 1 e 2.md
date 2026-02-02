@@ -26,6 +26,26 @@ summary:
 
 - **Termo encerramento:** 
 
+- [ ] comunicado às partes
+- [ ] identificação da origem
+- [ ] providência de reparo
+
+
+# Fotos
+
+<iframe src="https://drive.google.com/file/d/16Nsd7crVFdKEY5l8KNBIENnZU1kcfBcY/preview" width="640" height="480"></iframe>
+
+
+<iframe src="https://drive.google.com/file/d/1_aWnr-CIOrLEgNggFoC5_GADYHf9C-Jk/preview" width="640" height="480"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1i_r9EQIfqMhzpFZmf5c4AJkiIqVehWbN/preview" width="640" height="480"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1gEXclFgbBuTyb_KUwT9lnIDEh6xDCksj/preview" width="640" height="480"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1Zqe97_Cm6RnaQ2TMouKlY5tjHDwV0un1/preview" width="640" height="480"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1dgoJtP9FKjrtDin64bz4efOFBPK2gGE8/preview" width="640" height="480"></iframe>
+
 
 
 # metadado
