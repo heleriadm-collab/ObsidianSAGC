@@ -26,41 +26,23 @@
 
 # Eventos Relevantes
 
-### RETORNO SR ROGERIO
+### RETORNO SR ROGERIO - próxima QUARTA
 
 > Sr Rogério **retorna das férias** dia **04/FEV**
 
+## [[AGE - Fevereiro 2026]] - próximo DOMINGO
 
+> Online no domingo 08/FEV/2026. 
+> **Link:** https://meet.google.com/igm-qauf-wrk?authuser=0
+> **Assuntos:** 
+> 
+(1) [[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]
 
-# SOBRE O SACG Heleri
+(2) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
 
-O **Sistema de Apoio a Gestão Condominial Heleri** ou **SACG Heleri** divulga informações acerca da gestão condominial.
+(3) [[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]
 
-No **SACG Heleri** é possível acompanhar diariamente atos e registros tomados pela Gestão iniciada em 2026.
-
-
-![Institucional - SAGC](https://youtu.be/V5lCcjIuU90)
-
-
-
----
-# Sobre as Questões Registradas
-
-
-As **questões** surgem à partir de registros diários de **situações pendentes**, **a resolver**, ou que **implicam em processos específicos** e/ou **obrigatórios**, tal como registro de nota fiscal, ou providência de correção.
-
-> O registro de questões é importante para enxergarmos **o quanto há para ser feito**.
-
-
-**Se** você **puder ajudar** na resolução de alguma questão registrada, **TODA E QUALQUER AJUDA SERÁ BEM VINDA!**
-
-
-
-**Todas Questões CLIQUE EM =>** [TODAS QUESTÕES](https://heleriadm-collab.github.io/SAGCHeleri/questoes/)
-
-**Questões ENCERRADAS CLIQUE EM =>**  [[Visão Geral#FEITO]]
-
-
+(4) [[Q260129_0914 Fundo de manutenção]]
 
 ```mermaid
 %%{init: {
@@ -83,45 +65,47 @@ As **questões** surgem à partir de registros diários de **situações pendent
   "
 }}%%
 timeline
-    title Heleri — Registro semanal de Questoes (Jan/2026)
-
-    semana 02/2026 : Q260103_2013 Entrada Sr Waldeci
-                 : Q260105_1445 Aquisição de Tampa de Bueiro Hidráulico
-                 : Q260105_1446 Roubo da Tampa Metálica Bueiro
-                 : Q260105_1449 Corrimão Escada Primeiro Andar - Portaria Danificado
-                 : Q260105_1452 Troca Luzes Emergência Escada
-                 : Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada
-                 : Q260106_2247 Aquisição Sacos de Lixo
-                 : Q260107_1225 Unidade 102 - Solicita Esclarecimentos Obras Telhado Bl 2
-                 : Q260107_1745 Heleri - Troca nome condômino 402 - Continua Maria de Fatima
-                 : Q260108_1435 Determinar Local Armazenar Notas Fiscais Aquisições
-                 : Q260108_1916 Novos Moradores 302 - Apoio Mudança e Orientações
-                 : Q260108_2229 Regramento de Trânsito com Cão
-                 : Q260111_1954 Conta de Acesso Sistema da Administradora Apolo
-
-    semana 03/2026 : Q260112_1537 Registro de Risco no Portão Entrada
-                 : Q260112_1543 Converter Livro Registros Condomínio para Digital
-                 : Q260112_1554 Dúvidas Leitura Pasta Dezembro 2025
-                 : Q260112_1627 Projeto e Orçamento de Tela Terraço
-                 : Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado
-                 : Q260113_0742 Troca Lâmpada da Lixeira
-                 : Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm
-                 : Q260114_1117 Casa Marimbondo crescendo na frente do prédio
-                 : Q260114_1226 Obstrução Duto Lixeira
+    title Heleri — QUESTÕES ENDEREÇADAS ÀS AGEs
+    AGE JAN 2026 : Q260109_1847 Providência ao Pedido de Distrato
+    AGE FEV 2026 : Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado
                  : Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia
-                 : Q260115_1812 Registro Orientações Apolo 13-jan-26
-                 : Q260115_1828 Reforço Publicidade Contato SOS Elevadores e Instrução Funcionário
-                 : Q260116_1105 Mudança Quantidade de Toques Interfone - Consulta e Análise
-
-    semana 04/2026 : Q260121_1804 Sobre Piso Portaria Interna - Restauração
-                 : Q260121_1900 Mangueira Fora Prazo Validade
-                 : Q260121_2116 Ausência Mangueira Incêndio Hall Andar 4
-                 : Q260121_2128 Tampo Vaso Sanitário Quarto Zelador
-                 : Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia
-                 : Q260121_2132 Produto Limpeza Restauração Mármore Hall Andares
-                 : Q260122_1126 Apolo Cobra Ata de Eleição Adm 2026
+                 : Q260129_0914 Fundo de manutenção
+                 : Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis
 
 ```
+
+
+# SOBRE O SACG Heleri
+
+O **Sistema de Apoio a Gestão Condominial Heleri** ou **SACG Heleri** divulga informações acerca da gestão condominial.
+
+No **SACG Heleri** é possível acompanhar diariamente atos e registros tomados pela Gestão iniciada em 2026.
+
+
+![Institucional - SAGC](https://youtu.be/V5lCcjIuU90)
+
+
+
+---
+# Sobre o REGISTRO DE QUESTÕES
+
+
+A maior parte das ocorrências do Condomínio, não poderão, por motivo de força maior, serem resolvidas em imediato. Então para que haja um acompanhamento na evolução das ocorrências, sejam elas dúvidas, incidentes e/ou problemas, existe o **REGISTRO DE QUESTÕES**.
+
+As **questões** surgem à partir de registros diários de **situações pendentes**, **a resolver**, ou que **implicam em processos específicos** e/ou **obrigatórios**, tal como registro de nota fiscal, apuração de despesa, ou providência de reparo/correção.
+
+> O registro de questões é importante para enxergarmos **o quanto há para ser feito**.
+
+
+**Se** você **puder ajudar** na resolução de alguma questão registrada, **TODA E QUALQUER AJUDA SERÁ BEM VINDA!**
+
+
+
+**Todas Questões CLIQUE EM =>** [TODAS QUESTÕES](https://heleriadm-collab.github.io/SAGCHeleri/questoes/)
+
+**Questões ENCERRADAS CLIQUE EM =>**  [[Visão Geral#FEITO]]
+
+
 
 
 ---
