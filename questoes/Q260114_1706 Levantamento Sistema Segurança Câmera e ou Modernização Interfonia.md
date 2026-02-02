@@ -30,6 +30,59 @@ summary:
 - **Termo encerramento:** 
 
 
+---
+
+# Levantamento
+
+
+definir pontos das câmeras
+
+serviço de instalação de tomadas elétricas
+serviço de instalação de cabos de rede para os repetidores
+Contratar serviço de internet
+comprar cabos elétricos PP (área externa)
+comprar cabos de rede blindados
+comprar repetidor de sinal de wi-fi 
+comprar cartão de memória
+[21:03, 01/02/2026] Ana: Olha o que eu encontrei! Kit 4 Câmera Segurança Dupla Prova Dágua Wifi Hd Icsee A28 Branco no Mercado Livre. Entra aqui:  https://www.mercadolivre.com.br/up/MLBU781814895?pdp_filters=item_id:MLB4887048264#origin=share&sid=share&wid=MLB4887048264&action=whatsapp
+
+## Descrição
+
+CAMERA DE SEGURANÇA 2 EM 1 COM 2 ANTENAS 360º 
+Uma câmera de segurança 2 em 1 é um dispositivo avançado projetado para oferecer funcionalidades de vigilância eficazes tanto durante o dia quanto à noite. 
+
+Ela integra duas tecnologias principais em um único aparelho, oferecendo versatilidade e conveniência para monitoramento de segurança em ambientes residenciais ou comerciais. 
+
+Com duas câmeras em apenas um aparelho de design robusto e resistente, construído com materiais duráveis que garantem proteção contra as condições climáticas adversas. Lente dupla, tela dupla, zoom 4x, alarme de luz policial, rastreamento humanóide, monitoramento de interfone de voz bidirecional 360, visão noturna colorida, IP66 à prova d'água, monitoramento remoto de telefone celular, compartilhar vídeo, armazenamento do cartão do SD, 24 horas gravação video. 
+
+Características: 
+- 2 Câmeras Fixa + Rotativa 360º 
+- Quantidade de Antenas: 2 - Formato do Vídeo- 3MP/3MP 
+- Visibilidade noturna Infravermelho: 10 metros de distância 
+- Microfone de Entrada Embutido e Alto Falante 
+- Conexão via Cabo Ethernet ou Wifi 
+
+Compatibilidade mobile: iOS e Android - Aplicativo Icsee 
+- Lente: 3,6mm 
+- Bivolt (110v/220v) 
+
+
+Itens Inclusos: 
+04 x Câmera IP 2 em 1 
+04 x Suporte de Fixação na parede 
+08 x Parafusos e Buchas 
+04 x Fonte de Energia 
+04 x Cabo de Conexão com internet e Energia 
+
+Garantia do vendedor: 30 dias
+
+```shell
+Heleri-Ato Adm-
+```
+
+
+
+
 
 # metadado
 
