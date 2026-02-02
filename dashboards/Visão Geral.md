@@ -61,6 +61,286 @@ created: 2026-01-05T09:32
 
 <!-- SerializedQuery END -->
 
+
+  <main class="heleri-labels">
+    <section class="sheet">
+
+      <!-- ===================== -->
+      <!-- Semana 02/2026         -->
+      <!-- ===================== -->
+      <article class="label">
+        <div>
+          <div class="code">Q260103_2013</div>
+          <div class="desc">Entrada Sr Waldeci</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260105_1445</div>
+          <div class="desc">Aquisição de Tampa de Bueiro Hidráulico</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260105_1446</div>
+          <div class="desc">Roubo da Tampa Metálica Bueiro</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260105_1449</div>
+          <div class="desc">Corrimão Escada Primeiro Andar - Portaria Danificado</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260105_1452</div>
+          <div class="desc">Troca Luzes Emergência Escada</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260105_2313</div>
+          <div class="desc">Escada Marinheiro Descida Ao Telhado - Danificada</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260106_2247</div>
+          <div class="desc">Aquisição Sacos de Lixo</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260107_1225</div>
+          <div class="desc">Unidade 102 - Solicita Esclarecimentos Obras Telhado Bl 2</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260107_1745</div>
+          <div class="desc">Heleri - Troca nome condômino 402 - Continua Maria de Fatima</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260108_1435</div>
+          <div class="desc">Determinar Local Armazenar Notas Fiscais Aquisições</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260108_1916</div>
+          <div class="desc">Novos Moradores 302 - Apoio Mudança e Orientações</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260108_2229</div>
+          <div class="desc">Regramento de Trânsito com Cão</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260111_1954</div>
+          <div class="desc">Conta de Acesso Sistema da Administradora Apolo</div>
+        </div>
+        <div class="footer"><span>Semana 02/2026</span><span>Heleri</span></div>
+      </article>
+
+      <!-- ===================== -->
+      <!-- Semana 03/2026         -->
+      <!-- ===================== -->
+      <article class="label">
+        <div>
+          <div class="code">Q260112_1537</div>
+          <div class="desc">Registro de Risco no Portão Entrada</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260112_1543</div>
+          <div class="desc">Converter Livro Registros Condomínio para Digital</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260112_1554</div>
+          <div class="desc">Dúvidas Leitura Pasta Dezembro 2025</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260112_1627</div>
+          <div class="desc">Projeto e Orçamento de Tela Terraço</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260112_1654</div>
+          <div class="desc">Visita SOS Elevadores Que Trava Abaixo do Peso Especificado</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260113_0742</div>
+          <div class="desc">Troca Lâmpada da Lixeira</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260113_1054</div>
+          <div class="desc">Análise-Estudo Migração Google Drive para heleri.adm</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260114_1117</div>
+          <div class="desc">Casa Marimbondo crescendo na frente do prédio</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260114_1226</div>
+          <div class="desc">Obstrução Duto Lixeira</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260114_1706</div>
+          <div class="desc">Levantamento Sistema Segurança Câmera e ou Modernização Interfonia</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260115_1812</div>
+          <div class="desc">Registro Orientações Apolo 13-jan-26</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260115_1828</div>
+          <div class="desc">Reforço Publicidade Contato SOS Elevadores e Instrução Funcionário</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260116_1105</div>
+          <div class="desc">Mudança Quantidade de Toques Interfone - Consulta e Análise</div>
+        </div>
+        <div class="footer"><span>Semana 03/2026</span><span>Heleri</span></div>
+      </article>
+
+      <!-- ===================== -->
+      <!-- Semana 04/2026         -->
+      <!-- ===================== -->
+      <article class="label">
+        <div>
+          <div class="code">Q260121_1804</div>
+          <div class="desc">Sobre Piso Portaria Interna - Restauração</div>
+        </div>
+        <div class="footer"><span>Semana 04/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260121_1900</div>
+          <div class="desc">Mangueira Fora Prazo Validade</div>
+        </div>
+        <div class="footer"><span>Semana 04/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260121_2116</div>
+          <div class="desc">Ausência Mangueira Incêndio Hall Andar 4</div>
+        </div>
+        <div class="footer"><span>Semana 04/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260121_2128</div>
+          <div class="desc">Tampo Vaso Sanitário Quarto Zelador</div>
+        </div>
+        <div class="footer"><span>Semana 04/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260121_2130</div>
+          <div class="desc">Recuperação Madeira Pintura Porta Quadro Energia</div>
+        </div>
+        <div class="footer"><span>Semana 04/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260121_2132</div>
+          <div class="desc">Produto Limpeza Restauração Mármore Hall Andares</div>
+        </div>
+        <div class="footer"><span>Semana 04/2026</span><span>Heleri</span></div>
+      </article>
+
+      <article class="label">
+        <div>
+          <div class="code">Q260122_1126</div>
+          <div class="desc">Apolo Cobra Ata de Eleição Adm 2026</div>
+        </div>
+        <div class="footer"><span>Semana 04/2026</span><span>Heleri</span></div>
+      </article>
+
+    </section>
+  </main>
+
 # Rotinas Derivadas de Tarefas
 
 <!-- 
@@ -107,6 +387,16 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
+- [[2026-02-01.md#14 30 Ato Adm - Gestão Heleri - Orçamento de Vistoria|2026-02-01 > 14 30 Ato Adm - Gestão Heleri - Orçamento de Vistoria]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** [[Q260109_1847 Providência ao Pedido de Distrato]]
+- **Registra-se:**
+- **QUE** [[Síndica]] recebeu o orçamento de laudo de vistoria e acompanhamento de obra
+- **QUE** [[Luiz Engenheiro técnico-perito]] informa o valor de R$ 950,00 para confecção de laudo e visita técnica o valor de R$ 500,00
+- **QUE** [[Síndica]] solicitou orçamento para emissão de ART
+- ---
+- **Ref.:** [[ato administrativo]] , [[registro levantamento]]
+
 - [[2026-02-01.md#13 12 Questão - Heleri - Fissura Parede Interna na Lixeira|2026-02-01 > 13 12 Questão - Heleri - Fissura Parede Interna na Lixeira]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260201_1312 Fissura Parede Interna na Lixeira]]
 - **Descrição:**
@@ -129,8 +419,10 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 - **Motivação:** [[Q260121_1804 - Sobre Piso Portaria Interna - Restauração]]
 - **Registra-se:**
 - **QUE** [[Síndica]] informa que irá terminar serviço conforme iniciado em [[2026-01-24#14 15 Ato Adm. - Restauração Piso Hidráulico]]
+- **QUE** ao fim Síndica informa haver necessidade de mais uma sessão de lixamento para conclusão da limpeza da cola resíduo do carpete
+- **QUE** posterior a remoção de toda cola resíduo do carpete, haverá aplicação de cera e que essa tarefa será solicitada ao Sr. [[Rogerio Zelador]]
 - ---
-- **Ref.:** [[ato administrativo]], [[registro manutenção]], [[Portaria Interna]], [[Andar Portaria]]
+- **Ref.:** [[ato administrativo]], [[registro manutenção]], [[Portaria Interna]], [[Andar Portaria]], [[registro planejamento]]
 
 - [[2026-01-31.md#15 05 Ato Adm - Autorização Lavar Carro|2026-01-31 > 15 05 Ato Adm - Autorização Lavar Carro]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
@@ -330,6 +622,15 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 - **Por quê:**
 - ---
 - **Ref.:** [[registro questão]]
+
+- [[2026-01-28.md#19 21 Ato Adm - Gestão Heleri - Recebimento de mangueira|2026-01-28 > 19 21 Ato Adm - Gestão Heleri - Recebimento de mangueira]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato.
+- **Motivação:** [[Q260121_2116 Ausência Mangueira Incêndio Hall Andar 4]]
+- **Registra-se:**
+- **QUE** Conselheiro [[Marcelo 101]] colocou a mangueira de volta a caixa do hidrante de incêndio
+-
+- ---
+- **Ref.:** [[ato administrativo]]
 
 - [[2026-01-27.md#22 43 Ato Adm - Gestão Heleri - Documento Complementar - Processo Administrativo CREA|2026-01-27 > 22 43 Ato Adm - Gestão Heleri - Documento Complementar - Processo Administrativo CREA]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..

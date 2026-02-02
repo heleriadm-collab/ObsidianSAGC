@@ -61,6 +61,7 @@ As **questões** surgem à partir de registros diários de **situações pendent
 **Questões ENCERRADAS CLIQUE EM =>**  [[Visão Geral#FEITO]]
 
 
+
 ```mermaid
 %%{init: {
   "theme": "base",
