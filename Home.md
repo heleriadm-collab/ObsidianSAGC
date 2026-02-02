@@ -24,6 +24,12 @@
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
 
+# Eventos Relevantes
+
+### RETORNO SR ROGERIO
+
+> Sr Rogério **retorna das férias** dia **04/FEV**
+
 
 
 # SOBRE O SACG Heleri
@@ -37,19 +43,6 @@ No **SACG Heleri** é possível acompanhar diariamente atos e registros tomados 
 
 
 
-# Eventos Relevantes
-
-### AGE JAN 2026
-
-**Quando ocorreu?** em [[2026-01-22#19 28 Reunião - Gestão Heleri - AGE JAN 2025]]
-
-**Apresentação guia:** [[2601_AGE_JAN_2026_Apresentacao]]
-
-Assembleia requisitada à partir de motivos registrados na questão: [[Q260109_1847 Providência ao Pedido de Distrato]]
-
-**Administração dará prosseguimento conforme decisões** e orientações **deliberadas na [[AGE - Janeiro 2026]]**.
-
----
 ---
 # Sobre as Questões Registradas
 
@@ -63,16 +56,31 @@ As **questões** surgem à partir de registros diários de **situações pendent
 
 
 
-**Link das Questões =>** https://heleriadm-collab.github.io/SAGCHeleri/questoes/
+**Todas Questões CLIQUE EM =>** [TODAS QUESTÕES](https://heleriadm-collab.github.io/SAGCHeleri/questoes/)
 
-**Link Questões ENCERRADAS =>**  [[Visão Geral#FEITO]]
-
-
-
-
+**Questões ENCERRADAS CLIQUE EM =>**  [[Visão Geral#FEITO]]
 
 
 ```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "#000000",
+    "primaryColor": "#000000",
+    "primaryBorderColor": "#ffffff",
+    "primaryTextColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "secondaryTextColor": "#ffffff",
+    "lineColor": "#ffffff",
+    "textColor": "#ffffff",
+    "fontFamily": "Inter, Arial, sans-serif"
+  },
+  "themeCSS": "
+    .timeline text { fill: #ffffff !important; }
+    .timeline rect { fill: #000000 !important; stroke: #ffffff !important; }
+    .timeline line { stroke: #ffffff !important; }
+  "
+}}%%
 timeline
     title Heleri — Registro semanal de Questoes (Jan/2026)
 
