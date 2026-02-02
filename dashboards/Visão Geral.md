@@ -13,14 +13,14 @@ created: 2026-01-05T09:32
 
 | Area                                 | Registro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>ADMINISTRADORA</li></ul>     | <ul><li>[[Q260107_1745 Heleri - Troca nome condômino 402 - Continua Maria de Fatima]]</li><li>[[Q260112_1543 Converter Livro Registros Condomínio para Digital]]</li><li>[[Q260112_1554 Dúvidas Leitura Pasta Dezembro 2025]]</li><li>[[Q260122_1126 Apolo Cobra Ata de Eleição Adm 2026]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                       |
+| <ul><li>ADMINISTRADORA</li></ul>     | <ul><li>[[Q260122_1126 Apolo Cobra Ata de Eleição Adm 2026]]</li><li>[[Q260112_1543 Converter Livro Registros Condomínio para Digital]]</li><li>[[Q260112_1554 Dúvidas Leitura Pasta Dezembro 2025]]</li><li>[[Q260107_1745 Heleri - Troca nome condômino 402 - Continua Maria de Fatima]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                       |
 | <ul><li>AQUISICAO</li></ul>          | <ul><li>[[Q260105_1445 Aquisição de Tampa de Bueiro Hidráulico]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| <ul><li>DANO_AVARIA</li></ul>        | <ul><li>[[Q260105_1449 Corrimão Escada Primeiro Andar - Portaria Danificado]]</li><li>[[Q260105_1452 Troca Luzes Emergência Escada]]</li><li>[[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]]</li><li>[[Q260129_2148 Vazamento cano externo bl2 entre Andar 1 e 2]]</li><li>[[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]</li><li>[[Q260131_0855 Infiltração apartamento 401]]</li><li>[[Q260201_1312 Fissura Parede Interna na Lixeira]]</li></ul> |
-| <ul><li>GESTAO</li></ul>             | <ul><li>[[Q260108_1916 Novos Moradores 302 - Apoio Mudança e Orientações]]</li><li>[[Q260108_2229 Regramento de Trânsito com Cão]]</li><li>[[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm]]</li><li>[[Q260115_1812 Registro Orientações Apolo 13-jan-26]]</li><li>[[Q260115_1828 Reforço Publicidade Contato SOS Elevadores e Instrução Funcionário]]</li></ul>                                                                                                                                                                                                                                     |
-| <ul><li>INFORMAR</li></ul>           | <ul><li>[[Q260105_2324 Calha Sobre Cobertura 01 Causa Infiltração]]</li><li>[[Q260108_1417 Remoção Tijolos Excedentes do Telhado BL2]]</li><li>[[Q260109_1847 Providência ao Pedido de Distrato]]</li><li>[[Q260116_1642 Falha Botão Portaria - Interno e Externo]]</li><li>[[Q260129_0914 Fundo de manutenção]]</li></ul>                                                                                                                                                                                                                                                                                                                                                         |
+| <ul><li>DANO_AVARIA</li></ul>        | <ul><li>[[Q260129_2148 Vazamento cano externo bl2 entre Andar 1 e 2]]</li><li>[[Q260131_0855 Infiltração apartamento 401]]</li><li>[[Q260201_1312 Fissura Parede Interna na Lixeira]]</li><li>[[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]</li><li>[[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]]</li><li>[[Q260105_1452 Troca Luzes Emergência Escada]]</li><li>[[Q260105_1449 Corrimão Escada Primeiro Andar - Portaria Danificado]]</li></ul> |
+| <ul><li>GESTAO</li></ul>             | <ul><li>[[Q260115_1828 Reforço Publicidade Contato SOS Elevadores e Instrução Funcionário]]</li><li>[[Q260115_1812 Registro Orientações Apolo 13-jan-26]]</li><li>[[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm]]</li><li>[[Q260108_2229 Regramento de Trânsito com Cão]]</li><li>[[Q260108_1916 Novos Moradores 302 - Apoio Mudança e Orientações]]</li></ul>                                                                                                                                                                                                                                     |
+| <ul><li>INFORMAR</li></ul>           | <ul><li>[[Q260129_0914 Fundo de manutenção]]</li><li>[[Q260116_1642 Falha Botão Portaria - Interno e Externo]]</li><li>[[Q260109_1847 Providência ao Pedido de Distrato]]</li><li>[[Q260108_1417 Remoção Tijolos Excedentes do Telhado BL2]]</li><li>[[Q260105_2324 Calha Sobre Cobertura 01 Causa Infiltração]]</li></ul>                                                                                                                                                                                                                                                                                                                                                         |
 | <ul><li>INFRAESTRUTURA</li></ul>     | <ul><li>[[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| <ul><li>MANUTENCAO</li></ul>         | <ul><li>[[Q260113_0742 Troca Lâmpada da Lixeira]]</li><li>[[Q260116_1105 Mudança Quantidade de Toques Interfone - Consulta e Análise]]</li><li>[[Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia]]</li><li>[[Q260121_1804 - Sobre Piso Portaria Interna - Restauração]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| <ul><li>SEGURANCA</li></ul>          | <ul><li>[[Q260105_1446 Roubo da Tampa Metálica Bueiro]]</li><li>[[Q260112_1537 Registro de Risco no Portão Entrada]]</li><li>[[Q260112_1627 Projeto e Orçamento de Tela Terraço]]</li><li>[[Q260114_1117 Casa Marimbondo crescendo na frente do prédio]]</li><li>[[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]</li><li>[[Q260121_1900 Mangueira Fora Prazo Validade]]</li><li>[[Q260121_2116 Ausência Mangueira Incêndio Hall Andar 4]]</li></ul>                           |
+| <ul><li>MANUTENCAO</li></ul>         | <ul><li>[[Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia]]</li><li>[[Q260121_1804 - Sobre Piso Portaria Interna - Restauração]]</li><li>[[Q260116_1105 Mudança Quantidade de Toques Interfone - Consulta e Análise]]</li><li>[[Q260113_0742 Troca Lâmpada da Lixeira]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| <ul><li>SEGURANCA</li></ul>          | <ul><li>[[Q260121_2116 Ausência Mangueira Incêndio Hall Andar 4]]</li><li>[[Q260121_1900 Mangueira Fora Prazo Validade]]</li><li>[[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]</li><li>[[Q260114_1117 Casa Marimbondo crescendo na frente do prédio]]</li><li>[[Q260112_1627 Projeto e Orçamento de Tela Terraço]]</li><li>[[Q260112_1537 Registro de Risco no Portão Entrada]]</li><li>[[Q260105_1446 Roubo da Tampa Metálica Bueiro]]</li></ul>                           |
 | <ul><li>SERVICO_FORNECEDOR</li></ul> | <ul><li>[[Q260129_2144 Cadastro Cometa Como Fornecedor Heleri]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 <!-- SerializedQuery END -->
@@ -54,10 +54,10 @@ created: 2026-01-05T09:32
 
 | Semana/Ano     | Qtd | Questões                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| semana 02 2026 | 15  | <ul><li>[[ISSUE_260103_2007 - Limpeza dos Dutos da Lixeira]]</li><li>[[HLR_260105_1005 Conta Bancária PJ no CNPJ Heleri]]</li><li>[[Q260103_2013 - Entrada Sr Waldeci]]</li><li>[[Q260105_1445 Aquisição de Tampa de Bueiro Hidráulico]]</li><li>[[Q260105_1446 Roubo da Tampa Metálica Bueiro]]</li><li>[[Q260105_1449 Corrimão Escada Primeiro Andar - Portaria Danificado]]</li><li>[[Q260105_1452 Troca Luzes Emergência Escada]]</li><li>[[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]]</li><li>[[Q260106_2247 Aquisição Sacos de Lixo]]</li><li>[[Q260107_1225 Unidade 102 - Solicita Esclarecimentos Obras Telhado Bl 2]]</li><li>[[Q260107_1745 Heleri - Troca nome condômino 402 - Continua Maria de Fatima]]</li><li>[[Q260108_1435 Determinar Local Armazenar Notas Fiscais Aquisições]]</li><li>[[Q260108_1916 Novos Moradores 302 - Apoio Mudança e Orientações]]</li><li>[[Q260108_2229 Regramento de Trânsito com Cão]]</li><li>[[Q260111_1954 Conta de Acesso Sistema da Administradora Apolo]]</li></ul> |
-| semana 03 2026 | 13  | <ul><li>[[Q260112_1537 Registro de Risco no Portão Entrada]]</li><li>[[Q260112_1543 Converter Livro Registros Condomínio para Digital]]</li><li>[[Q260112_1554 Dúvidas Leitura Pasta Dezembro 2025]]</li><li>[[Q260112_1627 Projeto e Orçamento de Tela Terraço]]</li><li>[[Q260113_0742 Troca Lâmpada da Lixeira]]</li><li>[[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm]]</li><li>[[Q260114_1226 Obstrução Duto Lixeira]]</li><li>[[Q260114_1117 Casa Marimbondo crescendo na frente do prédio]]</li><li>[[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]</li><li>[[Q260115_1812 Registro Orientações Apolo 13-jan-26]]</li><li>[[Q260116_1105 Mudança Quantidade de Toques Interfone - Consulta e Análise]]</li><li>[[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]</li><li>[[Q260115_1828 Reforço Publicidade Contato SOS Elevadores e Instrução Funcionário]]</li></ul>                                                                                                                                                           |
-| semana 04 2026 | 8   | <ul><li>[[Q260121_2128 Tampo Vaso Sanitário Quarto Zelador]]</li><li>[[Q260121_2132 Produto Limpeza Restauração Mármore Hall Andares]]</li><li>[[Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia]]</li><li>[[Q260122_1126 Apolo Cobra Ata de Eleição Adm 2026]]</li><li>[[Q260121_1900 Mangueira Fora Prazo Validade]]</li><li>[[Q260121_2116 Ausência Mangueira Incêndio Hall Andar 4]]</li><li>[[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]</li><li>[[Q260121_1804 - Sobre Piso Portaria Interna - Restauração]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| semana 05 2026 | 4   | <ul><li>[[Q260129_2148 Vazamento cano externo bl2 entre Andar 1 e 2]]</li><li>[[Q260129_2144 Cadastro Cometa Como Fornecedor Heleri]]</li><li>[[Q260131_0855 Infiltração apartamento 401]]</li><li>[[Q260201_1312 Fissura Parede Interna na Lixeira]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| semana 02 2026 | 15  | <ul><li>[[Q260111_1954 Conta de Acesso Sistema da Administradora Apolo]]</li><li>[[Q260108_2229 Regramento de Trânsito com Cão]]</li><li>[[Q260108_1435 Determinar Local Armazenar Notas Fiscais Aquisições]]</li><li>[[Q260108_1916 Novos Moradores 302 - Apoio Mudança e Orientações]]</li><li>[[Q260107_1745 Heleri - Troca nome condômino 402 - Continua Maria de Fatima]]</li><li>[[Q260106_2247 Aquisição Sacos de Lixo]]</li><li>[[Q260107_1225 Unidade 102 - Solicita Esclarecimentos Obras Telhado Bl 2]]</li><li>[[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]]</li><li>[[Q260105_1452 Troca Luzes Emergência Escada]]</li><li>[[Q260105_1446 Roubo da Tampa Metálica Bueiro]]</li><li>[[Q260105_1449 Corrimão Escada Primeiro Andar - Portaria Danificado]]</li><li>[[Q260105_1445 Aquisição de Tampa de Bueiro Hidráulico]]</li><li>[[Q260103_2013 - Entrada Sr Waldeci]]</li><li>[[ISSUE_260103_2007 - Limpeza dos Dutos da Lixeira]]</li><li>[[HLR_260105_1005 Conta Bancária PJ no CNPJ Heleri]]</li></ul> |
+| semana 03 2026 | 13  | <ul><li>[[Q260115_1828 Reforço Publicidade Contato SOS Elevadores e Instrução Funcionário]]</li><li>[[Q260116_1105 Mudança Quantidade de Toques Interfone - Consulta e Análise]]</li><li>[[Q260115_1812 Registro Orientações Apolo 13-jan-26]]</li><li>[[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]</li><li>[[Q260114_1117 Casa Marimbondo crescendo na frente do prédio]]</li><li>[[Q260114_1226 Obstrução Duto Lixeira]]</li><li>[[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm]]</li><li>[[Q260113_0742 Troca Lâmpada da Lixeira]]</li><li>[[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]</li><li>[[Q260112_1627 Projeto e Orçamento de Tela Terraço]]</li><li>[[Q260112_1543 Converter Livro Registros Condomínio para Digital]]</li><li>[[Q260112_1554 Dúvidas Leitura Pasta Dezembro 2025]]</li><li>[[Q260112_1537 Registro de Risco no Portão Entrada]]</li></ul>                                                                                                                                                           |
+| semana 04 2026 | 8   | <ul><li>[[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]</li><li>[[Q260121_2132 Produto Limpeza Restauração Mármore Hall Andares]]</li><li>[[Q260121_2128 Tampo Vaso Sanitário Quarto Zelador]]</li><li>[[Q260122_1126 Apolo Cobra Ata de Eleição Adm 2026]]</li><li>[[Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia]]</li><li>[[Q260121_2116 Ausência Mangueira Incêndio Hall Andar 4]]</li><li>[[Q260121_1900 Mangueira Fora Prazo Validade]]</li><li>[[Q260121_1804 - Sobre Piso Portaria Interna - Restauração]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| semana 05 2026 | 4   | <ul><li>[[Q260129_2148 Vazamento cano externo bl2 entre Andar 1 e 2]]</li><li>[[Q260131_0855 Infiltração apartamento 401]]</li><li>[[Q260201_1312 Fissura Parede Interna na Lixeira]]</li><li>[[Q260129_2144 Cadastro Cometa Como Fornecedor Heleri]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 <!-- SerializedQuery END -->
 
@@ -101,9 +101,37 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 # Diário Bordo do Mês
 
 
+<!-- LIST rows.L.text FROM #diario_heleri  WHERE file.lists AND month = this.month AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 --> 
 
-<!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri WHERE file.lists AND month = this.month AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 200 -->
-<!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri WHERE file.lists AND month = this.month AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 200 -->
+
+
+<!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
+<!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
+- [[2026-02-01.md#13 12 Questão - Heleri - Fissura Parede Interna na Lixeira|2026-02-01 > 13 12 Questão - Heleri - Fissura Parede Interna na Lixeira]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260201_1312 Fissura Parede Interna na Lixeira]]
+- **Descrição:**
+- **QUE** foi registrado em ronda de 31/12, fissura parede interna a lixeira
+- **QUE** foram feitos registros por foto e link de compartilhamento no [[Google Drive Heleri Adm]] é:
+- ... https://drive.google.com/drive/u/6/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Q260201_1312
+- **Quem:** [[Leonardo 402]]
+- **Quando:** [[2026-01-31]]
+- **Onde:** [[Lixeira]]
+- **Por quê:** [[gestão risco]]
+- ---
+- **Ref.:** [[registro questão]], [[registro de dano - avaria]]
+- ....
+- <iframe src="https://drive.google.com/file/d/1mWgP0YeZibuRcP5wal2wLVNRoK69lP27/preview" width="640" height="480"></iframe>
+- <iframe src="https://drive.google.com/file/d/1_cDQs5LD8q-ydNky98qKDklsL-eKLUhn/preview" width="640" height="480"></iframe>
+-
+
+- [[2026-02-01.md#13 09 Ato Adm - Continuidade Restauração Piso Portaria|2026-02-01 > 13 09 Ato Adm - Continuidade Restauração Piso Portaria]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** [[Q260121_1804 - Sobre Piso Portaria Interna - Restauração]]
+- **Registra-se:**
+- **QUE** [[Síndica]] informa que irá terminar serviço conforme iniciado em [[2026-01-24#14 15 Ato Adm. - Restauração Piso Hidráulico]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro manutenção]], [[Portaria Interna]], [[Andar Portaria]]
+
 - [[2026-01-31.md#15 05 Ato Adm - Autorização Lavar Carro|2026-01-31 > 15 05 Ato Adm - Autorização Lavar Carro]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** carro [[Unidade 302]] coberto de poeira de obra
@@ -1711,511 +1739,7 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 
 
 <!-- SerializedQuery END -->
-<!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri WHERE file.lists AND month = this.month AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 200 -->```
 
-- [[2026-01-08 > 22 29 Questão - Heleri - Regramento de Trânsito com Cão]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260108_2229 Regramento de Trânsito com Cão]]
-- **Descrição:**
-- **QUE** [[Síndica]] e Conselheira [[Lucia Cob 01]] dispõem sobre Regramento de Trânsito com Cão
-- QUE cão de **porte pequeno** pode trânsito no elevador desde que utilizando coleira e no colo do dono
-- QUE cão de **porte médio trânsito** via escada portanto coleira e focinheira
-- QUE fezes de animal A AVERIGUAR. Regra atual solicita que o descarte seja via saco devidamente amarrado para não espalhamento
-- ---
-- **Ref.:** [[registro questão]]
-
-    - [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260108_2229 Regramento de Trânsito com Cão]] averiguar legislação e disposições sanitárias quanto ao descarte
-
-    - [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260108_2229 Regramento de Trânsito com Cão]]. Fazer consolidação, elaboração do documento, chancela do [[Conselho Heleri]] e dar publicidade
-
-- [[2026-01-08 > 19 16 Questão - Heleri - Novos Moradores 302 - Apoio Mudança e Orientações]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260108_1916 Novos Moradores 302 - Apoio Mudança e Orientações]]
-- **Descrição:**
-- **QUE** novos moradores da [[Unidade 302]] irão realizar mudança na terça-feira dia 13/jan
-- **QUE** Sra [[Carmem 302]] solicita possibilidade de reserva de vaga em frente ao prédio para estacionamento do caminhão
-- **QUE** [[Leonardo 402]] passa contato para cobrança dessa mobilização e tentativa da reserva
-- **QUE** para fins de gestão e procedimentos, montar comunicado de boas vindas e orientações
-- ---
-- **Ref.:** [[registro questão]]
-    - [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260108_1916 Novos Moradores 302 - Apoio Mudança e Orientações]] produzir comunicados de boas vindas e orientações
-
-- [[2026-01-08 > 18 37 Rotina - Tarefa - Remoção do Lixo]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Registra-se:**
-- **QUE** Sr [[Valdeci Felix Henrique - Prédio 26]] executar [[Remoção do Lixo]] conforme acordado
-- **QUE** foi entregue chaves em mãos, para acesso a garagem e portaria
-- **QUE** foi alinhado de em próxima empreitada, enviar whatsapp avisando, para fins de controle
-- **QUE** após reportar haver somente 1 saco de lixo, foi realizada reposição no [[Depósito Debaixo Escada]], dos materiais da aquisição [[Q260106_2247 Aquisição Sacos de Lixo]]
-- ---
-- **Ref.:** [[ato administrativo]], [[execução de rotina]], [[Remoção do Lixo]]
-
-- [[2026-01-08 > 14 46 Ato Adm - Gestão Heleri - Contato]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** [[Q260107_1225 Unidade 102 - Solicita Esclarecimentos Obras Telhado Bl 2]]
-- **Registra-se:**
-- **QUE** [[Leonardo 402]] realiza contato para informar prazo para entrega informações solicitadas
-- **QUE** esclarece que, devido transição de gestão ainda não foi realizada total internalização dos documentos contidos no Google Drive da gestão anterior
-- **QUE** até segunda feira dia 12 será realizada entrega dos itens, **ainda a confirmar**,  (1) ata Assembleia JAN/2025 cotações (2) ata Assembleia MAR/2025 fechamento (3) Proposta Comercial MV3 Aceita pelo Heleri (4) ata Assembleia NOV/2025 (5) Relatório Custo Materiais (6) Comprovantes de Aquisição Material (7) Notificação 1 e 2 Síndico à MV3 (8) Ata reunião Gestão 2026 e MV3 em 06/01
-- ---
-- **Ref.:** [[ato administrativo]], [[registro contato]], [[Glaucia 102]]
-- ...[15:00, 08/01/2026] LS: Aqui é Leonardo Conrado, da parte da Ana
-- [15:00, 08/01/2026] LS: Ela pediu para levantar os documentos referente Obras do Telhado Bloco 2
-- [15:00, 08/01/2026] +55 21 98121-3955: Sim
-- [15:01, 08/01/2026] LS: Ainda não tivemos tempo de internalizar todos os documentos do Google Drive da gestão anterior.
-- [15:01, 08/01/2026] LS: Devemos ver essa questão no final de semana
-- ...
-- [15:01, 08/01/2026] LS: ... separei aqui os documentos a separar para envio:
-- [15:01, 08/01/2026] LS: (1) ata Assembleia JAN/2025 cotações (2) ata Assembleia MAR/2025 fechamento (3) Proposta Comercial MV3 Aceita pelo Heleri (4) ata Assembleia NOV/2025 (5) Relatório Custo Materiais (6) Comprovantes de Aquisição Material (7) Notificação 1 e 2 Síndico à MV3 (8) Ata reunião Gestão 2026 e MV3 em 06/01
-- [15:01, 08/01/2026] +55 21 98121-3955: Ok
-- [15:02, 08/01/2026] LS: a data mais provável para entrega seria ou segunda ou terça dia 12-13/jan
-- ...
-- [15:02, 08/01/2026] LS: Assim que fechar faço o envio
-- [15:02, 08/01/2026] +55 21 98121-3955: Ok.
-    - [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260107_1225 Unidade 102 - Solicita Esclarecimentos Obras Telhado Bl 2]] disponibilizar material até segunda dia 12 /01
-
-- [[2026-01-08 > 14 35 Questão - Heleri - Determinar Local Armazenar Notas Fiscais Aquisições]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260108_1435 Determinar Local Armazenar Notas Fiscais Aquisições]]
-- **Descrição:**
-- **QUE** [[Síndica]] solicita criar local, vinculado a [[heleri.adm@gmail.com - conta]], e com possibilidade de publicidade e acesso aos condôminos, e [[Administradora Apolo]], onde possam ser armazenadas as notas fiscais referente a aquisições de cunho emergencial e passíveis de reembolso.
-- **QUE** solicita ainda criação de processo para arquivamento de modo a garantir cronologia documentos armazenados, adotando prefixo de data de processamento "ano + mês + dia" acrescido de descrição livre
-- exemplo: ` 20260107_Saco De Lixo 240 Litros Preto Reforçado 115x120cm C_ 50un.pdf `
-- **QUE** a entrada de qualquer documento de nota ou recibo deve estar vinculada a uma "**questão**" previamente registrada
-- **Por quê:** para garantia de controle, auditabilidade, transparência e padronização de processo
-- ---
-- **Ref.:** [[registro questão]]
-
-- [[2026-01-08 > 14 17 Questão - Heleri - Remoção Tijolos Excedentes do Telhado BL2]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260108_1417 Remoção Tijolos Excedentes do Telhado BL2]]
-- **Descrição:**
-- **QUE** em alinhamento entre [[Ana 402]] e [[Lucia Cob 01]], na qualidade de integrantes da administração, planeja-se remoção dos tijolos excedentes das obras do [[Telhado Bloco 2]] que atualmente ocupam local da **entrada de serviço** (próximo [[Porta Vidro Lateral]])
-- **QUE** planejamento decide remanejamento do excedente para dentro da [[Garagem]], área lateral posição coberta de chuva
-- **QUE** durante a locomoção deverá ser feita a contabilidade dos tijolos excedentes
-- **Quem:** [[Ana 402]] e [[Lucia Cob 01]]
-- **Quando:** ainda em janeiro/2026
-- **Onde:** [[Porta Vidro Lateral]], [[Garagem]]
-- **Por quê:** Contabilizar e preservar para eventual uso em manutenção e melhorias
-- ---
-- **Ref.:** [[registro questão]]
-
-- [[2026-01-08 > 14 09 Manutenção Iluminação - Hall Cobertura]]: 
-    - Sob [[Gestão Condominial do Heleri]] realiza-se manutenção...
-- **Onde:** [[Hall Cobertura]]
-- **Motivação:** lâmpada queimada
-- **Registra-se:**
-- **QUE** [[Síndica]] realizou substituição
-- ---
-- **Ref.:** [[ato administrativo]], [[registro manutenção]], [[registro doação]]
-
-- [[2026-01-08 > 10 08 Ato Adm - Gestão Heleri - Recebimento Sacos de Lixo]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Registra-se:**
-- **QUE** [[Síndica]] recebe aquisição [[Q260106_2247 Aquisição Sacos de Lixo]] referente sacos de lixo
-- ---
-- **Ref.:** [[ato administrativo]], [[registro recebimento]]
-
-- [[2026-01-08 > 09 37 Comunicado Ata - Reunião 06 jan 2026]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** publicidade aos condôminos sobre reunião [[2026-01-06#19 00 Reunião - Gestão Heleri - Heleri proposição de Distrato]]
-- **Registra-se:**
-- **QUE** [[Síndica]] da publicidade à [[ATA260106 Reunião Heleri MV3 proposição distrato]] via [[Grupo Whatsapp Heleri - Conselho e 402 - Assuntos Ref Telhado BL2]]
-- **QUE** também envia ata ao fornecedor [[Milton Vilarino Junior - MV3]] com prazo de 2 dias para objeções e/ou adendo e por meio de whatsapp do número [[+55 21 97085-9618 - Milton MV3]]
-- **QUE** autentica **20260106_ATA DE REUNIAO_Heleri_MV3_v3_final.pdf** pelo **md5** **b5ed43169958f53b338337f3593284bb**
-- ---
-- **Ref.:** [[ato administrativo]], [[registro comunicado formal]], [[divulgação de ata]]
-- **msg:**
-- [20:17, 06/01/2026] Ana: Para dar ciência a todos, a reunião foi rápida, os participantes foram Milton MV3 , eu e o Leonardo para fazer os registros. E vamos enviar para vocês uma ata com tudo que foi o discutido na reunião.
-- [10:08, 08/01/2026] 20260106_ATA DE REUNIAO_Heleri_MV3_v3_final.pdf
-- [10:08, 08/01/2026] Ana: Uma cópia dessa ATA foi enviada a MV3.
-
-- [[2026-01-07 > 17 45 Questão - Heleri - Troca nome condômino 402 - Continua Maria de Fatima]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260107_1745 Heleri - Troca nome condômino 402 - Continua Maria de Fatima]]
-- **Descrição:**
-- **QUE** foi verificado que o balancete enviado pela [[Administradora Apolo]] ao citar [[Unidade 402]], traz como nome do condômino a Sra [[Maria de Fatima 402]] ao invés de [[Ana 402#(Ana Tereza Siqueira Marques Lins)]]
-- **QUE** necessidade de mudança via [[Administradora Apolo]]
-- **Por quê:** correção
-- ---
-- **Ref.:** [[registro questão]]
-
-- [[2026-01-07 > 12 25 Questão - Heleri - Unidade 102 - Solicita Esclarecimentos Obras Telhado Bl 2]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260107_1225 Unidade 102 - Solicita Esclarecimentos Obras Telhado Bl 2]]
-- **Descrição:**
-- **QUE** Sra [[Glaucia 102]] solicita informações de valores e orçamento referente as Obras do Telhado Bloco 2
-- **Quem:** [[Glaucia 102]]
-- **Quando:** semana 02 2026
-- **Onde:** referente obras [[Telhado Bloco 2]]
-- **Por quê:** em exercício de direito
-- **Registra-se:**
-- **QUE** devido processo ser entre duas gestões distintas, e que a internalização do histórico ainda não foi realizada pela gestão atual, o processo de levantamento da documentação está em curso
-- **QUE** a gestão atual informará prazo até segunda-feira dia 12/01
-- ---
-- **Ref.:** [[registro questão]], [[registro solicitação]], [[pedido esclarecimento]]
-
-    - [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260107_1225 Unidade 102 - Solicita Esclarecimentos Obras Telhado Bl 2]], separar (1) ata/documentos Assembleia JAN/2025  (2) ata Assembleia MAR/2025 (3) proposta Comercial aceita (4) ata/documentos AGE NOV/2025 (5) ata documentos reunião 06/01/2026
-
-- [[2026-01-07 > 12 14 Ato Adm - Gestão Heleri - registro de condôminos e moradores]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** Prosseguir com configuração do sistema de apoio a gestão
-- **Registra-se:**
-- Cadastro via [[Livro de Registro de Item]] das pessoas "**condôminos**" e "**moradores**"
-- ---
-- **Ref.:** [[ato administrativo]], [[registro configuração]]
-
-- [[2026-01-07 > 12 13 Ato Adm - Gestão Heleri - Rega das Plantas]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:**
-- **Registra-se:**
-- **QUE** [[Unidade 402]] procede com atividade [[Rega das Plantas]] conforme acordado na [[AGO - Dezembro 2025]]
-- ---
-- **Ref.:** [[ato administrativo]], [[execução de rotina]]
-
-- [[2026-01-07 > 11 26 Ato Adm - Gestão Heleri - Entrega das Chaves ao Sr Waldecir]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** [[Q260103_2013 - Entrada Sr Waldeci]]
-- **Registra-se:**
-- **QUE** [[Síndica]] solicita entrega das chaves ao Sr [[Valdeci Felix Henrique - Prédio 26]] para acesso e retirada do lixo durante período de férias do Sr [[Rogerio Zelador]]
-- **QUE** [[Maria das Graças 402]] faz a entrega das chaves que acessam: [[Garagem]], [[Portão Entrada]], [[Porta Vidro Principal]]
-- **QUE** as chaves serão recolhidas após retorno do Sr Rogerio
-- ---
-- **Ref.:** [[ato administrativo]]
-
-    - [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260103_2013 - Entrada Sr Waldeci]] **entregar** as chaves ao Sr [[Valdeci Felix Henrique - Prédio 26]]
-
-    - [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260103_2013 - Entrada Sr Waldeci]] **RECOLHER** as chaves com Sr [[Valdeci Felix Henrique - Prédio 26]] (ao fim das férias Sr Rogerio)
-
-- [[2026-01-07 > 09 00 Ato Adm - Gestão Heleri - Aquisição Sacos de Lixo 240 L Preto]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** [[Q260106_2247 Aquisição Sacos de Lixo]]
-- **Registra-se:**
-- **QUE** [[Síndica]] fez aquisição dos sacos de lixo de especificação
-- QUE custo foi de `R$ 89,00 `
-- QUE custeio foi na forma de reembolso e motivado por urgência na aquisição
-- ---
-- **Arquiva-se**:
-- [[doc nota fiscal]] arquivo ` 20260107_Saco De Lixo 240 Litros Preto Reforçado 115x120cm C_ 50un.pdf `
-- [[print evidência]] `Heleri-Ato Adm-aquisicao-saco-lixo-Q260106_2247 Sacos de Lixo`
-- **Whatsapp:**
-- [22:41, 06/01/2026] Ana: compra do saco de lixo solicitado pelo Rogerio
-- [08:47, 07/01/2026] Ana: nota fiscal compra de saco de lixo
-- **Ref.:** [[ato administrativo]], [[registro de aquisição]]
-
-- [[2026-01-06 > 22 47 Questão - Heleri - Compra de Sacos de Lixo]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260106_2247 Aquisição Sacos de Lixo]]
-- **Descrição:**
-- **QUE** Sr [[Rogerio Zelador]] antes de entrar de férias tinha informado necessidade de aquisição de sacos de lixo
-- **QUE** Sr [[Valdeci Felix Henrique - Prédio 26]] em apoio temporário na  limpeza, na data de hoje, informou que os sacos estavam finalizando
-- **QUE** [[Síndica]] providencia aquisição via Mercado Livre
-- **Por quê:** material acabando
-- ---
-- **Ref.:** [[registro questão]], [[registro de aquisição]]
-
-    - [[registro lembrete]] para **próximos passos**: Registro da nota fiscal referente aquisição
-    - Receber
-    - Entrega nota fiscal à [[Administradora Apolo]] para reembolso
-
-- [[2026-01-06 > 19 00 Reunião - Gestão Heleri - Heleri proposição de Distrato]]: 
-    - Em [[Gestão Condominial do Heleri]], registra-se reunião ...
-- **Formato:** Online via https://meet.google.com/bsk-aweb-dyx?authuser=0
-- **Participantes:**
-- [[Ana 402]] na atribuição de [[Síndica]] (**CONTRATANTE**)
-- [[Milton Vilarino Junior - MV3]] na atribuição de **CONTRATADA**
-- [[Leonardo 402]] na atribuição de secretário
-- **Pauta:** Proposição de Distrato dada a evolução do Contrato de Obras Telhado Bloco 2 Heleri
-- **Ata:**
-- **QUE** ... (vide ata [[ATA260106 Reunião Heleri MV3 proposição distrato]])
-- QUE [[Ana 402]] se compromete a formalizar proposição do distrato
-- QUE [[Milton Vilarino Junior - MV3]] se compromete responder a proposição até sexta-feira dia 09
-- ---
-- **Info Complementares:**
-- ---
-- **Ref.:** [[ato administrativo]], [[registro reunião]]
-    - [[registro lembrete]] para **próximos passos**: Término redação [[ATA260106 Reunião Heleri MV3 proposição distrato]]
-    - Publicidade aos Condôminos da [[ATA260106 Reunião Heleri MV3 proposição distrato]]
-    - Envio da proposição formal de distrato à [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]]
-    - Verificação da resposta até [[2026-01-09]]
-
-- [[2026-01-06 > 16 11 Ato Adm - Gestão Heleri - Coleta do Lixo]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro..
-- **Registra-se:**
-- **QUE** Sr [[Valdeci Felix Henrique - Prédio 26]] veio realizar **retirada do lixo** por volta das 17:00
-- **QUE**  Sr [[Maria das Graças 402]] concedeu acesso à garagem e nas dependências dos andares
-- ---
-- **Ref.:** [[ato administrativo]], [[registro limpeza]]
-
-- [[2026-01-06 > 13 16 Ato Adm - Gestão Heleri - Registrando Itens - Unidade]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Registra-se:**
-- **QUE** utiliza-se artefato/processo [[Livro de Registro de Item]] para registro das Unidades e algumas dependências internas
-- **QUE** para fins de gestão e controle, foram registradas as Unidades
-- **QUE** para fins de gestão e controle, foram registradas as Condôminos
-- ---
-- **Ref.:** [[registro configuração]]
-
-- [[2026-01-06 > 12 57 Ato Adm - Gestão Heleri - Negociação Marcelo com Waldecir - Valor Serviço Retirada Lixo]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** diante impasse no valor 100% acima da base histórica de cobrança, conforme registrado [[2026-01-05#15 21 Ato Adm. - Gestão Heleri - Reunião Com Sr Waldeci - Cotação Serviço]]
-- **Registra-se:**
-- **QUE** [[Marcelo 101]], negociou com [[Valdeci Felix Henrique - Prédio 26]] a questão dos valores
-- **QUE** ficou acordado na negociação entre Marcelo e Sr Waldecir que "_o valor do serviço de retirada 3 vezes por semana até retorno do Sr Rogerio, será de **R$ 350,00**_"
-- **QUE** o escopo do serviço será "_Ele vai pegar os lixos dos andares e colocar o lixo da lixeira pra fora às terças, quintas e sábados._"
-- **QUE** Sr. Waldecir recebeu instrução para, no momento de acesso para coleta do lixo, interfonar para [[Unidade 402]], que irá franquear o acesso às dependências internas e garagem
-- ---
-- **Ref.:** [[ato administrativo]], [[Valdeci Felix Henrique - Prédio 26]], [[registro cotação]]
-
-- [[2026-01-05 > 23 38 Fato Adm - Gestão Heleri - Grupo Conselho]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
-- **Registra-se:**
-- **QUE** foi verificada a existência de [[Grupo Whatsapp do Conselho]] para assuntos internos a equipe da administração condominial
-- **QUE** deve ser providenciada entrada da [[Ana 402]], no grupo sob prerrogativa de compor atual administração condominial
-- ---
-- **Ref.:** [[fato administrativo]]
-
-    - [[registro lembrete]] para **próximos passos**: Solicitar ao [[Marcelo 101]] entrada de [[Ana 402]] no [[Grupo Whatsapp do Conselho]]
-
-- [[2026-01-05 > 23 24 Questão - Heleri - Calha Sobre Cobertura 01 Causa Infiltração]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260105_2324 Calha Sobre Cobertura 01 Causa Infiltração]]
-- **Registra-se:**
-- **QUE** a calha sobre janela da Cobertura 01 causa respingos e infiltração na janela do apartamento
-- **Quem:** Sra [[Lucia Cob 01]]
-- **Quando:** 2026-01-05
-- **Onde:** Cobertura 01 - calha sobre janela
-- **Por quê:** a calha encerra no local da escada de marinheiro
-- ---
-- **Ref.:** [[registro questão]], [[registro de dano - avaria]], [[escada de marinheiro - desc. telhado bl 2]], [[Cobertura 01]]
-
-- [[2026-01-05 > 23 13 Questão - Heleri - Escada Marinheiro Descida Ao Telhado - Danificada]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]]
-- **Descrição:**
-- Sra [[Lucia Cob 01]] reporta estado de degradação da **escada de marinheiro** que dá acesso ao Telhado Bloco 2
-- **QUE** a escada de marinheiro está com **fixação danificada e reboco oco** podendo causar acidentes durante acesso ao telhado
-- **Quem:** [[Lucia Cob 01]]
-- **Quando:** 2026-01-05
-- **Onde:** Na descida da [[Cobertura 01]] para [[Telhado Bloco 2]]
-- ---
-- **Ref.:** [[registro questão]], [[gestão risco]], [[registro de dano - avaria]],  [[escada de marinheiro - desc. telhado bl 2]]
-
-- [[2026-01-05 > 22 55 Ato Adm - Gestão Heleri - Reunião Prerrogativa]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Registra-se:**
-- **QUE** [[Síndica]] realizou reunião de prerrogativa [[PR260105_1300 Reunião.mdenc]]
-- ---
-- **Ref.:** [[ato administrativo]], [[registro reunião]], [[prerrogativa administração]], [[Garagem]]
-
-- [[2026-01-05 > 15 43 Ato Adm - Gestão Heleri - Planejamento Pauta Reunião MV3]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** Reunião com fornecedora MV3 agendada para terça-feira 06/01/2026
-- **Registra-se:**
-- **QUE** [[Síndica]] pede averiguar viabilidade legal proposição de retorno de metade do valor dispendido
-- **QUE** [[Síndica]] avalia que:
-- as obras excederam o prazo de 30 dias trabalhados e alcançam o dia 177 na data de 06/01/2026 (início 14/07/2025)
-- as obras não geraram o resultado esperado quanto a garantia da estanqueidade das calhas e existem inúmeros comunicados e vídeos ao longo dos 6 meses de execução
-- as obras não geraram o resultado esperado quanto a substituição do telhado
-- as obras desviaram **em 56,60 % o custo de material estimado**, com **evidências documentadas de desperdício**, **falta de acurácia na especificação** e **erros na designação de fornecedor**
-- as obras demandaram intervenções ativas e de urgência por parte dos moradores do Heleri, sob pena de grave aumento dos danos, tendo sido esses episódios recorrentes desde julho/2026
-- o valor total dispendido pelo Heleri foi de R$ 47 mil, sendo o preço de primeira proposta escopo fechado, informado em R$ 33 mil, e proposta seguinte de "serviço à parte e material do material" aumentado pra estimados em R$ 39 mil sendo R$ 24 mil fixo relativo a serviço e R$ 15 mil estimados em material.
-- ao longo da execução das obras, os prejuízos internos ao apartamento 402 aumentaram consideravelmente, **expandindo** de somente ponto da (1) sala **PARA** (1) sala total, (2) antessala total, (3) quarto 2 e (4) quarto 3
-- que a contratada se opõe a transparência na condução, por vias de **ausência do planejamento prévio**, **mantimento e garantia de cronograma e prazo**, e ainda, se **abstém do uso do canal transparente**, grupo de acompanhamento no whatsapp, tendo o único representante da MV3 saído do grupo, sem aviso prévio, na data de 17/12/2025
-- que os termos de garantia dispostos em contrato não foram honrados ainda que formalizados os pedidos
-- **EM ASSIM SENDO**: Propõe distrato na relação de serviço entre MV3 e Heleri, mediante ressarcimento de metade do valor dispendido (R$ 47 mil/2 = R$ 23,5 mil), dado que, o condomínio Heleri se vê obrigado a prosseguir com contratação de outra empresa para execução da obra não finalizada ao longo dos 177 dias em que esteve sob condução da MV3
-- ---
-- **Ref.:** [[ato administrativo]], [[registro planejamento]]
-
-- [[2026-01-05 > 15 21 Ato Adm - Gestão Heleri - Reunião Com Sr Waldeci - Cotação Serviço]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** Negociar valor e horários para retirada do lixo
-- **Registra-se:**
-- **QUE** [[Síndica]] realiza reunião com Sr. [[Valdeci Felix Henrique - Prédio 26]] para alinhar valores e horários
-- **QUE** [[Síndica]] por base histórica, tinha o valor do serviço como sendo da ordem de R$ 300
-- **QUE** Sr [[Valdeci Felix Henrique - Prédio 26]] informa o preço de R$ 700
-- **QUE** cotação informada é 100% acima do estimado pela base histórica
-- **QUE** o escopo do serviço negociado seria "*retirada do lixo/lixeira 3 vezes por semana*", sem execução de limpeza da área da lixeira, também conforme base histórica de atuação
-- **QUE** por economia ao condomínio e eventual cortesia de início de gestão, [[Síndica]] estudará possibilidade de serviço de limpeza em desempenho próprio via [[Unidade 402]]
-- ---
-- **Ref.:** [[ato administrativo]], [[registro reunião]], [[registro cotação]], [[Valdeci Felix Henrique - Prédio 26]], [[Princípio da Economicidade]]
-
-- [[2026-01-05 > 10 05 Questão - Heleri - Conta CNPJ Teste]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[ISSUE_260105_1005 Conta Bancária PJ no CNPJ Heleri]]
-- **Registra-se:**
-- **QUE** [[Síndica]] abre averiguação de possibilidade de conta corrente PJ no CNPJ do Heleri
-- **QUE** de posse de conta própria, o controle das questões seria online
-- **QUE** existem possibilidades de conta PJ com anuidade gratuita
-- **QUE** a conta PJ possui serviços de bancários de empréstimo
-- **QUE** a conta PJ possui serviços de cartão de crédito
-- ---
-- **QUE** durante averiguação será verificada restrições e/ou objeções por parte da Legislação
-- **QUE** durante averiguação será verificada restrições e/ou objeções por parte do [[Conselho Heleri]]
-- **QUE** durante averiguação será verificada restrições e/ou objeções por parte da [[Administradora Apolo]]
-- ---
-- **Ref.:** [[registro questão]], [[teste simulação]]
-
-- [[2026-01-05 > 09 43 Ato Adm - Gestão Heleri - Templates Relatório Mensal e Trimestral - Visão Geral Atividades]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Registra-se:**
-- **QUE** [[Síndica]] para fins de visão geral das atividades diárias, cria  [[Templates/Template Relatorio MENSAL]] e também [[Templates/Template Relatorio TRIMESTRAL]]
-- **QUE** o propósito desses arquivos é consolidar todas as atividades registradas no mês do ano referido, e no trimestre do ano referido, tal como sugere nome
-- **QUE** as seções do arquivo relatório do mês são:
-- [[Relatório MENSAL - 01 - 2026#Diário Bordo do Mês]]
-- [[Relatório MENSAL - 01 - 2026#Lembretes - Em Aberto]]
-- [[TRIMESTRE - 01 - 2026#Questões]]
-- [[Relatório MENSAL - 01 - 2026#Agenda]]
-- **QUE** as seções do arquivo relatório do trimestre são:
-- [[TRIMESTRE - 01 - 2026#Diário Bordo do Trimestre]]
-- [[TRIMESTRE - 01 - 2026#Lembretes - Em Aberto]]
-- [[TRIMESTRE - 01 - 2026#Questões]]
-- [[TRIMESTRE - 01 - 2026#Agenda]]
-- **QUE** os arquivos relatório Mensal e relatório Trimestral ao fim do período serão impressos em PDF e arquivados
-- ---
-- **Ref.:** [[ato administrativo]], [[registro configuração]] do [[vault Heleri]]
-
-- [[2026-01-05 > 09 09 Ato Adm - Gestão Heleri - Retirada Reciclável]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** Conforme alinhado [[AGO - Dezembro 2025]]
-- **Registra-se:**
-- **QUE** foi feita a retirada dos recicláveis pela [[Unidade 402]] para coleta conforme agenda das segundas-feiras às 08:00
-- ---
-- **Ref.:** [[ato administrativo]], [[registro limpeza]], [[retirada reciclável]]
-
-- [[2026-01-04 > 17 03 Ato Adm - Gestão Heleri - Configuração conta heleri adm gmail com]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Registra-se:**
-- **QUE** [[Síndica]] solicita criação da conta [[heleri.adm@gmail.com - conta]] para comunicação oficial de assuntos relacionados a gestão
-- **QUE** a conta criada heleri.adm@gmail.com, destina-se a gestão e preservação do histórico de gestão, devendo ser entregue às administrações subsequentes
-- **QUE** a conta, em sendo Gmail, oferece direito a outros serviços de dados úteis para comunicação e registros da gestão sendo eles:
-- (1) **Google Photos** para upload de fotos que documentam questões, incidentes, processos **de forma complementar aos registros**
-- (2) **Youtube** que permite upload de vídeos que documentam questões, incidentes, processos **de forma complementar aos registros**. Também permite gerenciamento de playlists relevantes à Administração (exemplo: vídeos produzidos referente obras telhado bloco 2)
-- (3) **Google Drive**, que permite upload de documentos em geral
-- (4) **Google Forms**, que permite realização de checklist de situações e pesquisas e levantamento qualitativos
-- (5) **Google Calendar**,  que permite de maneira complementar aos registros, dar publicidade a datas relevantes à gestão e ciclos de manutenção do condomínio Heleri
-- ---
-- **às 16:40** criada a conta heleri.adm@gmail.com
-- ...
-- **E-mail recuperação:** [[santanaelins.adm@gmail.com]]
-- **Espaço disponível:** 15 GB
-- **Link para gerenciamento da conta:** https://myaccount.google.com
-- **Google Drive:** https://drive.google.com/drive/home
-- **Google Meeting:** https://meet.google.com/landing?hs=197&authuser=0&pli=1
-- **Google Photos:** https://photos.google.com/?pli=1
-- **Google Formulários:** https://docs.google.com/forms/u/0/
-- **Google Blogger:** https://www.blogger.com/about/?bpli=1
-- **Contatos:** https://contacts.google.com/
-- **Playlists Youtube:** https://www.youtube.com/feed/playlists
-- **Calendar:** https://calendar.google.com/calendar/u/0/r/month?pli=1
-- ---
-- **Ref.:** [[ato administrativo]], cria-se [[heleri/heleri.adm@gmail.com - conta]]
-
-- [[2026-01-04 > 12 08 Ato Adm - Gestão Heleri - Registrando Componentes da Base de Gestão Condominial]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** Catalogar todos os itens a serem geridos para configuração do [[vault Heleri]]
-- **Registra-se:**
-- **QUE** Síndica cria itens e componentes de registros a serem utilizados e gerenciados pela administração
-- **QUE** as categorias iniciais são:
-- (1) fornecedores (heleri/fornecedor)
-- (2) locais e dependências (heleri/dependencia)
-- (3) instalações (heleri/instalacao)
-- **QUE** estabelece artefato-processo [[processos/Livro de Registro de Item]] para coordenar todos os itens registrados na presente base de dados e conhecimento
-- ---
-- **Ref.:** [[ato administrativo]]
-
-- [[2026-01-03 > Próximos Passos]]: 
-    - [[próximos passos]]: No âmbito do(a) rotina do Sr Waldeci, alinhar horário da coleta
-    - proceder com [[registro fornecedor]] dos dados Sr Waldeci ([[teste simulação]])
-    - informar que pagamento será mediante processo de reembolso ([[teste simulação]])
-
-- [[2026-01-03 > 20 13 Questão - Heleri - Entrada Sr Waldeci]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260103_2013 - Entrada Sr Waldeci]]
-- **Descrição:**
-- **QUE** Sr Waldeci, porteiro deverá ter acesso as dependência internas do Heleri para coleta do lixo na garagem
--
-- **Quem:** Sr Waldeci
-- **Quando:** Alinhar horário
-- **Onde:** [[dependências/garagem]]
-- **Por quê:** Para retirada do lixo no momento da noite antes da coleta via Comlurb
-- ---
-- **Ref.:** [[registro questão]], [[teste simulação]]
-
-- [[2026-01-03 > 20 07 Questão - Heleri - Limpeza dos Dutos da Lixeira]]: 
-    - **oq:** No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[ISSUE_260103_2007 - Limpeza dos Dutos da Lixeira]]
-- **Descrição:**
-- **QUE** os dutos de lançamento de lixo deverão ser limpos
-- **QUE** a limpeza serve para proteção contra insetos, ratos e pragas
-- **QUE** Síndica propõe ser assumida pelo 402
-- **Quem:**
-- **Quando:**
-- **Onde:** [[instalações/duto da lixeira]]
-- **Por quê:**
-- ---
-- **Ref.:** [[registro questão]], [[teste simulação]]
-
-- [[2026-01-03 > 20 01 Questão - Heleri - Limpeza Dutos]]: 
-    - **oq:** No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[ISSUE_260103_2001]]
-- **Quem:**
-- **Quando:** Durante ausência Sr Rogerio
-- **Onde:** Duto da Lixeira
-- **Descrição:**
-- **QUE** os dutos de lançamento de lixo deverão ser limpos
-- **QUE** a limpeza serve para proteção contra insetos, ratos e pragas
-- **QUE** Síndica propõe ser assumida pelo 402
-- ---
-- **Ref.:** [[registro questão]], [[teste simulação]]
-
-- [[2026-01-03 > 14 01 Ato Adm - Gestão Heleri - Material Limpeza]]: 
-    - **oq:** No âmbito da [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:**
-- **Registra-se ato:**
-- De **Ana**, na atribuição de **Síndica**
-- **QUE** fez levantamento do material de limpeza necessário ao próximo bimestre
-- **QUE** constata os itens necessários:
-- (1) sacos de lixo
-- **QUE**, em [[Princípio da Economicidade]], abre pedido de cotação
-- (1) 10 rolos saco lixo 50x60
-- com envio aos fornecedores cadastrados:
-- [[Cometa Material Construção - fornecedor]]
-- [[Assaí - Av. Maracanã - fornecedor]]
-- [[Armazem Geral - Cond. Bonfim - fornecedor]]
-- ---
-- **Ref.:** [[ato administrativo]], [[registro planejamento]], [[registro cotação]], [[teste simulação]]
-
-- [[2026-01-03 > 13 37 Setup Base de Registros]]: 
-    - No âmbito de configuração de ferramentas de suporte à [[Gestão Condominial do Heleri]], realiza-se setup do [[Obsidian]], [[vault Heleri]].
-- **Atividades**:
-- Configuração dos templates de arquivos
-- (1) [[Template Diario]]
-- ---
-- Configuração dos templates de registros
-- (1) [[Daily Ato]]
-- (2) [[Daily Fato]]
-- (3) Daily Reunião Geral
-- (4) Daily Reunião AGE
-- (5) Daily Reunião AGO
-- ---
-- Configuração de ações administrativas
-- [[fato administrativo]]
-- [[ato administrativo]] - registro pessoa, componente, local-dependência, acolhe-se questão, faz-se pedido, arquivamento, registro de necessidade, gestão de risco, pesquisa opinião e/ou objeções, publicidade às partes, formalização, etc
-- [[registro incidente]]
-- [[registro reunião]]
-- [[Assembléia Geral Extraordinária]]
-- [[Assembléia Geral Ordinária]]
-- [[registro comunicado]]
-- [[registro planejamento]]
-- [[registro questão]]
-- [[registro ronda]]
-- [[registro inspeção]]
-- [[registro episódio]] => EP20251230_1412
-- [[registro reembolso]] => DESP20251229_1412
-- [[registro despesa]]
-- [[registro compra]]
-- [[registro entrega]]
-- [[registro cotação]]
-- [[registro limpeza]]
-- [[retirada reciclável]]
-- [[gestão risco]]
-- [[gestão pessoal]]
-- [[recebimento e-mail]]
-- [[envio e-mail]]
-- [[registro de aquisição]] - material, contrato prestação,
-- ---
-- às 14:08, estudo teste para verificar eficiência do modelo de anotações
-- Registra-se no [[2601 Estudo Eficiência da Forma dos Registros Obsidian]]
-
-<!-- SerializedQuery END -->
 
 
 
