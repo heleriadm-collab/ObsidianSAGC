@@ -107,7 +107,80 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
-<!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
+<!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
+- [[2026-02-02.md#17 01 Ato Adm - Análise Vagas Garagem - Forma Atual|2026-02-02 > 17 01 Ato Adm - Análise Vagas Garagem - Forma Atual]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** [[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]
+- **Registra-se:**
+- **QUE**  [[Leonardo 402]] faz levantamento com Conselheiro [[José Wagner 201]] acerca da disposição oficial dos carros na garagem atualmente
+- **QUE** foi utilizado esquema numerando as posições possíveis de preenchimento com carro
+- ... atualizado arquivos imagem: https://drive.google.com/drive/u/6/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Q260125_1712
+- ... e também: https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=Q260125_1712
+- ---
+- **Ref.:** [[ato administrativo]], [[registro atendimento]], [[Garagem]], [[registro levantamento]], [[registro atendimento]]
+- ---
+- <iframe src="https://drive.google.com/file/d/1l9l3ptFf90fcmPJeCoG8F_vq6lf4bfNh/preview" width="640" height="480"></iframe>
+- <iframe src="https://drive.google.com/file/d/1IUIIS1Uchbky4NEn1wqo2SVOSvz3JBUL/preview" width="640" height="480"></iframe>
+- <iframe src="https://drive.google.com/file/d/1IRsDk_eRFsta3hs20k6kLOVDFmy_CVj8/preview" width="640" height="480"></iframe>
+- <iframe src="https://drive.google.com/file/d/1uALzis8_mtIUoLaN1RfSyhReLALX9auZ/preview" width="640" height="480"></iframe>
+- <iframe src="https://drive.google.com/file/d/13UnsZasCEya2EyvtcW04E00cqzaU81fh/preview" width="640" height="480"></iframe>
+- <iframe src="https://drive.google.com/file/d/1UXASxmJ3_m3plDL2fd_GkHMdR6oVNhQB/preview" width="640" height="480"></iframe>
+
+- [[2026-02-02.md#16 27 Ato Adm - Pedido De Análise Projeto e Orçamento - Estimativa|2026-02-02 > 16 27 Ato Adm - Pedido De Análise Projeto e Orçamento - Estimativa]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** [[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]
+- **Registra-se:**
+- **QUE** Sra [[Glaucia 102]] informa que conseguiu realizar uma automação por câmeras, a preço bastante acessível
+- **QUE** Sra Glaucia fornece referências do kit de câmeras por ela adquirido em seu condomínio de moradia
+- **QUE** em análise inicial, o preço possui expressiva viabilidade no contexto orçamentário do Condomínio Heleri
+- --
+- [21:02, 01/02/2026] Ana: Análise parcial de câmeras wi-fi
+- [21:02, 01/02/2026] Ana: instalação de 4 câmeras wi-fi (camera sem cartão de memória)
+- ---
+- **Ref.:** [[ato administrativo]], [[registro planejamento]],
+
+- [[2026-02-02.md#16 13 Ato Adm - Visita Levantamento 401|2026-02-02 > 16 13 Ato Adm - Visita Levantamento 401]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** [[Q260131_0855 Infiltração apartamento 401]]
+- **Registra-se:**
+- **QUE** [[Jo 401]] conduziu [[Síndica]] a verificar dependências afetadas por infiltração
+- **QUE** [[Síndica]], leiga, não conseguiu identificar pontos de manchas e umidade
+- **QUE** Síndica se propõe a fazer pedido ao [[Luiz Engenheiro técnico-perito]] para verificar problema e dar instrução/orientação geral, quando vier ao Heleri concluir levantamento do Telhado Bloco 2
+- **QUE**índica també Sm fez incursão pelo lado externo, via [[Terraço]]/[[Telhado Bloco 1]]
+- QUE ainda assim, em melhor palpite verificou que os pontos referentes ao incidente (lado de dentro) podem estar relacionados a pontos de descida pluvial ([[Sistema de Calhas Pluviais Bloco 1]])
+- ---
+- **Ref.:** [[ato administrativo]], [[registro levantamento]], [[registro atendimento]]
+
+- [[2026-02-02.md#16 08 Ato Adm - Voluntário - Remoção Casa Marimbondo|2026-02-02 > 16 08 Ato Adm - Voluntário - Remoção Casa Marimbondo]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** [[Q260114_1117 Casa Marimbondo crescendo na frente do prédio]]
+- **Registra-se:**
+- **QUE** [[José Wagner 201]] se voluntaria a remoção da casa de marimbondos verificada no hall de entrada
+- [10:08, 02/02/2026] Ana: Jose Wagner, da unidade 201 se ofereceu para retirar a casa de maribondos.
+- ---
+- **Ref.:** [[ato administrativo]], [[registro voluntariado]], [[Andar Portaria]], [[Portão Entrada]]
+
+- [[2026-02-02.md#15 31 Ato Adm - Comunicado Extrajudicial à MV3 - Contratada não confirma primeiro recebimento|2026-02-02 > 15 31 Ato Adm - Comunicado Extrajudicial à MV3 - Contratada não confirma primeiro recebimento]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** [[Q260109_1847 Providência ao Pedido de Distrato]]
+- **Registra-se:**
+- **QUE** diante da **não confirmação de recebimento** de notificação extrajudicial enviada ao Sr [[Milton Vilarino Junior - MV3]], via whatsapp/telefone disposto em contrato, do número [[+55 21 97085-9618 - Milton MV3]],  e feito em em atividade de 30/01 (vide [[2026-01-30#12 00 Ato Adm. - Resposta à MV3 - Comunicado Extrajudicial]])
+- ... [[Síndica]] faz novo envio pelo canal de e-mail que consta no contrato, endereço < mv3engenharias@gmail.com >
+- [10:16, 02/02/2026] Ana: Enviado comunicado extrajudicial via e-mail para a MV3
+- ---
+- **QUE** comunicado enviado é [[260130_COMUNICACAO_EXTRAJUDICIAL_remetente_HELERI_destinatario_MV3]]
+- ---
+- **Ref.:** [[ato administrativo]], [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]], [[registro comunicado formal]]
+
+- [[2026-02-02.md#15 29 Ato Adm - Cadastro Fornecedor - Gomes Carvalho Conservação Predial|2026-02-02 > 15 29 Ato Adm - Cadastro Fornecedor - Gomes Carvalho Conservação Predial]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** necessidades de manutenção predial, com facilidade de pagamento (parcelamento estendido).
+- **Registra-se:**
+- **QUE** [[Síndica]] cadastra fornecedor "_Gomes Carvalho Conservação Predial_"
+- [10:21, 02/02/2026] Ana: Cadastra Gomes Carvalho Conservação Predial  - 2507-8684 e 2224-8939  www.gomescarvalho.com.br   email: carlotellus@yahoo.com.br - endereço: Rua Riachuelo, 184 - loja 14 cep 20230-014 Centro - RJ
+- ---
+- **Ref.:** [[ato administrativo]], [[registro fornecedor]]
+
 - [[2026-02-01.md#14 30 Ato Adm - Gestão Heleri - Orçamento de Vistoria|2026-02-01 > 14 30 Ato Adm - Gestão Heleri - Orçamento de Vistoria]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** [[Q260109_1847 Providência ao Pedido de Distrato]]
@@ -199,7 +272,7 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 - ---
 - **Ref.:** [[ato administrativo]] , [[registro levantamento]]
 
-- [[2026-01-30.md#12 00 Ato Adm - Gestão Heleri - Resposta a MV3|2026-01-30 > 12 00 Ato Adm - Gestão Heleri - Resposta a MV3]]: 
+- [[2026-01-30.md#12 00 Ato Adm - Resposta à MV3 - Comunicado Extrajudicial|2026-01-30 > 12 00 Ato Adm - Resposta à MV3 - Comunicado Extrajudicial]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** Comunicado recebido no dia 27/01/2026 remetente [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]]
 - **Registra-se:**
