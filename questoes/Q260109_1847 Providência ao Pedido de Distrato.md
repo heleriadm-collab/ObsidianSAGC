@@ -32,7 +32,11 @@ summary:
 
 - **Risco:** N/A
 
-- **Onde:** na forma remota por vídeo conferência https://meet.google.com/asm-bwsr-mfx?authuser=0
+- **Onde:** 
+		- [[AGE - Janeiro 2026]]: na forma remota por vídeo conferência https://meet.google.com/asm-bwsr-mfx?authuser=0
+		- **Google Drive Documentos:** https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=Q260109_1847
+		- **Google Drive Imagens:** https://drive.google.com/drive/u/6/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Q260109_1847
+
 
 - **Termo encerramento:** 
 
