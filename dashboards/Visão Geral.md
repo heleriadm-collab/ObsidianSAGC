@@ -108,6 +108,33 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
+- [[2026-02-03.md#13 44 Ato Adm - Reforçando Comunicado Extrajudial à MV3|2026-02-03 > 13 44 Ato Adm - Reforçando Comunicado Extrajudial à MV3]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]] (2) Comunicado feito em [[2026-01-30#12 00 Ato Adm. - Resposta à MV3 - Comunicado Extrajudicial]]
+- **Registra-se:**
+- **QUE** [[Síndica]] reforça nos canais da [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] sobre comunicado extraoficial enviado MAS SEM CONFIRMAÇÃO de RECEBIMENTO, AINDA QUE VIA CANAL OFICIAL QUE CONSTA NO CONTRATO (telefone/whatsapp/e-mail)
+- **QUE**  Síndica também dá ciência do ato via [[Grupo Whatsapp do Conselho]]
+- ---
+- [12:13, 30/01/2026] Ana: Segue resposta do condomínio Heleri.
+- [13:36, 03/02/2026] Ana: Reforço e reitero sobre envio de COMUNICADO EXTRAJUDICIAL, feito na data 30/01/2026, por este número (21 97085-9618) que consta como oficial no contrato , por este canal cujo histórico demonstra mensagens devidamente respondidas até a data de 27/01/2026, e ainda que fora enviada mensagem de mesmo conteúdo via e-mail também oficial em contrato mv3engenharias@gmail.com na data de 02/02/2026.
+- ---
+- **Ref.:** [[ato administrativo]], [[registro comunicado formal]]
+- https://drive.google.com/drive/u/6/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Q260109_1847
+- https://drive.google.com/drive/u/6/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=Q260109_1847
+- <iframe src="https://drive.google.com/file/d/1Ar8LxLAfVqtmhdMObjkL2Z3lVEm6kcGR/preview" width="640" height="480"></iframe>
+
+- [[2026-02-03.md#12 39 Ato Adm - Cobrança Ata AGO DEZ 2025|2026-02-03 > 12 39 Ato Adm - Cobrança Ata AGO DEZ 2025]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** [[260122_Email_Consulta_Jurídica_Apolo_Caso_Telhas_Soltas_Q260109_1847]]
+- **Registra-se:**
+- **QUE** foi solicitada entrega da ata [[AGO - Dezembro 2025]], que homologa eleição da [[Síndica]] Sra [[Ana 402]]
+- **QUE** sem essa ata não é possível prosseguir com [[260122_Email_Consulta_Jurídica_Apolo_Caso_Telhas_Soltas_Q260109_1847]]
+- **QUE** sem essa ata não é possível efetuar cadastro em novos fornecedores (ex. [[Cometa Material Construção - fornecedor]] > atividade [[2026-01-29#21 36 Ato Adm. - Cadastro Cometa Como Fornecedor Heleri]] )
+- **QUE** qualquer representação legal contra [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] está irregular
+- **QUE** termos do [[Art 22 -  Lei 4.591-64]] não estão sob gestão regularizada
+- ---
+- **Ref.:** [[ato administrativo]], [[registro cobrança]]
+
 - [[2026-02-02.md#17 01 Ato Adm - Análise Vagas Garagem - Forma Atual|2026-02-02 > 17 01 Ato Adm - Análise Vagas Garagem - Forma Atual]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** [[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]
@@ -180,6 +207,15 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 - [10:21, 02/02/2026] Ana: Cadastra Gomes Carvalho Conservação Predial  - 2507-8684 e 2224-8939  www.gomescarvalho.com.br   email: carlotellus@yahoo.com.br - endereço: Rua Riachuelo, 184 - loja 14 cep 20230-014 Centro - RJ
 - ---
 - **Ref.:** [[ato administrativo]], [[registro fornecedor]]
+
+- [[2026-02-02.md#14 44 Ato Adm - Remoção Entulho Entrada Portaria|2026-02-02 > 14 44 Ato Adm - Remoção Entulho Entrada Portaria]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) limpeza e coleta de entulho (2) [[Q260121_1804 - Sobre Piso Portaria Interna - Restauração]]
+- **Registra-se:**
+- **QUE** [[Leonardo 402]] remove entulho armazenado na entrada próximo ao portão, acumulado de resíduo de obras e  carpete removido durante ação de restauração do piso da portaria interna
+- **QUE** embora tenha sido agendado serviço da Comlurb, aproveitou-se oferta de serviço por parte de catadores, visando celeridade no reestabelecimento da desobstrução da área
+- ---
+- **Ref.:** [[ato administrativo]], [[Andar Portaria]], [[Hall Pilotis]]
 
 - [[2026-02-01.md#14 30 Ato Adm - Gestão Heleri - Orçamento de Vistoria|2026-02-01 > 14 30 Ato Adm - Gestão Heleri - Orçamento de Vistoria]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
