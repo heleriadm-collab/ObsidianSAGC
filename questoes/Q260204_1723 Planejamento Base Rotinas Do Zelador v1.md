@@ -23,9 +23,10 @@ summary:
 
 - **Termo encerramento:** conforme checklist abaixo
 
-- [ ] publicado em quadro visível a moradores e zelador
-- [ ] publicado no Google Calendar
-- [ ] registradas as tarefas no SAGC
+- [ ] publicar em quadro visível a moradores e zelador
+- [ ] publicar no Google Calendar
+- [ ] registrar as Tarefas no SAGC
+- [ ] registrar as Rotinas no SAGC
 
 # Planejamento Base - versão 1 - fev 2026
 
