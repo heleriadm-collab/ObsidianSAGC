@@ -108,6 +108,46 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
+- [[2026-02-04.md#17 23 Questão - Planejamento Base Rotinas Do Zelador|2026-02-04 > 17 23 Questão - Planejamento Base Rotinas Do Zelador]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260204_1723 Planejamento Base Rotinas Do Zelador v1]]
+- **Descrição:**
+- **QUE** [[Síndica]] solicita cadastro das Tarefas de base para planejamento das rotinas (com data discriminada)
+- **QUE** anota em tabela, conforme íntegra abaixo, cronograma semanal de execução, endereçado ao Sr [[Rogerio Zelador]]
+- **QUE** tarefas/rotinas atendem critérios legais da competência de contrato empregatício de "**zelador**", e conforme orientado em [[Q260115_1812 Registro Orientações Apolo 13-jan-26]]
+- **QUE** solicita anotar em sistema e publicar no [[Google Calendar Heleri Adm]]
+- **Quando:** rotina recorrente mensal
+- **Onde:** nas dependências comuns do Heleri
+- **Por quê:** (1) retorno Sr [[Rogerio Zelador]] (2) planejamento das rotinas
+- ---
+- **Ref.:** [[registro questão]], [[registro planejamento]]
+
+- [[2026-02-04.md#17 04 Despesa - Pagamento e Recibo Sr Valdeci|2026-02-04 > 17 04 Despesa - Pagamento e Recibo Sr Valdeci]]: 
+    - [[Gestão Condominial do Heleri]], segue **despesa** ...
+- **Motivação:** (1) pagamento ao Sr [[Valdeci Felix Henrique - Prédio 26]] pelos serviços de coleta e retirada de lixo das dependências do Heleri para recolhimento pela Comlurb
+- **Registra-se:**
+- **QUE** [[Síndica]] efetua pagamento com recurso próprio e registrado via comprovante [[260203_Comprovante_Pgto_Valdeci_Servicos_Jan_2026]]
+- **QUE** recolhe recibo do Sr [[Valdeci Felix Henrique - Prédio 26]] para encaminhamento ao [[Processo Reembolso]] via [[Administradora Apolo]]
+- **QUE** recibo registrado em [[2602_Recibo_Sr_Valdeci_Servicos_Jan_2026]]
+- **QUE** atualiza-se planilha de controle [[Planilha_Controle_Despesas_v2601_1]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro despesa]]
+- <iframe src="https://drive.google.com/file/d/1vkMwFfG7sn8NzHE8MarnFGQDPAOPCUhY/preview" width="640" height="480"></iframe>
+- https://drive.google.com/file/d/1vkMwFfG7sn8NzHE8MarnFGQDPAOPCUhY/view?usp=sharing
+
+    - [[registro lembrete]] para **próximos passos**: No âmbito do(a) [[Processo Reembolso]] encaminhar [[2602_Recibo_Sr_Valdeci_Servicos_Jan_2026]]   e [[260203_Comprovante_Pgto_Valdeci_Servicos_Jan_2026]] à [[Administradora Apolo]]
+
+- [[2026-02-04.md#16 30 Ato Adm - Registro Comércio - Fornecedor - Casa da Borracha|2026-02-04 > 16 30 Ato Adm - Registro Comércio - Fornecedor - Casa da Borracha]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** base de dados de fornecedores
+- **Registra-se:**
+- **QUE** cadastra-se comércio local, com perfil de potencial fornecedor
+- ... [[Casa da Borracha - Conde Bonfim, 519]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro fornecedor]]
+- <iframe src="https://drive.google.com/file/d/1jIclz1vH59ZFz_hd2bOXqQTSVL9QtiJ_/preview" width="640" height="480"></iframe>
+- <iframe src="https://drive.google.com/file/d/1gTRmcP9y4K8vtqE3mQ9UoJirNwqNj6Hh/preview" width="640" height="480"></iframe>
+- https://drive.google.com/drive/u/6/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Casa%20da%20Borracha
+
 - [[2026-02-03.md#13 44 Ato Adm - Reforçando Comunicado Extrajudial à MV3|2026-02-03 > 13 44 Ato Adm - Reforçando Comunicado Extrajudial à MV3]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]] (2) Comunicado feito em [[2026-01-30#12 00 Ato Adm. - Resposta à MV3 - Comunicado Extrajudicial]]
@@ -205,6 +245,7 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 - **Registra-se:**
 - **QUE** [[Síndica]] cadastra fornecedor "_Gomes Carvalho Conservação Predial_"
 - [10:21, 02/02/2026] Ana: Cadastra Gomes Carvalho Conservação Predial  - 2507-8684 e 2224-8939  www.gomescarvalho.com.br   email: carlotellus@yahoo.com.br - endereço: Rua Riachuelo, 184 - loja 14 cep 20230-014 Centro - RJ
+- **QUE** registro está feito em [[Gomes Carvalho Conservação Predial]] seguindo o template de fornecedor
 - ---
 - **Ref.:** [[ato administrativo]], [[registro fornecedor]]
 

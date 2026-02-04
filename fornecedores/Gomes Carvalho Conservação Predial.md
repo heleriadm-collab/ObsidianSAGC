@@ -23,7 +23,7 @@ created: 2026-02-04T17:42
 		- **celular:** 2507-8684 e 2224-8939 <!-- (21) 98651-8610 <!-- a href="tel:+5521986518610">ligar</a> -->
 		- **e-mail:** carlotellus@yahoo.com.br
 
-- **Links:** https://www.gomescarvalho.com.br/
+- **Links:** https://www.gomescarvalho.com.br/ | [google](https://www.google.com/search?q=Gomes+Carvalho+Conserva%C3%A7%C3%A3o+Predial+cnpj)
 		- **Reclame Aqui:** 
 		- **LinkedIn:**  
 
