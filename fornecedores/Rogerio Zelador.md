@@ -10,7 +10,7 @@ created: 2026-01-06T16:54
 - **Descrição:** 
 		- **Razão Social:** 
 		- **CNPJ:** 
-		- **Nome Completo:** 
+		- **Nome Completo:** Rogerio Bernardino Silva
 		- **CPF:** 
 
 - **Endereço:** 
@@ -28,6 +28,9 @@ created: 2026-01-06T16:54
 - **Contrato(s):** 
 
 - **Análise(s):** 
+
+# (Rogerio Bernardino Silva)
+
 
 # metadado
 
