@@ -316,20 +316,64 @@ Considerações
 [[tarefas/Limpeza das Calhas]]
 [[tarefas/Remoção Lixo]]
 [[tarefas/Retirada do Lixo]]
+- [ ] RETIRADA DE LIXO DIARIA DOS  CORREDORES DOS ANDARES
 [[tarefas/Remoção Lixo Reciclável]]
 [[tarefas/Retirada do Lixo Reciclável]]
 [[tarefas/Limpeza Terraço]]
+- [ ] VARRER O TERRAÇO
+- [ ] LAVAGEM DO TERRAÇO
+[[tarefas/Limpeza Janelas]]
+- [ ] LIMPEZA DAS JANELAS
 [[tarefas/Limpeza Escadas]]
+- [ ] VARRER E PASSAR PANO NAS ESCADAS 
+- [ ] LAVAGEM DAS ESCADAS
+- [ ] LAVAGEM DOS PISOS DE MARMORE DOS ANDARES
+- [ ] VARRER E PASSAR PANO PISO DE MARMORES DOS ANDARES
 [[tarefas/Limpeza Garagem]]
+- [ ] LAVAGEM DA LIXEIRA
+- [ ] LAVAGEM DO BANHEIRO DA GARAGEM
+- [ ] VARRER PISO DA GARAGEM
+- [ ] LAVAGEM DO PISO DA GARAGEM
 [[tarefas/Limpeza Quartinho Portaria]]
+- [ ] LIMPEZA DO QUARTO DA PORTARIA
 [[tarefas/Banheiro Externo]]
 [[tarefas/Limpeza Hall Andar 1]]
 [[tarefas/Limpeza Hall Andar 2]]
 [[tarefas/Limpeza Hall Andar 3]]
 [[tarefas/Limpeza Hall Andar 4]]
+
 [[tarefas/Limpeza Hall Andar Cobertura]]
 [[tarefas/Limpeza Hall Andar Portaria]]
+- [ ] PORTA DE VIDRO PORTARIA
+- [ ] VARRER  E PASSAR PANO PISO PORTARIA
+- [ ] LAVAGEM DE TAPETES
+- [ ] VARRER  E PASSAR PANO PISO ESCADA DE MARMORE DA PORTARIA
+[[tarefas/Limpeza Hall Entrada Serviço]]
+- [ ] VARRER  E PASSAR PANO PISO HALL DA ESCADA
+- [ ] PORTA DE MADEIRA EMBAIXO DA ESCADA
+- [ ] PORTA DE MADEIRA QUARTO DA PORTARIA
+[[tarefas/Limpeza Hall Pilotis]]
+- [ ] VARRER PILOTIS DE ENTRADA
+- [ ] LAVAGEM DO PILOTIS DE ENTRADA
+- [ ] REGA DAS PLANTAS
+- [ ] LAVAGEM DA ENTRADA DO PRÉDIO
 [[tarefas/Limpeza das Portas]]
+
+[[tarefas/Limpeza do Elevador]]
+- [ ] LIMPEZA DO ELEVADOR
+
+[[tarefas/Limpeza dos Ralos]]
+- [ ] LIMPEZA DOS RALOS COM CREOLINA
+
+[[tarefas/Varrer e Passar Pano Piso Portaria]]
+[[tarefas/Varrer e Passar Pano Piso Hall Serviço]]
+[[tarefas/Varrer e Passar Pano Escada Mármore Portaria]]
+[[tarefas/Limpar Porta Madeira Embaixo Escada]]
+[[tarefas/Limpar Porta Quarto Zelador]]
+[[tarefas/Limpeza Porta Vidro Portaria]]
+
+
+
 
 ## Tarefas Temporárias e/ou Empreitadas
 
