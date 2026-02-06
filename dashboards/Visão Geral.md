@@ -109,6 +109,21 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
+- [[2026-02-05.md#15 12 Fato Adm - Desacato Grave - Durante Exercício de Gestão da Zeladoria|2026-02-05 > 15 12 Fato Adm - Desacato Grave - Durante Exercício de Gestão da Zeladoria]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Motivação:**
+- **Registra-se:**
+- **QUE** Síndica durante execução do plano [[2602_Atividades_Zeladoria_fev26_v1]] e conforme previsto nas diretrizes [[Plano Comunicação e Controle Tarefas Zeladoria v01]]
+- ... e amparada por Código Civil – Lei nº 10.406-2002 Art. 1.348, inciso V, que atribui ao Síndico "*diligenciar a conservação e a guarda das partes comuns e zelar pela prestação dos serviços que interessem aos possuidores*", e ainda em **exercício de direito e poder diretivo** decorrido de obrigação **CLT - Art 2º** , por representar entidade empregadora (Condomínio), e dentro do que compete jornada de trabalho , deu orientações sobre serviço conforme plano divulgado no plano de limpeza do Condomínio.
+- QUE Sr Rogerio Bernardino Silva ([[Rogerio Zelador]]), **se negou a cumprir plano de limpeza** , **e excedeu limites de comportamento alterando a voz com Síndica mandatária em exercício**, constituindo episódio de **(1) ato de desacato , por ofensa direta no exercício da função e (2) assédio moral por tentativa intimidatória** .
+- **QUE** de imediato é dada publicidade no [[Grupo Whatsapp Condomínio Heleri]]
+- **QUE** de imediato é acionado serviço de orientação jurídica da [[Administradora Apolo]]
+- **QUE** de imediato redige-se advertência por escrito e documentada em [[260205_Advertencia_Comportamento_Zelador_Recusa_trabalho]]
+- **QUE** é solicitada testemunha para entrega da advertência formal
+- ---
+- **Ref.:** [[fato administrativo]], [[tarefas de zeladoria]]
+- <iframe src="https://drive.google.com/file/d/102Kf54IpTBtVLF-MqHTlOCV2Ad7xHfp0/preview" width="640" height="480"></iframe>
+
 - [[2026-02-05.md#11 20 Sobre Zeladoria - Publicidade ao Plano de Atividades da Zeladoria|2026-02-05 > 11 20 Sobre Zeladoria - Publicidade ao Plano de Atividades da Zeladoria]]: 
     - No âmbito da gestão das tarefas da zeladoria, e conforme [[Plano Comunicação e Controle Tarefas Zeladoria v01]]
 - **Registra-se:**
