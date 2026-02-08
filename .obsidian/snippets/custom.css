@@ -1,3 +1,11 @@
+.markdown-source-view, .markdown-preview-view {
+  max-width: 2000px; /* Adjust this value (px, em, or %) to your liking */
+  margin: auto;
+  --file-line-width: 1100px !important;
+  font-size: 18px !important;
+}
+
+
     /* ===============================
        SCOPE ROOT (VERY IMPORTANT)
        =============================== */
