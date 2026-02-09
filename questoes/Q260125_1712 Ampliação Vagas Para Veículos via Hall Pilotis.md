@@ -33,11 +33,46 @@ summary:
 
 # Estudo
 
+(1) plantas https://drive.google.com/drive/u/2/folders/1XcSr7U4v5i-w2guVehjPMMLZ6_YnsQho?q=Q260125_1712
+
+(2) planta https://drive.google.com/drive/u/2/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW?q=Q260125_1712
+
+(3) imagens https://drive.google.com/drive/u/2/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Q260125_1712
+
 ## Croquis
 
 ### Do Hall Pilotis
 
 <iframe src="https://drive.google.com/file/d/1tskyteehD6ac08nPWryZ1rSKcqPtO15F/preview" width="640" height="480"></iframe>
+
+###  260203_Q260125_1712_Hall_Pilotis_v2.pdf
+
+https://drive.google.com/file/d/1qZoiEvdR_uL51l-nfz-_bz6q4esjLWJR/view?usp=sharing
+
+<iframe src="https://drive.google.com/file/d/1qZoiEvdR_uL51l-nfz-_bz6q4esjLWJR/preview" width="640" height="480"></iframe>
+
+
+### 260203_Q260125_1712_Hall_Pilotis_v1.pdf
+
+https://drive.google.com/file/d/1dQRaPyFt9aRuaX7yFY8oljuZx9ljdRKY/view?usp=sharing
+
+
+<iframe src="https://drive.google.com/file/d/1dQRaPyFt9aRuaX7yFY8oljuZx9ljdRKY/preview" width="640" height="480"></iframe>
+
+
+### 260201_Q260125_1712_planta_garagem_simulacao_03.pdf
+
+https://drive.google.com/file/d/130fu-nea1aBYIBV_waz4k64Ggs2Cq4Hm/view?usp=sharing
+
+<iframe src="https://drive.google.com/file/d/130fu-nea1aBYIBV_waz4k64Ggs2Cq4Hm/preview" width="640" height="480"></iframe>
+
+
+### 260201_Q260125_1712_planta_garagem_simulacao_01.pdf
+
+https://drive.google.com/file/d/1P5cG1NgIkALPQKvb7NKGdRw2GfuI1It8/view?usp=sharing
+
+
+<iframe src="https://drive.google.com/file/d/1P5cG1NgIkALPQKvb7NKGdRw2GfuI1It8/preview" width="640" height="480"></iframe>
 
 ### Da Garagem
 
