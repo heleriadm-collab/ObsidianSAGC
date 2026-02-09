@@ -11,13 +11,13 @@ created: 2026-01-15T18:39
 		- (1) 260113_FOLHA DE PONTO MENSAL heleri.pdf
 		- (2) 260113_FOLHA DE PONTO MENSAL heleri.docx
 
-- **Objetivo:** 
+- **Objetivo:** [[Q260204_1723 Planejamento Base Rotinas Do Zelador v1]]
 
-- **Motivação:** 
+- **Motivação:** [[Q260204_1723 Planejamento Base Rotinas Do Zelador v1]]
 
-- **Autor:** 
+- **Autor:** [[Síndica]] sob orientações da [[Administradora Apolo]]
 
-- **Compõe:** 
+- **Compõe:** (1) [[Plano Comunicação e Controle Tarefas Zeladoria v01]] (2) [[Q260204_1723 Planejamento Base Rotinas Do Zelador v1]]
 
 - **Composto por:** 
 

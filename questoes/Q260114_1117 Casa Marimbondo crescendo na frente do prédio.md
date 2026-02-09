@@ -14,6 +14,8 @@ summary:
 - **Descrição:** 
 		- **QUE** [[Síndica]] identifica "_[15:36, 13/01/2026] Ana: Casa de marimbondo crescendo na entrada do prédio_"
 		- **QUE** para remoção "_[10:00, 14/01/2026] Ana: Necessária a contratação de empresa especializada_"
+		- **QUE** se voluntaria [[José Wagner 201]]:
+		- **QUE** "*[10:08, 02/02/2026] Ana: Jose Wagner, da unidade 201 se ofereceu para retirar a casa de maribondos.*"
 
 - **Motivação:** 
 

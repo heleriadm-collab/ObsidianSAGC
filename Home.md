@@ -17,7 +17,8 @@
 | semana 03/2026 | [[diario/2026-01-12.md\|12 JAN]] | [[diario/2026-01-13.md\|13 JAN]] | [[diario/2026-01-14.md\|14 JAN]] | [[diario/2026-01-15.md\|15 JAN]] | [[diario/2026-01-16.md\|16 JAN]] |                                  |                                  |
 | semana 04/2026 |                                  | [[diario/2026-01-20.md\|20 JAN]] | [[diario/2026-01-21.md\|21 JAN]] | [[diario/2026-01-22.md\|22 JAN]] | [[diario/2026-01-23.md\|23 JAN]] | [[diario/2026-01-24.md\|24 JAN]] | [[diario/2026-01-25.md\|25 JAN]] |
 | semana 05/2026 | [[diario/2026-01-26.md\|26 JAN]] | [[diario/2026-01-27.md\|27 JAN]] | [[diario/2026-01-28.md\|28 JAN]] | [[diario/2026-01-29.md\|29 JAN]] | [[diario/2026-01-30.md\|30 JAN]] | [[diario/2026-01-31.md\|31 JAN]] | [[diario/2026-02-01.md\|01 FEV]] |
-| semana 06/2026 | [[diario/2026-02-02.md\|02 FEV]] | [[diario/2026-02-03.md\|03 FEV]] | [[diario/2026-02-04.md\|04 FEV]] | [[diario/2026-02-05.md\|05 FEV]] | [[diario/2026-02-06.md\|06 FEV]] |                                  |                                  |
+| semana 06/2026 | [[diario/2026-02-02.md\|02 FEV]] | [[diario/2026-02-03.md\|03 FEV]] | [[diario/2026-02-04.md\|04 FEV]] | [[diario/2026-02-05.md\|05 FEV]] | [[diario/2026-02-06.md\|06 FEV]] |                                  | [[diario/2026-02-08.md\|08 FEV]] |
+| semana 07/2026 | [[diario/2026-02-09.md\|09 FEV]] |                                  |                                  |                                  |                                  |                                  |                                  |
 
 
 
@@ -26,20 +27,18 @@
 
 # Eventos Relevantes
 
-## [[AGE - Fevereiro 2026]] - próximo DOMINGO
+## Troca Medidores 402 301 201 401 202 e 101
 
-> Online no domingo 08/FEV/2026. 
-> **Link:** https://meet.google.com/igm-qauf-wrk?authuser=0
-> **Assuntos:** 
-> 
-(1) [[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]
+> Técnico virá dia 11 fev 2026 - **HAVERÁ INDISPONIBILIDADE DE ENERGIA DURANTE MANOBRA** 
 
-(2) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+<iframe src="https://drive.google.com/file/d/1KWZX9TQ6N2QQ89Eo6HL4WpYLoC7j8MMS/preview" width="640" height="480"></iframe>
 
-(3) [[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]
 
-(4) [[Q260129_0914 Fundo de manutenção]]
+## [[AGE - Fevereiro 2026]] - REALIZADA domingo 08 Fev
 
+> VIDE ATA em [[AGE - Fevereiro 2026#Ata]]
+
+<!-- 
 ```mermaid
 %%{init: {
   "theme": "base",
@@ -69,7 +68,7 @@ timeline
                  : Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis
 
 ```
-
+-->
 
 # SOBRE O SACG Heleri
 

@@ -1,5 +1,5 @@
 ---
-tipo: tecnologia
+tipo: estudo
 created: 2026-01-03T14:13
 ---
 #estudo

@@ -12,23 +12,55 @@ summary:
 #questao #fundo_manutencao 
 
 - **Descrição:** 
-		- **QUE** [[Júlia Cruz - Heleri]] pede pauta de discussão recurso de segurança câmera e/ou modernização de interfone, com disponibilidade de acesso aos moradores
+		- **QUE** [[Júlia Cruz 401 - Heleri]] pede pauta de discussão recurso de segurança câmera e/ou modernização de interfone, com disponibilidade de acesso aos moradores
 		- [14:18, 14/01/2026] Júlia Cruz Heleri: Conseguimos falar sobre a possibilidade, já vista em outras reuniões, de uma possível modernização do interfone? Talvez com uma câmera, onde cada morador pudesse acessar de seu celular, além da modernização dos próprios aparelhos dentro dos apartamentos...
 		- [15:17, 14/01/2026] Ana: Sim, temos contribuições do 102, temos um estudo elaborado pelo 402. Vamos usar o sistema novo também com o objetivo de gerir demandas . Todas as contribuições serão bem vindas e não serão esquecidas, valeu mesmo!!
 		- **QUE** [[Síndica]] pede registro para visibilidade no [[SAGC Heleri]]
+		- **QUE** Sra [[Glaucia 102]] fornece sistema de referência, de baixo custo, e adotado no condomínio onde ela reside
+		- **QUE** modelo sinalizado encontra-se a venda no Mercado Livre link: https://www.mercadolivre.com.br/kit-4-camera-seguranca-dupla-prova-dagua-wifi-hd-icsee-a28/up/MLBU781814895
+		- **QUE** modelo é designado como "**Kit 4 Câmera Segurança Dupla Prova Dágua Wifi Hd Icsee A28 Branco**"
+		- **QUE** em análise feita por [[Leonardo 402]], modelo similar mais próximo, porém com custo superior, está a venda no Mercado Livre link: https://www.mercadolivre.com.br/tp-link-tapo-c200-cmera-de-seguranca-wifi-1080p-360-pantilt/p/MLB18593981
+		- **QUE** modelo é designado como "**TP-Link Tapo C200 Câmera de Segurança Wifi 1080P 360° Pan/Tilt**"
 		- ---
 		- [[registro planejamento]]: obter base histórica à partir do [[Google Drive - Gestão 2025]], em curso sob questão [[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm]]
 
 - **Motivação:** (1) necessidade de segurança. (2) necessidade de monitoria e proteção conforme alinhado em [[AGO - Dezembro 2025]]
 
-- **Custo:** N/A
+- **Custo:** 
+		- R$ 448 Kit 4 Câmera Segurança Dupla Prova Dágua Wifi Hd Icsee A28 Branco
+		- ---
+		- 4x R$ 174 TP-Link Tapo C200 Câmera de Segurança Wifi 1080P 360° Pan/Tilt
 
 - **Risco:** N/A
 
 - **Onde:** [[Andar Portaria]], [[Portaria Interna]]
 
 - **Termo encerramento:** 
+- **Data encerramento:** 
 
+- [ ] definir pontos das câmeras
+- [ ] aguardar retorno do [[Marcelo 101]] sobre opção com características melhores ao do "**Kit 4 Câmera Segurança Dupla Prova Dágua Wifi Hd Icsee A28 Branco**" (conforme [[AGE - Fevereiro 2026]])
+
+---
+
+# Modelos Apurados
+
+(1) Kit 4 Câmera Segurança Dupla Prova Dágua Wifi Hd Icsee A28 Branco
+https://www.mercadolivre.com.br/kit-4-camera-seguranca-dupla-prova-dagua-wifi-hd-icsee-a28/up/MLBU781814895
+
+R$ 448 jogo 4 câmeras
+
+---
+
+
+(2) TP-Link Tapo C200 Câmera de Segurança Wifi 1080P 360° Pan/Tilt
+https://www.mercadolivre.com.br/tp-link-tapo-c200-cmera-de-seguranca-wifi-1080p-360-pantilt/p/MLB18593981
+
+R$ 174 a unidade
+
+---
+
+(3) AGUARDANDO especificação [[Marcelo 101]]
 
 ---
 
@@ -77,7 +109,7 @@ Itens Inclusos:
 Garantia do vendedor: 30 dias
 
 ```shell
-Heleri-Ato Adm-
+Heleri-Ato Adm-Q260114_1706-Cameras Seguranca
 ```
 
 
