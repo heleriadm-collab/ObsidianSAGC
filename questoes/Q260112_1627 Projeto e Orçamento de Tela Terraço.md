@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** **QUE** [[Síndica]] solicita anotar pedido de projeto e orçamentos de tela para o [[Terraço]]
 

@@ -8,7 +8,7 @@ v: 1
 summary:
 ---
 
-#questao 
+#questao #fundo_manutencao 
 
 - [x] Dar baixa
 

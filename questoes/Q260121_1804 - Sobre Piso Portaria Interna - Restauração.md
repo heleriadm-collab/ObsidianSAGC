@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 
 Em continuidade ação iniciada em [[2026-01-20#20 39 Sobre Piso Portaria Interna - Restauração]]

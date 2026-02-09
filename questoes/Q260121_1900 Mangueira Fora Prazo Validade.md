@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** Levantamento sobre questão prazo de validade disposto no lacre das mangueiras
 		- **Consulta ao Conselheiro [[Marcelo 101]]:** 

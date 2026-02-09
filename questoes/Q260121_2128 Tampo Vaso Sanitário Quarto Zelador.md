@@ -9,7 +9,7 @@ summary:
 ---
 - [x] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** **QUE** em ronda Síndica verifica necessidade de "_(tampa do vaso banheiro zelador_"
 

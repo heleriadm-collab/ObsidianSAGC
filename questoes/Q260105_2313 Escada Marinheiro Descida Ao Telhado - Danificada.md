@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao
 
 - **Descrição:** **QUE** a escada de marinheiro está com fixação danificada e reboco oco podendo causar acidentes durante acesso ao telhado
 

@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** 
 		- **QUE** [[Síndica]] identifica "_[15:36, 13/01/2026] Ana: Casa de marimbondo crescendo na entrada do prédio_"

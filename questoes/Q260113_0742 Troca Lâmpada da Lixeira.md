@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** [[Síndica]] registra necessidade de troca de lâmpada da lixeira que está queimada
 

@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** 
 		- **QUE** Sr [[Rogerio Zelador]], em momento anterior as férias comentou que há falha grave no [[Portão Entrada]].

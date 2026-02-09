@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** **QUE** foi registrado em ronda de 31/12, fissura parede interna a lixeira
 		- **QUE** foram feitos registros por fotos e armazenados em [[Google Drive Heleri Adm]]

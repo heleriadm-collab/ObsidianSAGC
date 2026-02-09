@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** 
 		- **QUE** [[Júlia Cruz - Heleri]] pede pauta de discussão recurso de segurança câmera e/ou modernização de interfone, com disponibilidade de acesso aos moradores

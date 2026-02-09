@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** 
 		- **QUE** [[Síndica]] entra em contato com fornecedor [[SOS Elevadores]] e informa problema de que "_o elevador trava com pesos abaixo do limite discriminado_"

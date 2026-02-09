@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** **QUE** foi verificado vazamento descendo por coluna da [[Garagem]], advindo do [[Bloco 2]], posição entre cozinha e antessala OU da [[Unidade 102]] OU da [[Unidade 202]] (a averiguar)
 		- **Quando:** visto às 14:37 (29/01)

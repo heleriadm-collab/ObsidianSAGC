@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** **QUE** ao longo das primeiras semanas do ano, em levantamento boca-a-boca, [[Síndica]] quis saber dos condôminos sobre "_opinião em converter área do [[Hall Pilotis]] em vagas para veículos_"
 			- **QUE** essa possibilidade teria benefício direto na valorização dos imóveis

@@ -9,7 +9,7 @@ summary:
 ---
 - [ ] Dar baixa
 
-#questao 
+#questao #fundo_manutencao 
 
 - **Descrição:** **QUE** em ronda Síndica verifica necessidade de recuperação da "_porta de madeira do quadro de energia_"
 		- **QUE** Realizada aquisição [[NF260121_Material Restauração Piso Portaria Interna]]

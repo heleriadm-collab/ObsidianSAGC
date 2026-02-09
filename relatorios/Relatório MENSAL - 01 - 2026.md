@@ -37,8 +37,26 @@ AND any(file.tasks, (t) => t.completed)
 GROUP BY list(file.frontmatter.area) AS Area
 
 ```
-# Questões Por Semana
 
+# Fundo Manutenção
+
+```dataview
+
+TABLE length(rows) as Qtd, rows.file.link AS "Questões"
+FROM #fundo_manutencao 
+WHERE 
+file.frontmatter.area != "INFORMAR" 
+AND file.frontmatter.status_questao != "RESOLVIDO" 
+AND file.frontmatter.status_questao != "CANCELADO" 
+AND file.frontmatter.status_questao != "FECHADO" 
+AND !contains(file.name, "Template")
+GROUP BY "semana " + list( dateformat(created, "WW yyyy") ) AS "Semana/Ano"
+SORT Mes DESC
+
+```
+
+
+# Questões Por Semana
 ```dataview
 
 TABLE length(rows) as Qtd, rows.file.link AS "Questões"
