@@ -14,7 +14,7 @@ qnd_ano: 2026
 
 #rotina
 
-- [ ] Dar baixa
+- [x] Dar baixa
 
 - Ref.: [[Remoção do Lixo]]
 - Obs.: 
