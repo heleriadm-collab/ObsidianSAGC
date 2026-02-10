@@ -1,6 +1,7 @@
 ---
 mnemonico: {{title}}
 created: {{date:YYYY-MM-DD[T]HH:mm}}
+encerramento: 
 tipo_questao: 
 status_questao: INFORMAR
 area: INFORMAR
@@ -22,7 +23,7 @@ summary:
 - **Onde:** 
 
 - **Termo encerramento:** 
-
+- **Data encerramento:** 
 
 
 # metadado

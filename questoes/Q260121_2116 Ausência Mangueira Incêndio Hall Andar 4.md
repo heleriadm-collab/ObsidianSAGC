@@ -1,13 +1,14 @@
 ---
 mnemonico: Q260121_2116
 created: 2026-01-21T21:17
+encerramento: 2026-02-03T21:17:00
 tipo_questao: 
 status_questao: INFORMAR
 area: SEGURANCA
 v: 1
 summary:
 ---
-- [ ] Dar baixa
+- [x] Dar baixa
 
 #questao 
 
@@ -29,8 +30,8 @@ summary:
 
 - **Onde:** [[Hall Andar 4]]
 
-- **Termo encerramento:** [[Q260121_2116 Ausência Mangueira Incêndio Hall Andar 4]] >>> processo de devolução, conforme exposto em [[2026-01-24#14 18 Ato Adm. - Devolução Mangueira Adquirida]] >>> **E** obtenção da mangueira na guarda da [[Unidade 101]]
-
+- **Termo encerramento:** Mangueira recolocada na caixa de incêndio
+- **Data encerramento:** 2026-02-03
 
 
 # metadado

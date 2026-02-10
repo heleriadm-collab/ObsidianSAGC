@@ -17,7 +17,7 @@ created: 2026-01-05T09:32
 | <ul><li>AQUISICAO</li></ul>          | <ul><li>[[Q260105_1445 Aquisição de Tampa de Bueiro Hidráulico]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | <ul><li>DANO_AVARIA</li></ul>        | <ul><li>[[Q260201_1312 Fissura Parede Interna na Lixeira]]</li><li>[[Q260131_0855 Infiltração apartamento 401]]</li><li>[[Q260129_2148 Vazamento cano externo bl2 entre Andar 1 e 2]]</li><li>[[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]</li><li>[[Q260105_1452 Troca Luzes Emergência Escada]]</li><li>[[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]]</li><li>[[Q260105_1449 Corrimão Escada Primeiro Andar - Portaria Danificado]]</li></ul>                                               |
 | <ul><li>GESTAO</li></ul>             | <ul><li>[[Q260204_1723 Planejamento Base Rotinas Do Zelador v1]]</li><li>[[Q260115_1828 Reforço Publicidade Contato SOS Elevadores e Instrução Funcionário]]</li><li>[[Q260115_1812 Registro Orientações Apolo 13-jan-26]]</li><li>[[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm]]</li><li>[[Q260108_2229 Regramento de Trânsito com Cão]]</li><li>[[Q260108_1916 Novos Moradores 302 - Apoio Mudança e Orientações]]</li><li>[[Q260209_1522 Capacidade Crédito Heleri - semestre 01 2026]]</li></ul> |
-| <ul><li>INFORMAR</li></ul>           | <ul><li>[[Q260129_0914 Fundo de manutenção]]</li><li>[[Q260116_1642 Falha Botão Portaria - Interno e Externo]]</li><li>[[Q260109_1847 Providência ao Pedido de Distrato]]</li><li>[[Q260108_1417 Remoção Tijolos Excedentes do Telhado BL2]]</li><li>[[Q260105_2324 Calha Sobre Cobertura 01 Causa Infiltração]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                       |
+| <ul><li>INFORMAR</li></ul>           | <ul><li>[[Q260129_0914 Fundo de manutenção]]</li><li>[[Q260116_1642 Falha Botão Portaria - Interno e Externo]]</li><li>[[Q260108_1417 Remoção Tijolos Excedentes do Telhado BL2]]</li><li>[[Q260105_2324 Calha Sobre Cobertura 01 Causa Infiltração]]</li><li>[[Q260109_1847 Providência ao Pedido de Distrato]]</li><li>[[Q260209_1951 Reinstalação Mangueira Incêndio Andar 4]]</li></ul>                                                                                                                                                                                                                                                                   |
 | <ul><li>INFRAESTRUTURA</li></ul>     | <ul><li>[[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | <ul><li>MANUTENCAO</li></ul>         | <ul><li>[[Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia]]</li><li>[[Q260121_1804 - Sobre Piso Portaria Interna - Restauração]]</li><li>[[Q260116_1105 Mudança Quantidade de Toques Interfone - Consulta e Análise]]</li><li>[[Q260113_0742 Troca Lâmpada da Lixeira]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | <ul><li>SEGURANCA</li></ul>          | <ul><li>[[Q260121_2116 Ausência Mangueira Incêndio Hall Andar 4]]</li><li>[[Q260121_1900 Mangueira Fora Prazo Validade]]</li><li>[[Q260112_1627 Projeto e Orçamento de Tela Terraço]]</li><li>[[Q260112_1537 Registro de Risco no Portão Entrada]]</li><li>[[Q260105_1446 Roubo da Tampa Metálica Bueiro]]</li><li>[[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]</li><li>[[Q260114_1117 Casa Marimbondo crescendo na frente do prédio]]</li></ul>                                                                         |
@@ -110,6 +110,41 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
+- [[2026-02-09.md#19 57 Fato Adm - Eng Perito Não Poderá Continuar - Novo Profissional Deve Ser Contratado|2026-02-09 > 19 57 Fato Adm - Eng Perito Não Poderá Continuar - Novo Profissional Deve Ser Contratado]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Motivação:** [[Q260109_1847 Providência ao Pedido de Distrato]]
+- **Registra-se:**
+- **QUE** na data de **09 Fev** foi comunicado que o Sr. [[Luiz Engenheiro técnico-perito]], que realizava perícia para construção de laudo acerca das [[Obras Telhado BL2]], sofreu acidente de nível grave
+- **QUE** incidente suspende atividade de consultoria em curso, devendo portanto, o Condomínio providenciar novo profissional para prosseguimento do laudo e levantamentos, conforme deliberado na [[AGE - Janeiro 2026]]
+- **QUE** além da questão que analisava caso da [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]], também fica impactado o planejamento de levantamento acerca da questão [[Q260131_0855 Infiltração apartamento 401]], dado que Síndica havia reservado visita do perido Sr Luiz, ao imóvel [[Unidade 401]] para primeira análise do caso de infiltração
+- ---
+- [16:56, 09/02/2026] Ana: [19:13, 07/02/2026] Luis Claudio - Eng RJ Delphos: Boa noite. É a esposa do Luis Claudio. Ele sofreu um acidente hj.Vai fazer uma cirurgia amanhã. Assim que ele puder ele entra em contato. Não está com telefone pois está no CTI.
+- ---
+- **Ref.:** [[fato administrativo]], [[registro acompanhamento]]
+
+    - [[registro lembrete]] em 02 2026. No âmbito do(a) [[Q260109_1847 Providência ao Pedido de Distrato]] e [[Q260131_0855 Infiltração apartamento 401]], providenciar novo engenheiro devido impossibilidade de prosseguir com anterior por motivos de acidente
+
+- [[2026-02-09.md#19 51 Questão - Cadastro Itens Necessidade Manutenção - Ronda Domingo 08-fev|2026-02-09 > 19 51 Questão - Cadastro Itens Necessidade Manutenção - Ronda Domingo 08-fev]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[questoes/Q260209_1951]]
+- **Descrição:**
+- **QUE** [[Síndica]] no final semana 07-08 Fev 2026 realiza ronda para levantamento de itens com necessidade de manutenção e passíveis de resolução via [[Fundo Ordinário de Manutenção]]
+- **QUE** levantamento foi realizado no âmbito da questão [[Q260129_0914 Fundo de manutenção]]
+- **QUE** [[Fundo Ordinário de Manutenção]] foi deliberado como APROVADO na [[AGE - Fevereiro 2026]]
+-
+- **Onde:** [[Hall Andar 4]]
+- **Por quê:** Conformidade em caso de sinistro incêndio
+- ---
+- **Ref.:** [[registro questão]], [[registro ronda]], [[registro planejamento]], [[registro levantamento]]
+
+- [[2026-02-09.md#17 02 Fato Adm - Solicitação Esclarecimento|2026-02-09 > 17 02 Fato Adm - Solicitação Esclarecimento]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Motivação:** dúvida acerca da troca dos medidores
+- **Registra-se:**
+- **QUE** [[Marcelo 101]], via [[Grupo Whatsapp Condomínio Heleri]], solicita esclarecimento sobre [[260206_Comunicado_Light_Prog_Modernizacao_Medidores_Obsoletos]]
+- **QUE** é informada página do SAGC que contém documento
+- ---
+- **Ref.:** [[fato administrativo]], [[pedido esclarecimento]], [[registro esclarecimento]]
+
 - [[2026-02-09.md#16 21 Ato Adm - Funcionário se negou assinar advertência|2026-02-09 > 16 21 Ato Adm - Funcionário se negou assinar advertência]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** desdobramento do episódio de desacato cometido pelo Sr [[Rogerio Zelador]] e registrado em [[2026-02-05#15 12 Fato Adm. - Desacato Grave - Durante Exercício de Gestão da Zeladoria]]
