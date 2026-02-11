@@ -5,12 +5,6 @@
 !!! Para ficar atualizado, sempre é possível começar lendo o **[[Visão Geral#Diário Bordo do Mês]]** <= **[[Visão Geral#Diário Bordo do Mês|CLIQUE AQUI]]**
 
 
-# ATENÇÃO!! Quarta 11 Fev 2026 SERÃO TROCADOS MEDIDORES 402, 301, 201, 401, 202 e 101
-
-!!!! **HAVERÁ INDISPONIBILIDADE DE CERCA 30 MINUTOS DURANTE TROCA DOS DISPOSITIVOS**
-
-<iframe src="https://drive.google.com/file/d/1KWZX9TQ6N2QQ89Eo6HL4WpYLoC7j8MMS/preview" width="640" height="480"></iframe>
-
 # [Diário](https://heleriadm-collab.github.io/SAGCHeleri/diario/) 
 
 
@@ -22,18 +16,19 @@
 | semana 04/2026 |                                  | [[diario/2026-01-20.md\|20 JAN]] | [[diario/2026-01-21.md\|21 JAN]] | [[diario/2026-01-22.md\|22 JAN]] | [[diario/2026-01-23.md\|23 JAN]] | [[diario/2026-01-24.md\|24 JAN]] | [[diario/2026-01-25.md\|25 JAN]] |
 | semana 05/2026 | [[diario/2026-01-26.md\|26 JAN]] | [[diario/2026-01-27.md\|27 JAN]] | [[diario/2026-01-28.md\|28 JAN]] | [[diario/2026-01-29.md\|29 JAN]] | [[diario/2026-01-30.md\|30 JAN]] | [[diario/2026-01-31.md\|31 JAN]] | [[diario/2026-02-01.md\|01 FEV]] |
 | semana 06/2026 | [[diario/2026-02-02.md\|02 FEV]] | [[diario/2026-02-03.md\|03 FEV]] | [[diario/2026-02-04.md\|04 FEV]] | [[diario/2026-02-05.md\|05 FEV]] | [[diario/2026-02-06.md\|06 FEV]] |                                  | [[diario/2026-02-08.md\|08 FEV]] |
-| semana 07/2026 | [[diario/2026-02-09.md\|09 FEV]] |                                  |                                  |                                  |                                  |                                  |                                  |
-
-
-
+| semana 07/2026 | [[diario/2026-02-09.md\|09 FEV]] |                                  | [[diario/2026-02-11.md\|11 FEV]] |                                  |                                  |                                  |                                  |
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
 
 # Eventos Relevantes
 
-## Troca Medidores 402 301 201 401 202 e 101
+## REALIZADA Troca Medidores
 
-> Técnico virá dia 11 fev 2026 - **HAVERÁ INDISPONIBILIDADE DE ENERGIA DURANTE MANOBRA** 
+> Registro completo veja em [[Q260209_1531 Troca Medidores Energia Unidades 101 201 202 301 402]]
+> 
+
+<iframe src="https://drive.google.com/file/d/1X2dsqeb-eIOHm1Mknz-dIpOCX7k4T9Fe/preview" width="640" height="480"></iframe>
+
 
 ## [[AGE - Fevereiro 2026]] - REALIZADA domingo 08 Fev
 

@@ -20,7 +20,7 @@ created: 2026-02-09T16:05
 
 - **Autor:** [[Light - fornecedora]]
 
-- **Compõe:** (1) [[Sistema Elétrico]] (2) [[Unidade 402]], [[Unidade 301]], [[Unidade 201]], [[Unidade 202]] e [[Unidade 101]]
+- **Compõe:** [[Q260209_1531 Troca Medidores Energia Unidades 101 201 202 301 402]] => (1) [[Sistema Elétrico]] (2) [[Unidade 402]], [[Unidade 301]], [[Unidade 201]], [[Unidade 202]] e [[Unidade 101]]
 
 - **Composto por:** 
 
@@ -34,11 +34,12 @@ created: 2026-02-09T16:05
 
 - **Link:** [[Google Drive Heleri Adm]]
 
-# Visualização 
+## Comunicado
 
 https://drive.google.com/file/d/1KWZX9TQ6N2QQ89Eo6HL4WpYLoC7j8MMS/view?usp=sharing
 
 <iframe src="https://drive.google.com/file/d/1KWZX9TQ6N2QQ89Eo6HL4WpYLoC7j8MMS/preview" width="640" height="480"></iframe>
+
 
 # metadado
 
