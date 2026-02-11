@@ -5,7 +5,11 @@
 !!! Para ficar atualizado, sempre é possível começar lendo o **[[Visão Geral#Diário Bordo do Mês]]** <= **[[Visão Geral#Diário Bordo do Mês|CLIQUE AQUI]]**
 
 
+# ATENÇÃO!! Quarta 11 Fev 2026 SERÃO TROCADOS MEDIDORES 402, 301, 201, 401, 202 e 101
 
+!!!! **HAVERÁ INDISPONIBILIDADE DE CERCA 30 MINUTOS DURANTE TROCA DOS DISPOSITIVOS**
+
+<iframe src="https://drive.google.com/file/d/1KWZX9TQ6N2QQ89Eo6HL4WpYLoC7j8MMS/preview" width="640" height="480"></iframe>
 
 # [Diário](https://heleriadm-collab.github.io/SAGCHeleri/diario/) 
 
@@ -30,9 +34,6 @@
 ## Troca Medidores 402 301 201 401 202 e 101
 
 > Técnico virá dia 11 fev 2026 - **HAVERÁ INDISPONIBILIDADE DE ENERGIA DURANTE MANOBRA** 
-
-<iframe src="https://drive.google.com/file/d/1KWZX9TQ6N2QQ89Eo6HL4WpYLoC7j8MMS/preview" width="640" height="480"></iframe>
-
 
 ## [[AGE - Fevereiro 2026]] - REALIZADA domingo 08 Fev
 
