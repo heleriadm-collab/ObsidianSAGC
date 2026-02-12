@@ -40,6 +40,8 @@ summary:
 
 ## CSM - Comunicado Substituição Medidores
 
+**Todos CSMs:** https://drive.google.com/drive/u/2/folders/1XcSr7U4v5i-w2guVehjPMMLZ6_YnsQho?q=Q260209_1531
+
 ### CSM Condomínio 
 
 https://drive.google.com/file/d/1u8v_9rPuYedtvy-L_H9HRFETbAwPQats/view?usp=sharing
@@ -83,6 +85,7 @@ https://drive.google.com/file/d/1tX58N7xG5_ul3JOzlHXSIRQEaGJ85Hge/view?usp=shari
 ## Desligamento Elevador
 
 <iframe src="https://drive.google.com/file/d/1Oi36mpLwjMFkbfjPFEkYMD7ofuLCqzgs/preview" width="640" height="480"></iframe>
+
 ## Registro Prévio a Troca
 
 - Link: https://drive.google.com/drive/u/2/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Q260209_1531
