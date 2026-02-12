@@ -1,13 +1,14 @@
 ---
 mnemonico: Q260122_1126
 created: 2026-01-22T11:32
+encerramento: 2026-02-12
 tipo_questao: 
 status_questao: INFORMAR
 area: ADMINISTRADORA
 v: 1
 summary:
 ---
-- [ ] Dar baixa
+- [x] Dar baixa
 
 #questao 
 
@@ -22,9 +23,8 @@ summary:
 
 - **Onde:** 
 
-- **Termo encerramento:** 
-
-
+- **Termo encerramento:** feito conforme registrado em [[2026-02-12#17 16 Fato Adm. - Recebimento Ata AGO Dez 2025]]
+- **Data encerramento:** 2026-02-12
 
 # metadado
 
