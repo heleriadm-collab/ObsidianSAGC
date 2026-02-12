@@ -21,7 +21,8 @@ summary:
 
 - **Onde:** [[Quartinho Portaria]]
 
-- **Termo encerramento:** [[NF260121_Material Restauração Piso Portaria Interna]]
+- **Termo encerramento:** (1) inicialmente corrigido via [[NF260121_Material Restauração Piso Portaria Interna]] (2) posteriormente houve devolução à [[Cometa Material Construção - fornecedor]] do item "Assento astra almofadado tpk;" pelo motivo de que Síndica encontrou em estoque tampo de vaso para reposição
+- **Data encerramento:** 
 
 
 
