@@ -387,7 +387,7 @@ Considerações
 [[registro incidente]]
 [[registro reunião]]
 [[Assembléia Geral Extraordinária]]
-[[Assembléia Geral Ordinária]]
+[[Assembléia Geral Ordinária]] 
 [[registro comunicado]]
 [[registro planejamento]]
 [[registro questão]]
@@ -407,6 +407,58 @@ Considerações
 [[envio e-mail]]
 [[registro de aquisição]] - material, contrato prestação, 
 
+
+
+
+[[execução de rotina]] – registros que documentam a realização de uma rotina planejada (ex.: limpeza, inspeção etc.).
+
+[[ato administrativo]] – registros relativos a decisões, comunicações, formalizações, publicações, arquivamentos, entre outros atos institucionais.
+
+[[fato administrativo]] – eventos ou ocorrências que manifestam aspectos administrativos (que não são necessariamente uma rotina programada).
+
+[[registro incidente]] – ocorrência de evento inesperado ou anormal que merece anotação de incidente.
+
+[[registro reunião]] – registro de encontros, reuniões ou pautas realizadas.
+
+[[Assembléia Geral Ordinária]] – registro de assembleias gerais ordinárias.
+
+[[Assembléia Geral Extraordinária]] – registro de assembleias gerais extraordinárias.
+
+[[registro comunicado]] – envio ou recebimento de comunicação formal.
+
+[[registro planejamento]] – registros que estão ligados à fase de planejamento de atividades/tarefas/rotinas.
+
+[[registro questão]] – registro que formaliza uma questão ou discussão que está sendo levantada.
+
+[[registro ronda]] – registros de rondas realizadas pela equipe ou zeladoria.
+
+[[registro inspeção]] – registros de inspeções visuais, técnicas ou operacionais.
+
+[[registro episódio]] – ocorrência singular que pode precisar de acompanhamento.
+
+[[registro reembolso]] – registro relacionado ao reembolso de despesas.
+
+[[registro despesa]] – registros de despesas do condomínio.
+
+[[registro compra]] – registro relacionado à aquisição de bens ou serviços.
+
+[[registro entrega]] – registros de entregas de materiais ou equipamentos.
+
+[[registro cotação]] – registro de solicitação de cotação de preços.
+
+[[registro limpeza]] – registros de serviços e ações de limpeza específicas.
+
+[[retirada reciclável]] – registro específico de retirada de recicláveis.
+
+[[gestão risco]] – registros associados à gestão de riscos.
+
+[[gestão pessoal]] – registros relacionados à gestão de pessoas e equipes.
+
+[[recebimento e-mail]] – registro de e-mail recebido de relevância administrativa.
+
+[[envio e-mail]] – registro de e-mail enviado que tem impacto de gestão.
+
+[[registro de aquisição]] – aquisição de material ou contratação formal.
 
 ## Rotina
 

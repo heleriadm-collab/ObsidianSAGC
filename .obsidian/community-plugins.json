@@ -1,4 +1,5 @@
 [
   "dataview",
-  "dataview-serializer"
+  "dataview-serializer",
+  "obsidian-shellcommands"
 ]

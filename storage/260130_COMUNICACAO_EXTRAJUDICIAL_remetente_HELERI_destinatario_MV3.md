@@ -5,7 +5,7 @@ sub_categoria:
 created: 2026-01-31T09:38
 ---
 
-#documento 
+#documento/comunicado  #documento/notificacao  
 
 
 - **Descrição:** 

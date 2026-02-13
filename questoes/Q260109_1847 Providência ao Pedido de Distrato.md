@@ -25,6 +25,12 @@ summary:
 			- **QUE** foi realizada reunião [[2026-01-22#19 28 Reunião - Gestão Heleri - AGE JAN 2025]]
 			- **QUE** a taxa de **desperdício** na aquisição de **tijolos**, conforme levantamento [[2026-01-24#14 27 Ato Adm. - Realocação Tijolos Excedentes Obras Telhado bl2]] é **218/(500+30)** = **41%** dos tijolos solicitados pela MV3 não foram utilizados
 			- **QUE** é recebida visita do [[Luiz Engenheiro técnico-perito]] conforme registro [[2026-01-26#12 21 Fato Adm. - Gestão Heleri - Visita Engenheiro Perito]]
+			- **QUE** na data de 27/jan [[Síndica]] recebe comunicado da MV3 
+			- **QUE** na data do dia 31/jan Síndica remete resposta ao comunicado recebido em 27/jan ([[260130_COMUNICACAO_EXTRAJUDICIAL_remetente_HELERI_destinatario_MV3]])
+			- **QUE** em 02/fev, diante de ausência de confirmação de recebimento, Síndica reforça envio de resposta via e-mail mv3engenharias@gmail.com (que consta em contrato)
+			- **QUE** em 03/fev, diante de ausência de confirmação de recebimento, Síndica reforça no Whatsapp o envio da resposta, conforme realizado em atividade registrada em
+			- **QUE** na data de 4/fev MV3 informa que resolve pela retirada de ferramentas e material conforme documento [[260204_Comunicado_MV3_Retirada_Ferramentas]]
+			- **QUE** em 13/fev atividade registrada em [[2026-02-13#18 36 Fato Adm. - MV3 Retira Ferramentas]], é efetuada retirada de material
 
 - **Motivação:** (1) situação de [[inadimplemento da contratada]], (2) [[20260109_Comunicado_Posicao_MV3_AoPedidoDistrato]] (resposta da MV3 ao pedido de distrato )
 
