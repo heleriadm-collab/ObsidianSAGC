@@ -4,6 +4,16 @@
 
 !!! Para ficar atualizado, sempre é possível começar lendo o **[[Visão Geral#Diário Bordo do Mês]]** <= **[[Visão Geral#Diário Bordo do Mês|CLIQUE AQUI]]**
 
+# Podcast - Resumo de Janeiro 2026
+
+
+## Parte I
+
+
+
+## Parte II
+
+
 
 # [Diário](https://heleriadm-collab.github.io/SAGCHeleri/diario/) 
 
@@ -17,10 +27,22 @@
 | semana 05/2026 | [[diario/2026-01-26.md\|26 JAN]] | [[diario/2026-01-27.md\|27 JAN]] | [[diario/2026-01-28.md\|28 JAN]] | [[diario/2026-01-29.md\|29 JAN]] | [[diario/2026-01-30.md\|30 JAN]] | [[diario/2026-01-31.md\|31 JAN]] | [[diario/2026-02-01.md\|01 FEV]] |
 | semana 06/2026 | [[diario/2026-02-02.md\|02 FEV]] | [[diario/2026-02-03.md\|03 FEV]] | [[diario/2026-02-04.md\|04 FEV]] | [[diario/2026-02-05.md\|05 FEV]] | [[diario/2026-02-06.md\|06 FEV]] |                                  | [[diario/2026-02-08.md\|08 FEV]] |
 | semana 07/2026 | [[diario/2026-02-09.md\|09 FEV]] |                                  | [[diario/2026-02-11.md\|11 FEV]] | [[diario/2026-02-12.md\|12 FEV]] |                                  |                                  |                                  |
+| semana 08/2026 |                                  | [[diario/2026-02-17.md\|17 FEV]] |                                  | [[diario/2026-02-19.md\|19 FEV]] |                                  |                                  |                                  |
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
 
+
+
+
+
+<!-- 
 # Eventos Relevantes
+
+
+
+## [[AGE - Fevereiro 2026]] - REALIZADA domingo 08 Fev
+
+> VIDE ATA em [[AGE - Fevereiro 2026#Ata]]
 
 ## REALIZADA Troca Medidores
 
@@ -29,12 +51,6 @@
 
 <iframe src="https://drive.google.com/file/d/1X2dsqeb-eIOHm1Mknz-dIpOCX7k4T9Fe/preview" width="640" height="480"></iframe>
 
-
-## [[AGE - Fevereiro 2026]] - REALIZADA domingo 08 Fev
-
-> VIDE ATA em [[AGE - Fevereiro 2026#Ata]]
-
-<!-- 
 ```mermaid
 %%{init: {
   "theme": "base",

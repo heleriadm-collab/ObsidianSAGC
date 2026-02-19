@@ -12,7 +12,7 @@ created: 2026-02-04T17:08
 		- **CNPJ:** 
 		- **Nome Completo:** Sr [[Valdeci Felix Henrique - Prédio 26]]
 
-- **Valor Total:** [[???]]
+- **Valor Total:** R$ 350
 
 - **Forma Pagamento:** 
 
@@ -27,10 +27,9 @@ created: 2026-02-04T17:08
 
 - **md5:** 
 
-- **Storage:** local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Storage:** https://drive.google.com/drive/u/2/folders/1YrB9NgwS5YUApBKWKXXyup53_v9krbLi
 
-- **Link:** 
-		- local temporariamente até definição storage conta [[heleri.adm@gmail.com - conta]]
+- **Link:** https://drive.google.com/file/d/1lZO0bBXlknFVz31bpHPjXp2KbJYS_MyG/view?usp=sharing
 
 # Modelo utilizado
 
@@ -41,6 +40,12 @@ Pelo presente, eu VALDECI FELIX HENRIQUE, inscrito no CPF sob nº 873.779.694-15
                                                Rio de Janeiro, 03 de fevereiro de 2026
 
                 Assinatura: _________________________________________________
+
+# Visualização 
+
+https://drive.google.com/file/d/1lZO0bBXlknFVz31bpHPjXp2KbJYS_MyG/view?usp=sharing
+
+<iframe src="https://drive.google.com/file/d/1lZO0bBXlknFVz31bpHPjXp2KbJYS_MyG/preview" width="640" height="480"></iframe>
 
 # metadado
 

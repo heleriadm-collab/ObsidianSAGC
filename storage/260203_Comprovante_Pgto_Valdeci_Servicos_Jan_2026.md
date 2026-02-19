@@ -18,7 +18,7 @@ created: 2026-02-04T17:12
 
 - **Objetivo:** pagamento serviços de rotina das tarefas [[Retirada do Lixo]] **durante janeiro/2026**, cobrindo férias do Sr [[Rogerio Zelador]]
 
-- **Motivação:** [[2602_Recibo_Sr_Valdeci_Servicos_Jan_2026]]
+- **Motivação:** [[NF2602_Recibo_Sr_Valdeci_Servicos_Jan_2026]]
 
 - **Itens:** 
 		- 
