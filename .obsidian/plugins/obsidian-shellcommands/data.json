@@ -26,7 +26,7 @@
     {
       "id": "f9qbqhlatw",
       "platform_specific_commands": {
-        "default": "start C:\\Windows\\SysWOW64\\mshta.exe \"C:\\sht\\_CATALOGADOR_base_v3_2.hta?radical={{caret_paragraph}}\" && Explorer.exe \"search-ms:search-ms:displayname=HOJE&query=datademodificação:hoje&crumb=location:C:\\sht\" && Explorer \"I:\\img\""
+        "default": "start chrome --new-window \"https://drive.google.com/drive/u/6/my-drive\" && start Explorer \"I:\\img\" && start C:\\Windows\\SysWOW64\\mshta.exe \"C:\\sht\\_CATALOGADOR_base_v3_2.hta?radical={{caret_paragraph}}\" && Explorer.exe \"search-ms:search-ms:displayname=HOJE&query=datademodificação:hoje&crumb=location:C:\\sht\" "
       },
       "shells": {},
       "alias": "",

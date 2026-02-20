@@ -22,8 +22,11 @@ created: 2026-02-19T16:11
 		- **Google Maps:** [maps](https://www.google.com/maps/place/Otimiza+Park/@-23.6871724,-46.6320921,130m/data=!3m1!1e3!4m6!3m5!1s0x94ce44e2770ed503:0x40937417bbd34650!8m2!3d-23.68713!4d-46.6317511!16s%2Fg%2F11by_fsr2f?entry=ttu&g_ep=EgoyMDI2MDIxNi4wIKXMDSoASAFQAw%3D%3D)
 
 - **Contato:** 
-		- **whatsapp:** https://wa.me/551140552853 
+		- **whatsapp:** 
+			- https://wa.me/551140552853 **<= não é whatsapp**
+			- +55 11 92000-6342 ([[Cauê Martins - Otimiza Park]]) => https://wa.me/5511920006342
 		- **celular:**  (11) 4055-2853 <a href="tel:+551140552853">ligar</a>
+			- +55 11 92000-6342 <a href="tel:+5511920006342">ligar</a>
 		- **e-mail:** contato@otimizapark.com.br
 
 - **Links:** 
