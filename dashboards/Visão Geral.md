@@ -120,6 +120,32 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
+- [[2026-02-19.md#17 23 Fornecedor - Leandro Obras Em Geral - Indicação 301|2026-02-19 > 17 23 Fornecedor - Leandro Obras Em Geral - Indicação 301]]: 
+    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
+- **Motivação:** (1) alimentar base de fornecedores
+- **Registra-se:**
+- fornecedor [[Leandro Obras Geral - Referência 301]]
+- ...
+- [10:44, 19/02/2026] Ana: Fornecedor indicado pela unidade 301, favor contatar para fazer cadasdtro
+- ---
+- **Ref.:** [[ato administrativo]], [[registro fornecedor]], [[registro contato]]
+
+    - [[registro lembrete]] em 02 2026. No âmbito do(a) contato, verificar devolutiva e levantar:
+    - tem CNPJ?
+    - formas de recebimento por serviço prestado
+    - portfolio de atividades
+
+- [[2026-02-19.md#17 19 Ato Adm - Orçamento Instalação Elétrica Sistema Câmeras|2026-02-19 > 17 19 Ato Adm - Orçamento Instalação Elétrica Sistema Câmeras]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** [[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]
+- **Registra-se:**
+- **QUE** para instalação elétrica destinada a sistema de câmeras conforme discutido na [[AGE - Fevereiro 2026]], a empresa [[Arrumaí - Reparos Domésticos]] orçou ` R$ 200 ` pela mão de obra (então, material não incluso) de "_4 tomadas para cameras e 2 tomadas para replicadores_"
+- **Registro whatsapp:**
+- [16:05, 19/02/2026] Ana: Ana, para instalar as tomadas o orçamento fica por 200 reais pela mão de obra
+- [16:06, 19/02/2026] Ana: Orçamento do fornecedor Arrumaí para instalação de 4 tomadas para cameras e 2 tomadas para replicadores.
+- ---
+- **Ref.:** [[ato administrativo]], [[registro orçamento]], [[registro atendimento]]
+
 - [[2026-02-19.md#16 51 Ato Adm - Conserto - Q260209_2225 Porta Terraço Hall Cobertura|2026-02-19 > 16 51 Ato Adm - Conserto - Q260209_2225 Porta Terraço Hall Cobertura]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** [[Q260209_2225 Porta Terraço Hall Cobertura - Batente Esfarelando]]
@@ -560,14 +586,14 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 - **Registra-se:**
 - **QUE** [[Síndica]] efetua pagamento com recurso próprio e registrado via comprovante [[260203_Comprovante_Pgto_Valdeci_Servicos_Jan_2026]]
 - **QUE** recolhe recibo do Sr [[Valdeci Felix Henrique - Prédio 26]] para encaminhamento ao [[Processo Reembolso]] via [[Administradora Apolo]]
-- **QUE** recibo registrado em [[2602_Recibo_Sr_Valdeci_Servicos_Jan_2026]]
+- **QUE** recibo registrado em [[NF2602_Recibo_Sr_Valdeci_Servicos_Jan_2026]]
 - **QUE** atualiza-se planilha de controle [[Planilha_Controle_Despesas_v2601_1]]
 - ---
 - **Ref.:** [[ato administrativo]], [[registro despesa]]
 - <iframe src="https://drive.google.com/file/d/1vkMwFfG7sn8NzHE8MarnFGQDPAOPCUhY/preview" width="640" height="480"></iframe>
 - https://drive.google.com/file/d/1vkMwFfG7sn8NzHE8MarnFGQDPAOPCUhY/view?usp=sharing
 
-    - [[registro lembrete]] para **próximos passos**: No âmbito do(a) [[Processo Reembolso]] encaminhar [[2602_Recibo_Sr_Valdeci_Servicos_Jan_2026]]   e [[260203_Comprovante_Pgto_Valdeci_Servicos_Jan_2026]] à [[Administradora Apolo]]
+    - [[registro lembrete]] para **próximos passos**: No âmbito do(a) [[Processo Reembolso]] encaminhar [[NF2602_Recibo_Sr_Valdeci_Servicos_Jan_2026]]   e [[260203_Comprovante_Pgto_Valdeci_Servicos_Jan_2026]] à [[Administradora Apolo]]
 
 - [[2026-02-04.md#16 30 Ato Adm - Registro Comércio - Fornecedor - Casa da Borracha|2026-02-04 > 16 30 Ato Adm - Registro Comércio - Fornecedor - Casa da Borracha]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
