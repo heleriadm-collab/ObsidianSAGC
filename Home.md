@@ -29,6 +29,7 @@
 | semana 06/2026 | [[diario/2026-02-02.md\|02 FEV]] | [[diario/2026-02-03.md\|03 FEV]] | [[diario/2026-02-04.md\|04 FEV]] | [[diario/2026-02-05.md\|05 FEV]] | [[diario/2026-02-06.md\|06 FEV]] |                                  | [[diario/2026-02-08.md\|08 FEV]] |
 | semana 07/2026 | [[diario/2026-02-09.md\|09 FEV]] |                                  | [[diario/2026-02-11.md\|11 FEV]] | [[diario/2026-02-12.md\|12 FEV]] |                                  |                                  |                                  |
 | semana 08/2026 |                                  | [[diario/2026-02-17.md\|17 FEV]] |                                  | [[diario/2026-02-19.md\|19 FEV]] | [[diario/2026-02-20.md\|20 FEV]] |                                  |                                  |
+| semana 09/2026 |                                  | [[diario/2026-02-24.md\|24 FEV]] |                                  |                                  |                                  |                                  |                                  |
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
 
