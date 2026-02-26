@@ -121,7 +121,86 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
-- [[2026-02-20.md#10 47 Ato Adm - Completando Cadastro Fornecedor - Leando Obras Geral - Ref 301|2026-02-20 > 10 47 Ato Adm - Completando Cadastro Fornecedor - Leando Obras Geral - Ref 301]]: 
+- [[2026-02-25.md#13 35 Questão - Sinalização Zonas de Estacionamento Garagem|2026-02-25 > 13 35 Questão - Sinalização Zonas de Estacionamento Garagem]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260225_1335 Sinalização Zonas de Estacionamento Garagem]]
+- **Descrição:**
+- **QUE** para esclarecimentos e visão das zonas de estacionamento da garagem, e clareza a todos usuários, faz-se necessário sinalização dos pontos passíveis de estacionamento
+- **QUE** o local da garagem conjuga instalações que necessitam de cuidado extra, tal como a cisterna que deve evitar risco de contaminação da água, evitando-se, por exemplo, exposição a óleo automotivo, ou água resíduo proveniente dos veículos
+- **Quem:**
+- **Quando:**
+- **Onde:** [[Garagem]], [[Cisterna Garagem]]
+- **Por quê:** (1) possibilidade contaminação das águas da cisterna
+- ---
+- **Ref.:** [[registro questão]]
+
+- [[2026-02-24.md#14 53 Questão - Análise Orçamentária e Custos|2026-02-24 > 14 53 Questão - Análise Orçamentária e Custos]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260224_1453 Análise Orçamentária e Custos]]
+- **Descrição:**
+- **QUE** abre-se questão para análise das contas versos custos estabelecidos
+- **QUE** estudo tem propósito de verificar receita por captação de taxa condominial versus custos operacionais e variáveis
+- **QUE** a base para análise é o balancete gerado e entregue pela [[Administradora Apolo]]
+- **QUE** providência de estudo é dada no instante em que, na análise das contas [[Síndica]] identifica potencial insuficiência
+- **Por quê:** **QUE** na análise de balancete de fevereiro/2026 Síndica identifica alerta entre balanço de custos e receitas lançadas
+- ---
+- **Ref.:** [[registro questão]]
+
+- [[2026-02-24.md#14 34 Ato Adm - Cotação - Serviço Contrapeso elevador - Elbo Elevadores|2026-02-24 > 14 34 Ato Adm - Cotação - Serviço Contrapeso elevador - Elbo Elevadores]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]] (2) Conforme alinhado na [[AGE - Fevereiro 2026]]
+- **Registra-se:**
+- **QUE** [[Síndica]] procede com pedido de cotação para instalação de contrapesos (serviço de taragem)
+- **QUE** ainda solicita-se proposta para contrato de assistência técnica e prontidão
+- **QUE** solicita à [[Elbo - Elevadores LTDA]]
+- ... documenta-se proposta de assistência técnica em [[260224_Proposta_Assistência_Técnica_ELBO_Elevadores_2022_Conservação]]
+- ... documenta-se proposta para serviço de taragem em [[260224_Proposta_ELBO_Elevadores_Serviço_Taragem_17674_2026]]
+- ---
+- **Ref.:** [[ato administrativo]], [[Sistema de Elevador]], [[registro cotação]]
+- https://drive.google.com/file/d/1ai42o-_Upv0JwZpkMy3hQguPVT9ICCCk/view
+- <iframe src="https://drive.google.com/file/d/1ai42o-_Upv0JwZpkMy3hQguPVT9ICCCk/preview" width="640" height="480"></iframe>
+- https://drive.google.com/file/d/1sR0cedwUXsO-HK-Oxliyzsoj5aF7gRgs/view
+- <iframe src="https://drive.google.com/file/d/1sR0cedwUXsO-HK-Oxliyzsoj5aF7gRgs/preview" width="640" height="480"></iframe>
+- [15:50, 20/02/2026] Ana: Elbo Elevadores e TBRio Elevadores, vão entregar orçamentos na semana que vem.
+- [14:33, 24/02/2026] Ana: Propostas enviadas pela Empresa de Elevadores Elbo :
+
+- [[2026-02-24.md#14 33 Ato Adm - Pedido Reembolso|2026-02-24 > 14 33 Ato Adm - Pedido Reembolso]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260209_2225 Porta Terraço Hall Cobertura - Batente Esfarelando]] (2) [[Q260121_1804 - Sobre Piso Portaria Interna - Restauração]]
+- **Registra-se:**
+- **QUE** [[Síndica]] solicita [[Processo Reembolso]] referente
+- (1) reparo [[Q260209_2225 Porta Terraço Hall Cobertura - Batente Esfarelando]] conforme pagamento [[NF260219_Recibo_Arrumaí_Conserto_Porta_Terraço_Q260209_2225]]
+- (2) aquisição para [[Q260121_1804 - Sobre Piso Portaria Interna - Restauração]] conforme [[NF260218_Caiman_Distribuidora_Cera_Liquida_000.537.484]]
+- **QUE** e-mail é enviado à [[contas02@predialapolo.com.br]]
+- ---
+- **Ref.:** [[ato administrativo]], [[pedido reembolso]], [[envio e-mail]]
+- [14:33, 24/02/2026] Ana: Enviado o e-mail de reembolso : Reembolso de pagamento de conserto e material de limpeza - Condomínio Heleri
+
+- [[2026-02-20.md#19 52 Ato Adm - Acompanhamento - Pedido Orçamento Remoção Jardim|2026-02-20 > 19 52 Ato Adm - Acompanhamento - Pedido Orçamento Remoção Jardim]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]
+- **Registra-se:**
+- **QUE** Síndica faz acompanhamento sobre envio das propostas solicitadas, no âmbito de remoção dos jardins para ampliação de vagas e construção de rampa de acesso, conforme discutido em [[AGE - Fevereiro 2026]]
+- **QUE** [[SMM Manutenção e Reforma]] ainda não entregou proposta solicitada
+- [15:53, 20/02/2026] Ana: [16:51, 12/02/2026] Ana: Eu também queria ver com você um orçamento para a retirada dos jardins do prédio. Seria quebrar os canteiros e cimentar na região dos canteiros que foram retirados.
+- [16:51, 12/02/2026] Ana: Esse trabalho vai precisar de nota fiscal, ok?
+- [15:53, 20/02/2026] Ana: SMM ainda não entregou o orçamento para o canteiro do jrdim.
+- ---
+- **Ref.:** [[ato administrativo]], [[registro acompanhamento]], [[pedido cotação]]
+
+- [[2026-02-20.md#19 44 Ato Adm - Verificando Disponibilidade Engenheiro Perito - Caso Telhado Bloco 2|2026-02-20 > 19 44 Ato Adm - Verificando Disponibilidade Engenheiro Perito - Caso Telhado Bloco 2]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]] (2) dado que na [[AGE - Janeiro 2026]] condicionou-se a continuidade do serviço da MV3 mediante declaração do escopo restante via perito, engenheiro independente (3) dado que engenheiro contratado Sr [[Luiz Engenheiro técnico-perito]], sofreu acidente no início de fevereiro
+- **Registra-se:**
+- **QUE** [[Síndica]] averigua com Sr [[Luiz Engenheiro técnico-perito]] sobre possibilidade de continuidade do serviço iniciado
+- **QUE** Sr Luiz se posiciona confirmando a possibilidade
+- [15:56, 20/02/2026] Ana: oi Luis, boa tarde! Em caso de precisarmos que você visite a execução da obra, você conseguiria?
+- [15:59, 20/02/2026] Luis Claudio - Eng RJ Delphos: Sim.
+- Posso me locomover, só não posso pegar poeira na mão.
+- Vou tirar os pontos no dia 05/03/2026.
+- Caso necessário o meu irmão que também é Engenheiro Civil faz a vistoria na obra.
+- ---
+- **Ref.:** [[ato administrativo]], [[registro levantamento]]
+
+- [[2026-02-20.md#10 47 Ato Adm - Completando Cadastro Fornecedor - Leandro Obras Geral - Ref 301|2026-02-20 > 10 47 Ato Adm - Completando Cadastro Fornecedor - Leandro Obras Geral - Ref 301]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** (1) completar cadastro iniciado em [[2026-02-19#17 23 Fornecedor - Leandro Obras Em Geral - Indicação 301]]
 - **Registra-se:**
@@ -276,6 +355,16 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 - ---
 - **Ref.:** [[ato administrativo]], [[registro fornecedor]]
 - <iframe src="https://drive.google.com/file/d/1XH7zM3QiKBvhVMC9GNgJNjaHyN3y_NoY/preview" width="640" height="480"></iframe>
+
+- [[2026-02-12.md#20 17 Fornecedor - SMM Manutenção e Reforma|2026-02-12 > 20 17 Fornecedor - SMM Manutenção e Reforma]]: 
+    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
+- **Motivação:** alimentar base de fornecedores
+- **Registra-se:**
+- fornecedor [[SMM Manutenção e Reforma]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro fornecedor]]
+- https://drive.google.com/file/d/1wEz8ISG2cD6yeMEGW2P7AdS0Klr4kGRX/view
+- <iframe src="https://drive.google.com/file/d/1wEz8ISG2cD6yeMEGW2P7AdS0Klr4kGRX/preview" width="640" height="480"></iframe>
 
 - [[2026-02-12.md#17 16 Fato Adm - Recebimento Ata AGO Dez 2025|2026-02-12 > 17 16 Fato Adm - Recebimento Ata AGO Dez 2025]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
