@@ -31,7 +31,7 @@ certutil -hashfile "20250717.pdf" md5
 
 - **md5:** 
 
-- **Storage:** [[Google Drive Heleri Adm]]
+- **Storage:** https://drive.google.com/drive/u/2/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW
 
 - **Link:** [[Google Drive Heleri Adm]]
 

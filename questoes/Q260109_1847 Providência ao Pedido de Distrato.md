@@ -44,7 +44,7 @@ summary:
 		- **Google Drive Imagens:** https://drive.google.com/drive/u/6/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Q260109_1847
 
 
-- **Termo encerramento:** 
+- **Termo encerramento:** que à partir da [[AGE - Janeiro 2026]], Condôminos decidem fornecer chance à MV3 de continuar serviços desde que tecnicamente enquadrados em norma e garantia da entrega sem vícios. Para tanto, também decide-se pela contratação de técnico independente que irá verificar, e relacionar escopo restante, ao que será submetido à MV3 para aceite ou declinação.
 
 - [ ] notificação extrajudicial à MV3
 - [ ] notificação extrajudicial à Engenheira Civil ALEXANDRA

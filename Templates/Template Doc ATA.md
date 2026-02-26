@@ -23,7 +23,11 @@ summary:
 
 - **Ata:** N/A
 
-- **Storage:** temporariamente local até definição storage [[heleri.adm@gmail.com - conta]]
+- **Storage:** https://drive.google.com/drive/u/2/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW
+
+- **Link:** [[Google Drive Heleri Adm]]
+
+# Visualização
 
 
 
