@@ -8,6 +8,13 @@ created: 2026-02-19T16:11
 
 
 - **Descrição:** (1) serviço e instalação de pallets veiculares que ampliam capacidade de vagas nas garagens através de deslocamento lateral de veículos
+		- **!!PONTO DE ATENÇÃO!!** 
+		- (1) o número **(11) 4055-2853 não é whatsapp** 
+		- (2) posts facebook antigos
+		- (3) endereço diferente no Google versus site
+		- (4) posts no Youtube muito antigos
+		- (5) não foi possível confirmar CNPJ
+		- ---
 		- **Razão Social:** 24.749.886 Irisvaldo Vieira Silva
 		- **CNPJ:** 24.749.886/0001-39 [cnpj via biz](https://cnpj.biz/24749886000139)
 		- **Nome Completo:** 

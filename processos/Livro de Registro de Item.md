@@ -383,7 +383,7 @@ Considerações
 
 [[execução de rotina]]
 [[fato administrativo]]
-[[ato administrativo]] - registro pessoa, componente, local-dependência, acolhe-se questão, faz-se pedido, arquivamento, registro de necessidade, gestão de risco, pesquisa opinião e/ou objeções, publicidade às partes, formalização, etc
+[[ato administrativo]] 
 [[registro incidente]]
 [[registro reunião]]
 [[Assembléia Geral Extraordinária]]
@@ -405,7 +405,7 @@ Considerações
 [[gestão pessoal]]
 [[recebimento e-mail]]
 [[envio e-mail]]
-[[registro de aquisição]] - material, contrato prestação, 
+[[registro aquisição]] - material, contrato prestação, 
 
 
 
@@ -442,6 +442,12 @@ Considerações
 
 [[registro compra]] – registro relacionado à aquisição de bens ou serviços.
 
+[[registro aquisição]] – aquisição de material ou contratação formal.
+
+[[registro doação]] – registro de recebimento de bens, valores ou materiais destinados ao condomínio sem ônus financeiro.
+
+[[registro pro-bono]] – registro de prestação de serviço técnico ou profissional realizado sem cobrança ao condomínio.
+
 [[registro entrega]] – registros de entregas de materiais ou equipamentos.
 
 [[registro cotação]] – registro de solicitação de cotação de preços.
@@ -458,8 +464,12 @@ Considerações
 
 [[envio e-mail]] – registro de e-mail enviado que tem impacto de gestão.
 
-[[registro de aquisição]] – aquisição de material ou contratação formal.
+[[registro contato]]
 
+[[pedido cotação]]
+
+
+<!-- 
 ## Rotina
 
 #rotina
@@ -543,6 +553,15 @@ GROUP BY L.section as Secao
 SORT Secao DESC
 LIMIT 200
 ```
+
+-->
+
+---
+---
+
+
+
+<!-- 
 
 # Todas Tarefas de Rotina
 
@@ -663,6 +682,15 @@ SORT qnd_mes ASC
 
 ```
 
+-->
+
+
+----
+---
+
+
+
+<!--
 # Prompt
 
 Reformulamos planejamento. Adicionamos informação de `titulo` (sem acento) e `descricao` (sem acentuação) e também o #rotina, para facilitar buscas e relatório. E ainda adicionamos o metadado do ano. Foi garantida a informção do metadado `created` como sendo a data de hoje e horário de 08:30 (`2026-01-08T08:30:00`).
@@ -690,6 +718,15 @@ qnd_semana:
 qnd_mes: 
 qnd_ano: 2026
 ---
+
+-->
+
+
+----
+---
+
+
+<!--
 
 #rotina 
 
@@ -825,6 +862,14 @@ SORT qnd_mes ASC
 
 ```
 
+-->
+
+
+----
+---
+
+
+<!--
 
 Perfeito. Abaixo estão os **registros Obsidian gerados**, já **individualizados por data/código**, mantendo **exatamente o template informado** (inclusive o campo `tafefa`, como você escreveu), com:
 
@@ -880,7 +925,14 @@ qnd_ano: 2026
 - Ref.: [[retirada reciclável]]
 - Obs.: 
 ```
+-->
 
+
+----
+---
+
+
+<!--
 ## [[rotinas/T260119 Recicláveis Remoção]]
 
 ```markdown
@@ -1283,7 +1335,7 @@ qnd_ano: 2026
 
 ![31 de dezembro 11:40 - registro com iluminação](https://www.youtube.com/watch?v=8eKyjuXzkyE)
 
-
+-->
 # metadado
 
 [year:: 2026] | [month:: 01] | [day:: 06] | [dayWeek:: Tuesday] | [dayWeekShort:: Tue] | [monthYear:: Jan] | [weekNumber:: 02] | [quarter:: 1] | [dayOfYear:: 006] | [weekNumber2:: 02-] | [month2:: 01-] | [day2:: 06-]

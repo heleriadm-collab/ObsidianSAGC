@@ -1,0 +1,15 @@
+---
+tipo: atividade
+created: 2026-02-27T15:01
+---
+
+
+#adm/atividade
+
+- **Descrição:** registro relacionado ao reembolso de despesas.
+		- Importante estar associado a documentos comprovantes das despesas (notas fiscais, recibos e/ou correlatos)
+
+
+# metadado
+
+[year:: 2026] | [month:: 02] | [day:: 27] | [dayWeek:: Friday] | [dayWeekShort:: Fri] | [monthYear:: Feb] | [weekNumber:: 09] | [quarter:: 1] | [dayOfYear:: 058] | [weekNumber2:: 09-] | [month2:: 02-] | [day2:: 27-]
