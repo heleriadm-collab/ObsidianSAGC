@@ -28,17 +28,25 @@
 | semana 05/2026 | [[diario/2026-01-26.md\|26 JAN]] | [[diario/2026-01-27.md\|27 JAN]] | [[diario/2026-01-28.md\|28 JAN]] | [[diario/2026-01-29.md\|29 JAN]] | [[diario/2026-01-30.md\|30 JAN]] | [[diario/2026-01-31.md\|31 JAN]] | [[diario/2026-02-01.md\|01 FEV]] |
 | semana 06/2026 | [[diario/2026-02-02.md\|02 FEV]] | [[diario/2026-02-03.md\|03 FEV]] | [[diario/2026-02-04.md\|04 FEV]] | [[diario/2026-02-05.md\|05 FEV]] | [[diario/2026-02-06.md\|06 FEV]] |                                  | [[diario/2026-02-08.md\|08 FEV]] |
 | semana 07/2026 | [[diario/2026-02-09.md\|09 FEV]] |                                  | [[diario/2026-02-11.md\|11 FEV]] | [[diario/2026-02-12.md\|12 FEV]] |                                  |                                  |                                  |
-| semana 08/2026 |                                  | [[diario/2026-02-17.md\|17 FEV]] |                                  | [[diario/2026-02-19.md\|19 FEV]] | [[diario/2026-02-20.md\|20 FEV]] |                                  |                                  |
+| semana 08/2026 |                                  | [[diario/2026-02-17.md\|17 FEV]] |                                  | [[diario/2026-02-19.md\|19 FEV]] | [[diario/2026-02-20.md\|20 FEV]] | [[diario/2026-02-21.md\|21 FEV]] |                                  |
 | semana 09/2026 |                                  | [[diario/2026-02-24.md\|24 FEV]] | [[diario/2026-02-25.md\|25 FEV]] |                                  |                                  |                                  |                                  |
+| semana 10/2026 | [[diario/2026-03-02.md\|02 MAR]] | [[diario/2026-03-03.md\|03 MAR]] |                                  |                                  |                                  |                                  |                                  |
+
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
 
 
+# Eventos Relevantes
 
+## SOS Elevadores Informa Visita 
 
+No **mês de março**, o condomínio Heleri terá a visita do nosso **engenheiro Jairo Valente**, em conformidade com a **lei municipal 2743/1999**, para a realização do ==Relatório Inspeção Anual (RIA)==.
+
+**SOS Complementa:** 
+Estou à disposição para quaisquer perguntas ou esclarecimentos. Se você desejar acompanhar a vistoria, peço que me avise para que possamos agendar com o engenheiro
 
 <!-- 
-# Eventos Relevantes
+
 
 
 

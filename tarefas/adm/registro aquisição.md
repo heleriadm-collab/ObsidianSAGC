@@ -29,6 +29,14 @@ Foco:
     
 - Vida útil do bem
 
+# 🏗 Conclusão Estratégica
+
+A distinção é:
+
+> 💰 Compra olha para o dinheiro.  / Compra = evento financeiro
+> 🏢 Aquisição olha para o patrimônio. / Aquisição = evento patrimonial
+
+
 ## 📊 Como fica na prática
 
 ### 🔹 Exemplo 1 – Compra de detergente

@@ -33,13 +33,19 @@ created: 2026-01-15T16:57
 
 **QUE** em ato [[2026-01-15#09 56 Ato Adm. - Heleri solicita à Apolo Comunicado Formal de Convocação AGE]] solicitada emissão comunicado formal à [[Administradora Apolo]]
 
-
 # Participantes
 
-
+-  
+		- [[Ana 402]]
+		- [[Marcelo 101]]
+		- [[José Wagner 201]]
+		- [[Leonardo 402]]
+		- [[Glaucia 102]]
+		- [[Claudio 302]]
+		- [[Lucas 102]]
 # Ata
 
-EM CONFECÇÃO PARA REGISTRO (vide primeiro resumo em [[#**(3) Anotações Resumidas - Gemini**]])
+[[ATA220122_AGE_Janeiro_2026_Assunto_MV3]]
 
 # Documentos Consolidados
 

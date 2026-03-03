@@ -29,6 +29,12 @@ Foco:
     
 - Desembolso
 
+# 🏗 Conclusão Estratégica
+
+A distinção é:
+
+> 💰 Compra olha para o dinheiro.  / Compra = evento financeiro
+> 🏢 Aquisição olha para o patrimônio. / Aquisição = evento patrimonial
 
 ## 📊 Como fica na prática
 
