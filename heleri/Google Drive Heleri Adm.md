@@ -11,9 +11,24 @@ created: 2026-01-25T16:06
 
 # Pastas
 
+## Storage
+
+https://drive.google.com/drive/u/2/folders/1t3HN9InjzH9Nl-fuoNmzeGcrLkLVrKXW
+
+### Doc
+
+https://drive.google.com/drive/u/2/folders/1XcSr7U4v5i-w2guVehjPMMLZ6_YnsQho
+
+### imgs
+
+https://drive.google.com/drive/u/2/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ
+### NF
+
+https://drive.google.com/drive/u/2/folders/1YrB9NgwS5YUApBKWKXXyup53_v9krbLi
+
 ## 2026
 
-https://drive.google.com/drive/u/6/folders/1XgW1nUr1PbgmrVEC6HdhRfcp14DUQWcE
+https://drive.google.com/drive/u/2/folders/1XgW1nUr1PbgmrVEC6HdhRfcp14DUQWcE
 
 ### Assembleias
 
@@ -34,7 +49,13 @@ https://drive.google.com/drive/u/6/folders/1WuM1M-0XKz4k8Wgb8RYRpMPCYLXGEZga
 https://drive.google.com/drive/u/6/folders/1Lwd1hDJbD9Ek4lNiNJnxGBWztqNIAms0
 
 
+# temp_perito
 
+https://drive.google.com/drive/u/2/folders/1zAjd3qPfP_LsS49ockXlygZRLQOvB6j-
+
+# 2025EAntes
+
+https://drive.google.com/drive/u/2/folders/1oA9xDeS-6Ln1U-xzg-1gnfqNAX9EYotM
 
 # Compartilhamento
 

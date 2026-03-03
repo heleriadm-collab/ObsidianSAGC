@@ -1,5 +1,6 @@
 [
   "dataview",
   "dataview-serializer",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "meld-encrypt"
 ]

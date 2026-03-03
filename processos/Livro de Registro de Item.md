@@ -1336,6 +1336,90 @@ qnd_ano: 2026
 ![31 de dezembro 11:40 - registro com iluminação](https://www.youtube.com/watch?v=8eKyjuXzkyE)
 
 -->
+# ícones
+
+📜
+🏛️
+
+## 🎨 Ícones para Composição da Campanha
+
+#### 1. **História e Patrimônio**
+
+- 📜 **Pergaminho**: representa o valor histórico e a memória do edifício.
+    
+- 🏛️ **Monumento ou Coluna**: simboliza o patrimônio arquitetônico e a importância cultural.
+    
+- ⏳ **Relógio de Areia**: remete à passagem do tempo e à necessidade de preservar o que é antigo.
+    
+- 🖼️ **Molduras**: sugere que o piso é uma obra de arte a ser valorizada.
+    
+- 📆 **Calendário com data (1960)**: destaca o ano de construção e a antiguidade do hall.
+    
+
+#### 2. **Arquitetura e Construção**
+
+- 🧱 **Tijolos ou Paredes**: remetem à estrutura física do prédio e à solidez da construção.
+    
+- 🔨 **Martelo e ferramentas**: indicam a ação de restaurar, consertar ou reformar.
+    
+- 📐 **Esquadro e compasso**: representam o projeto arquitetônico, o desenho e o planejamento.
+    
+- ✏️ **Lápis ou caneta de desenho**: simboliza o traço do arquiteto e o cuidado com o detalhe.
+    
+- 🏗️ **Guindaste ou estrutura**: pode ser usado para falar da obra de restauração.
+    
+
+#### 3. **Ladrilho e Acabamento**
+
+- ⬛ **Quadrado preto**: ícone simples e direto para representar o ladrilho hidráulico preto.
+    
+- 🔲 **Moldura quadrada**: útil para destacar o formato geométrico das peças.
+    
+- 🟦🟨🟥 **Quadrado colorido (se for usar variações)**: se quiser mostrar a paleta de cores possíveis, inclusive o preto.
+    
+- 🧩 **Peça de quebra-cabeça**: pode simbolizar a recomposição do piso, a união das peças originais ou a necessidade de substituir partes danificadas.
+    
+- ✨ **Brilho ou estrela**: sugere a revitalização, o brilho recuperado após a restauração.
+    
+
+#### 4. **Preservação e Cuidado**
+
+- 🛡️ **Escudo**: representa a proteção do patrimônio e a defesa da memória.
+    
+- 🌱 **Folha ou planta**: remete à sustentabilidade e ao cuidado com o legado para as futuras gerações.
+    
+- 🤝 **Aperto de mãos**: simboliza a união dos moradores em prol de um objetivo comum.
+    
+- ❤️ **Coração**: expressa o amor pelo prédio e o carinho com a história.
+    
+- 🔄 **Seta circular**: indica o ciclo de restauração, a renovação sem perder a essência.
+    
+
+#### 5. **Ação e Engajamento**
+
+- 📢 **Megafone**: ideal para chamar a atenção e convocar os moradores a participar da campanha.
+    
+- 📝 **Lista ou checkmark**: representa a assinatura de abaixo-assinados ou a adesão à causa.
+    
+- 💬 **Balões de diálogo**: sugere conversas, reuniões e a troca de ideias entre condôminos.
+    
+- 📊 **Gráfico ascendente**: mostra o crescimento do apoio ou a evolução da campanha.
+    
+- 🗳️ **Urna ou voto**: pode ser usado se houver votação sobre o tema na assembleia.
+    
+
+#### 6. **Localização e Identidade Carioca**
+
+- 🌊 **Ondas do mar**: remete ao Rio de Janeiro e à identidade visual da cidade.
+    
+- ☀️ **Sol**: representa o clima e a luz natural que valorizam o hall.
+    
+- 🏖️ **Guarda-sol ou paisagem praiana**: se quiser reforçar a ligação com o Rio.
+    
+- ⛰️ **Pão de Açúcar ou Cristo Redentor (ícone simplificado)**: para situar a campanha na cidade.
+    
+- 🎭 **Máscara de teatro**: pode aludir ao período áureo da cultura carioca nos anos 1960.
+
 # metadado
 
 [year:: 2026] | [month:: 01] | [day:: 06] | [dayWeek:: Tuesday] | [dayWeekShort:: Tue] | [monthYear:: Jan] | [weekNumber:: 02] | [quarter:: 1] | [dayOfYear:: 006] | [weekNumber2:: 02-] | [month2:: 01-] | [day2:: 06-]

@@ -40,9 +40,9 @@
 
 ## SOS Elevadores Informa Visita 
 
-No **mês de março**, o condomínio Heleri terá a visita do nosso **engenheiro Jairo Valente**, em conformidade com a **lei municipal 2743/1999**, para a realização do ==Relatório Inspeção Anual (RIA)==.
+No **mês de março**, o condomínio Heleri terá a visita do nosso **engenheiro [[Jairo Valente - Eng. SOS Elevadores]]**, em conformidade com a **lei municipal 2743/1999**, para a realização do ==[[RIA - Relatório de Inspeção Anual]]==.
 
-**SOS Complementa:** 
+**[[SOS Elevadores]] Complementa:** 
 Estou à disposição para quaisquer perguntas ou esclarecimentos. Se você desejar acompanhar a vistoria, peço que me avise para que possamos agendar com o engenheiro
 
 <!-- 
