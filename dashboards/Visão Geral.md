@@ -19,7 +19,7 @@ created: 2026-01-05T09:32
 | <ul><li>DANO_AVARIA</li></ul>        | <ul><li>[[Q260302_1955 Fechadura Porta Terraço Danificada]]</li><li>[[Q260201_1312 Fissura Parede Interna na Lixeira]]</li><li>[[Q260131_0855 Infiltração apartamento 401]]</li><li>[[Q260129_2148 Vazamento cano externo bl2 entre Andar 1 e 2]]</li><li>[[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]</li><li>[[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]]</li><li>[[Q260105_1452 Troca Luzes Emergência Escada]]</li><li>[[Q260105_1449 Corrimão Escada Primeiro Andar - Portaria Danificado]]</li></ul>                                                                                                                                                                                 |
 | <ul><li>GESTAO</li></ul>             | <ul><li>[[Q260225_1335 Sinalização Zonas de Estacionamento Garagem]]</li><li>[[Q260224_1453 Análise Orçamentária e Custos]]</li><li>[[Q260209_1522 Capacidade Crédito Heleri - semestre 01 2026]]</li><li>[[Q260115_1828 Reforço Publicidade Contato SOS Elevadores e Instrução Funcionário]]</li><li>[[Q260115_1812 Registro Orientações Apolo 13-jan-26]]</li><li>[[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm]]</li><li>[[Q260108_2229 Regramento de Trânsito com Cão]]</li><li>[[Q260108_1916 Novos Moradores 302 - Apoio Mudança e Orientações]]</li><li>[[Q260204_1723 Planejamento Base Rotinas Do Zelador v1]]</li></ul> |
 | <ul><li>INFORMAR</li></ul>           | <ul><li>[[Q260129_0914 Fundo de manutenção]]</li><li>[[Q260116_1642 Falha Botão Portaria - Interno e Externo]]</li><li>[[Q260109_1847 Providência ao Pedido de Distrato]]</li><li>[[Q260108_1417 Remoção Tijolos Excedentes do Telhado BL2]]</li><li>[[Q260105_2324 Calha Sobre Cobertura 01 Causa Infiltração]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| <ul><li>INFRAESTRUTURA</li></ul>     | <ul><li>[[Q260125_1712 Ampliação Vagas Para Veículos]]</li><li>[[Q260220_1016 Ampliação de Vagas Via Pallets Veiculares]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| <ul><li>INFRAESTRUTURA</li></ul>     | <ul><li>[[Q260220_1016 Ampliação de Vagas Via Pallets Veiculares]]</li><li>[[Q260125_1712 Ampliação Vagas Para Veículos]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | <ul><li>MANUTENCAO</li></ul>         | <ul><li>[[Q260209_1951 Reinstalação Mangueira Incêndio Andar 4]]</li><li>[[Q260121_2130 Recuperação Madeira Pintura Porta Quadro Energia]]</li><li>[[Q260116_1105 Mudança Quantidade de Toques Interfone - Consulta e Análise]]</li><li>[[Q260113_0742 Troca Lâmpada da Lixeira]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | <ul><li>SEGURANCA</li></ul>          | <ul><li>[[Q260121_1900 Mangueira Fora Prazo Validade]]</li><li>[[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]</li><li>[[Q260114_1117 Casa Marimbondo crescendo na frente do prédio]]</li><li>[[Q260112_1627 Projeto e Orçamento de Tela Terraço]]</li><li>[[Q260112_1537 Registro de Risco no Portão Entrada]]</li><li>[[Q260105_1446 Roubo da Tampa Metálica Bueiro]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | <ul><li>SERVICO_FORNECEDOR</li></ul> | <ul><li>[[Q260129_2144 Cadastro Cometa Como Fornecedor Heleri]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -150,7 +150,72 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 - ---
 - **Ref.:** [[ato administrativo]], [[registro comunicado formal]], [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]], [[Obras Telhado BL2]]
 
-- [[2026-03-05.md#18 01 Questão - Heleri - OQ|2026-03-05 > 18 01 Questão - Heleri - OQ]]: 
+- [[2026-03-05.md#19 08 Ato Adm - Recebimento Laudo Telhado Bloco 2|2026-03-05 > 19 08 Ato Adm - Recebimento Laudo Telhado Bloco 2]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]]
+- **Registra-se:**
+- **QUE** recebemos do [[Luiz Engenheiro técnico-perito]] o laudo e nota fiscal, que foi encaminhada para pagamento via [[Administradora Apolo]]
+- **QUE** nota foi emitida pela empresa [[B & G JAMES REFORMAS E CONSTRUCOES LTDA]]
+- **QUE** documento possui 28 páginas
+- **QUE** está registrado como documento [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
+- ---
+- **Ref.:** [[ato administrativo]], [[Obras Telhado BL2]], [[AGE - Janeiro 2026]]
+- https://drive.google.com/file/d/15LYYXox-CC3sTOQmBxFr1AzbKS0FJWjG/view
+- <iframe src="https://drive.google.com/file/d/15LYYXox-CC3sTOQmBxFr1AzbKS0FJWjG/preview" width="640" height="480"></iframe>
+
+- [[2026-03-05.md#18 41 Ato Adm - Orçamento Empresa Elevadores - TBRio|2026-03-05 > 18 41 Ato Adm - Orçamento Empresa Elevadores - TBRio]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+- **Registra-se:**
+- **QUE** [[Síndica]] recebe retorno ao pedido de orçamento feito à [[TBRio Elevadores]]
+- [11:45, 05/03/2026] Ana: Registrar Orçamentos TBRio elevadores: manutenção mensal ==**com peças :R$550,00**== , **==manutenção mensal sem peças : R$270,00==**, a empresa só envia orçamento para instalação de contrapesos no caso de assinatura de contrato de manutenção mensal
+- **QUE** **proposta de manutenção** ==**SEM** PEÇAS inclusas== está registrada sob documento [[260305_Proposta_TBRio_Elevadores_Manutenção_SEM_PEÇAS]]
+- **QUE** **proposta de manutenção** ==**COM** PEÇAS inclusas==  está registrada sob documento [[260305_Proposta_TBRio_Elevadores_Manutenção_COM_PEÇAS]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro orçamento]]
+- https://drive.google.com/file/d/1_zPsRLqThWvDtRpNCkUON0HOrZQxt9E_/view
+- <iframe src="https://drive.google.com/file/d/1_zPsRLqThWvDtRpNCkUON0HOrZQxt9E_/preview" width="640" height="480"></iframe>
+- ...
+- ==**Serviços de taragem** DEPENDE DO ACEITE DO SERVIÇO DE MANUTENÇÃO==
+- ...
+- https://drive.google.com/file/d/1p6KJwWGo6sLEwCJylChJEaL5TOF8LUVa/view
+- <iframe src="https://drive.google.com/file/d/1p6KJwWGo6sLEwCJylChJEaL5TOF8LUVa/preview" width="640" height="480"></iframe>
+
+- [[2026-03-05.md#18 36 Ato Adm - Finalizada Leitura Pasta Contas Janeiro 2026|2026-03-05 > 18 36 Ato Adm - Finalizada Leitura Pasta Contas Janeiro 2026]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) verificação das contas
+- **Registra-se:**
+- **QUE** [[Síndica]] recebe da [[Administradora Apolo]] a [[Pasta Prestação de Contas]] referente a [[janeiro - 2026]]
+- **QUE** [[Síndica]] finaliza análise da [[Pasta Prestação de Contas]] e submete ao [[Conselho Heleri]] para verificação e assinatura
+- ---
+- **Ref.:** [[ato administrativo]], [[Pasta Prestação de Contas]]
+
+- [[2026-03-05.md#18 22 Despesa - Arrumaí - Conserto Porta Terraço|2026-03-05 > 18 22 Despesa - Arrumaí - Conserto Porta Terraço]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de despesa..
+- **Motivação:** (1) [[Q260302_1955 Fechadura Porta Terraço Danificada]]
+- **Registra-se:**
+- **QUE** fornecedor [[Arrumaí - Reparos Domésticos]] envia recibo pelo serviço da porta do terraço
+- [09:50, 05/03/2026] Ana: Recibo fornecedor Arrumaí para porta do terraço
+- **QUE** registra-se **sob documento**  [[NF260309_Recibo_Arrumaí_Servico_Conserto_Porta_Alumínio]]
+- **QUE** atualiza-se planilha de controle [[Planilha_Controle_Despesas_v2601_1]]
+- ---
+- **Ref.:** [[ato administrativo]], [[Terraço]], [[Porta Terraço]], [[registro despesa]]
+- https://drive.google.com/file/d/1l_iSHYSKQvPVznSqvO1nJxmTu0tsNZZL/view
+- <iframe src="https://drive.google.com/file/d/1l_iSHYSKQvPVznSqvO1nJxmTu0tsNZZL/preview" width="640" height="480"></iframe>
+
+- [[2026-03-05.md#18 00 Ato Adm - Gestão Heleri - Orçamento SMM - Remoção Jardins|2026-03-05 > 18 00 Ato Adm - Gestão Heleri - Orçamento SMM - Remoção Jardins]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260125_1712 Ampliação Vagas Para Veículos]] (2) [[Q260309_1801 Remoção dos Jardins Para Vagas e Rampa]]
+- **Registra-se:**
+- **QUE** [[SMM Manutenção e Reforma]] entrega orçamento para remoção dos jardins
+- **QUE** valor ficou em R$ 4.000,00
+- ---
+- [09:48, 05/03/2026] Ana: Registro SMM orçou R$4000,00 para retirada do jardim do prédio.
+- **Ref.:** [[ato administrativo]], [[registro orçamento]]
+
+    - anexar documento da SMM com orçamento
+
+- [[2026-03-05.md#17 56 Questão - Heleri - Remoção dos Jardins|2026-03-05 > 17 56 Questão - Heleri - Remoção dos Jardins]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260309_1801 Remoção dos Jardins Para Vagas e Rampa]]
 - **Descrição:**
 - **QUE** registra-se questão de "necessidade de remoção dos jardins", conforme necessidade decorrente questão [[Q260125_1712 Ampliação Vagas Para Veículos]] e, ainda, conforme discussão de providência de rampa conforme discutido na [[AGE - Fevereiro 2026]]
@@ -159,16 +224,6 @@ TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM/yyyy") AS "Qnd",  
 - **Por quê:** (1) em função da questão [[Q260125_1712 Ampliação Vagas Para Veículos]] e (2) necessidade de construção rampa acessibilidade conforme discutido [[AGE - Fevereiro 2026]]
 - ---
 - **Ref.:** [[registro questão]]
-
-- [[2026-03-05.md#18 00 Ato Adm - Gestão Heleri - OQ|2026-03-05 > 18 00 Ato Adm - Gestão Heleri - OQ]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** (1) [[Q260125_1712 Ampliação Vagas Para Veículos]]
-- **Registra-se:**
-- De QEM, na atribuição de POSIÇÃO
-- QUE
-- ---
-- [09:48, 05/03/2026] Ana: Registro SMM orçou R$4000,00 para retirada do jardim do prédio.
-- **Ref.:** [[ato administrativo]], [[registro orçamento]]
 
 - [[2026-03-05.md#17 52 Ato Adm - Gestão Heleri - Orçamento Elbo Elevadores|2026-03-05 > 17 52 Ato Adm - Gestão Heleri - Orçamento Elbo Elevadores]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
