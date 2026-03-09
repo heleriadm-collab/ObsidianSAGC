@@ -19,19 +19,10 @@ summary:
 
 - **Risco:** N/A
 
+- **Onde:** [[Calçada Heleri]], [[Entrada da Garagem]]
+
 - **Termo de Encerramento:** 
-# 14:46 Questão - Heleri - OQ
 
-- No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260105_1446 Roubo da Tampa Metálica Bueiro]]
-		- **Descrição:** 
-			- **QUE** 
-		- **Quem:** 
-		- **Quando:** 
-		- **Onde:** 
-		- **Por quê:** 
-		- ---
-		- **Ref.:** [[registro questão]]
-
-```shell
-Heleri-registro questao-
-```
+- [ ] levantamento especificação do tampo
+- [ ] orçamento empresas especializadas
+- [ ] aquisição instalação

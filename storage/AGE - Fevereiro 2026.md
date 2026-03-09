@@ -27,7 +27,7 @@ https://drive.google.com/file/d/14FHUhL-6Pr-dA1Y70GHk3OzdR-ElWjW2/view?usp=shari
 
 ### Estudo Vagas No Pilotis
 
-[[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]
+[[Q260125_1712 Ampliação Vagas Para Veículos]]
 
 # Onde
 

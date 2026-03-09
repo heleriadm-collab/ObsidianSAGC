@@ -13,14 +13,16 @@ summary:
 #questao 
 
 - **Descrição:** 
-		- **QUE** diante de impasses em plano de designação de vagas por "área de veículo", durante [[AGE - Fevereiro 2026]] e no âmbito da questão [[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]], abre-se frente de levantamento e cotação de alternativa de ampliação de vagas por vias de uso de pallets veiculares.
+		- **QUE** diante de impasses em plano de designação de vagas por "área de veículo", durante [[AGE - Fevereiro 2026]] e no âmbito da questão [[Q260125_1712 Ampliação Vagas Para Veículos]], abre-se frente de levantamento e cotação de alternativa de ampliação de vagas por vias de uso de pallets veiculares.
 		- **QUE** foram cadastradas as empresas [[Engecass - pallets veiculares]] e [[Otimizapark - pallets veiculares]] com propósito de tomada de orçamento
 
-- **Motivação:** (1) ampliação de capacidade de vagas e manobras na garagem (2) estudo iniciado em [[Q260125_1712 Ampliação Vagas Para Veículos via Hall Pilotis]]
+- **Motivação:** (1) ampliação de capacidade de vagas e manobras na garagem (2) estudo iniciado em [[Q260125_1712 Ampliação Vagas Para Veículos]]
 
 - **Custo:** N/A
 
 - **Risco:** N/A
+
+- **Compõe:** (1) [[Q260125_1712 Ampliação Vagas Para Veículos]]
 
 - **Onde:** [[Garagem]]
 

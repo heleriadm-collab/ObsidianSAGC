@@ -6,9 +6,13 @@ created: 2026-01-05T09:32
 
 `$= 'Impresso em '+ moment(new Date(now())).format('DD/MM/YYYY HH:mm') + ' '`
 
+
 Versão pdf A3 (computador) clique em => [[Relatório MENSAL - 01 - 2026_A3.pdf]]
 
 Versão pdf A5 (celular) clique em => [[Relatório MENSAL - 01 - 2026_A5.pdf]]
+
+
+
 
 # Questões Por Área
 

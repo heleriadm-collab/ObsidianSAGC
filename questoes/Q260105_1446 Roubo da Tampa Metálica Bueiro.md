@@ -19,4 +19,9 @@ summary:
 
 - **Risco:** N/A
 
+- **Onde:** [[Calçada Heleri]], [[Entrada da Garagem]]
+
 - **Termo de Encerramento:** 
+
+- [x] providenciar tampão paliativo
+- [ ] levantar especificação da tampa roubada

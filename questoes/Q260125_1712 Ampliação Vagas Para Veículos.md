@@ -21,8 +21,12 @@ summary:
 			- **QUE** em [[2026-01-24#17 12 Questão - Ampliação Vagas Para Veículos via Hall Pilotis]] foram tomadas medidas via croquis **(1)** [[#Do Hall Pilotis]] **(2)** [[#Da Garagem]]
 			- **QUE** na data de [[2026-01-29]] foi observado que o maior carro na garagem (pertencente [[Unidade 301]]) consegue passar pelo **vão de 2,48m** (hoje menor espaço de todos).
 			- **QUE** na data de [[2026-01-29]] questão foi incluída na pauta para deliberação via Assembleia Geral Extraordinária de FEVEREIRO/2026 (convocação em curso pela [[Administradora Apolo]])
+			- **QUE** na data de 20/fevereiro busca-se cotação de empresas de solução de ==ampliação de vagas por pallets==. Levantamento está associado a questão [[Q260220_1016 Ampliação de Vagas Via Pallets Veiculares]]
+			- **QUE** registra-se, na data de 05/março , a questão associada [[Q260309_1801 Remoção dos Jardins Para Vagas e Rampa]], cadastrada com propósito de centralizar a tomada de preços do serviço
 
 - **Motivação:** **(1)** Episódios que evidenciam sobrecarga das vagas quando todas Unidades exercem direito de uso **(2)** Situações em que é necessário movimentação de moradores para desobstruir espaço de manobra para entrada e saída de veículo
+
+- **Composta por:** (1) [[Q260309_1801 Remoção dos Jardins Para Vagas e Rampa]] (2) [[Q260220_1016 Ampliação de Vagas Via Pallets Veiculares]]
 
 - **Custo:** N/A
 
