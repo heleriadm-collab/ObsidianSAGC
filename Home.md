@@ -112,9 +112,9 @@ No **SACG Heleri** é possível acompanhar diariamente atos e registros tomados 
 # Sobre o REGISTRO DE QUESTÕES
 
 
-A maior parte das ocorrências do Condomínio, ==não poderão==, por motivo de força maior, ==serem resolvidas em imediato==. No entanto, isso não significa que devamos esquecer a questão, ainda mais quando se tratar de algo complexo, que demande prolongada atuação.
+INFELIZMENTE, a maior parte das ocorrências do Condomínio ==não poderão==, por motivo de força maior, ==serem resolvidas em imediato==. No entanto, isso não significa que devamos esquecer a questão, ainda mais quando se tratar de algo complexo, que demande prolongada atuação.
 
-Para esse propósito de visão do que há em andamento, e de como as questão andaram (ou se permaneceram paradas), foi criado o cadastro de questões, através do qual são ==registradas ocorrências, sejam elas dúvidas, incidentes e/ou problemas==  
+Para esse propósito de ==visão do que há em andamento==, e de como as questão andaram (ou se permaneceram paradas), ==foi criado o **cadastro de questões**==, através do qual são ==registradas **ocorrências**, sejam elas dúvidas, incidentes e/ou problemas==  
 
 
 **Veja a relação completa clicando em:** **[[dashboards/Visão das Questões.md|REGISTRO DE QUESTÕES]]** .
@@ -128,10 +128,9 @@ As **questões** surgem à partir de registros diários de **situações pendent
 **Se** você **puder ajudar** na resolução de alguma questão registrada, **TODA E QUALQUER AJUDA SERÁ BEM VINDA!**
 
 
+## COMO PODEM OCORRER "==AS AJUDAS=="?
 
-**Todas Questões CLIQUE EM =>** [TODAS QUESTÕES](https://heleriadm-collab.github.io/SAGCHeleri/questoes/)
-
-**Questões ENCERRADAS CLIQUE EM =>**  [[Visão Geral#FEITO]]
+As colaborações com as questões em aberto, ou mesmo questões ainda não registradas, ==podem ser feitas na forma== OU de **[[registro doação]]** OU de **[[registro pro-bono]]**
 
 
 

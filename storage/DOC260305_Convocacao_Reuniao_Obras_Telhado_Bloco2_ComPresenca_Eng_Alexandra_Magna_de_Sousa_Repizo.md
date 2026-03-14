@@ -5,21 +5,16 @@ sub_categoria:
 created: 2026-03-13T21:09
 ---
 
-#documento 
-
-```
-REM == RETIRA-SE O MD5 PARA INTEGRIDADE ==
-certutil -hashfile "20250717.pdf" md5
-```
+#documento/email  
 
 - **Descrição:** Convocação a [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] e engenheira do ART sra [[ALEXANDRA MAGNA DE SOUSA REPIZO]] ([[2507_art2020250191670_assinado_assinado]])
 		- **Arquivo:** 
 
-- **Objetivo:** 
+- **Objetivo:** (1) verificar se há possibilidade de prosseguimento das [[Obras Telhado BL2]] com [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] (2) contatar responsável técnica engenheira legalmente responsável, conforme ART [[2507_art2020250191670_assinado_assinado]]
 
-- **Motivação:** 
+- **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]] (2) [[AGE - Janeiro 2026]] (3) [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
 
-- **Autor:** 
+- **Autor:** [[Condomínio Heleri]] - [[Síndica]]]
 
 - **Compõe:** [[Q260109_1847 Providência ao Pedido de Distrato]]
 
@@ -27,9 +22,9 @@ certutil -hashfile "20250717.pdf" md5
 
 - **Valor:** N/A
 
-- **Análise:** 
+- **Análise:** N/A
 
-- **md5:** 
+- **md5:** N/A
 
 - **Storage:** https://drive.google.com/drive/u/2/folders/1XcSr7U4v5i-w2guVehjPMMLZ6_YnsQho
 
