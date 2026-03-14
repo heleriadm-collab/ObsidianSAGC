@@ -31,7 +31,7 @@
 | semana 08/2026 |                                  | [[diario/2026-02-17.md\|17 FEV]] |                                  | [[diario/2026-02-19.md\|19 FEV]] | [[diario/2026-02-20.md\|20 FEV]] | [[diario/2026-02-21.md\|21 FEV]] |                                  |
 | semana 09/2026 |                                  | [[diario/2026-02-24.md\|24 FEV]] | [[diario/2026-02-25.md\|25 FEV]] |                                  |                                  |                                  |                                  |
 | semana 10/2026 | [[diario/2026-03-02.md\|02 MAR]] | [[diario/2026-03-03.md\|03 MAR]] | [[diario/2026-03-04.md\|04 MAR]] | [[diario/2026-03-05.md\|05 MAR]] | [[diario/2026-03-06.md\|06 MAR]] |                                  |                                  |
-| semana 11/2026 | [[diario/2026-03-09.md\|09 MAR]] |                                  |                                  |                                  |                                  |                                  |                                  |
+| semana 11/2026 | [[diario/2026-03-09.md\|09 MAR]] | [[diario/2026-03-10.md\|10 MAR]] |                                  |                                  |                                  | [[diario/2026-03-13.md\|13 MAR]] |                                  |
 
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
@@ -47,9 +47,6 @@ No **mês de março**, o condomínio Heleri terá a visita do nosso **engenheiro
 "... à disposição para quaisquer perguntas ou esclarecimentos. Se desejar acompanhar a vistoria, peço que me avise para que possamos agendar com o engenheiro"
 
 <!-- 
-
-
-
 
 ## [[AGE - Fevereiro 2026]] - REALIZADA domingo 08 Fev
 
