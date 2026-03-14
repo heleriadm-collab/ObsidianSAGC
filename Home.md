@@ -46,6 +46,12 @@ No **mês de março**, o condomínio Heleri terá a visita do nosso **engenheiro
 **[[SOS Elevadores]] Complementa:** 
 "... à disposição para quaisquer perguntas ou esclarecimentos. Se desejar acompanhar a vistoria, peço que me avise para que possamos agendar com o engenheiro"
 
+## Reunião com MV3 e Responsável Técnica
+
+Agendada para sexta-feira 13/março, essa reunião definirá como será dada continuidade às [[Obras Telhado BL2]]
+
+**Convocação:** [[DOC260305_Convocacao_Reuniao_Obras_Telhado_Bloco2_ComPresenca_Eng_Alexandra_Magna_de_Sousa_Repizo]]
+
 <!-- 
 
 ## [[AGE - Fevereiro 2026]] - REALIZADA domingo 08 Fev
@@ -90,6 +96,7 @@ timeline
 ```
 -->
 
+<!--
 # SOBRE O SACG Heleri
 
 O **Sistema de Apoio a Gestão Condominial Heleri** ou **SACG Heleri** divulga informações acerca da gestão condominial.
@@ -99,13 +106,19 @@ No **SACG Heleri** é possível acompanhar diariamente atos e registros tomados 
 
 ![Institucional - SAGC](https://youtu.be/V5lCcjIuU90)
 
-
+-->
 
 ---
 # Sobre o REGISTRO DE QUESTÕES
 
 
-A maior parte das ocorrências do Condomínio, não poderão, por motivo de força maior, serem resolvidas em imediato. Então para que haja um acompanhamento na evolução das ocorrências, sejam elas dúvidas, incidentes e/ou problemas, existe o **REGISTRO DE QUESTÕES**.
+A maior parte das ocorrências do Condomínio, ==não poderão==, por motivo de força maior, ==serem resolvidas em imediato==. No entanto, isso não significa que devamos esquecer a questão, ainda mais quando se tratar de algo complexo, que demande prolongada atuação.
+
+Para esse propósito de visão do que há em andamento, e de como as questão andaram (ou se permaneceram paradas), foi criado o cadastro de questões, através do qual são ==registradas ocorrências, sejam elas dúvidas, incidentes e/ou problemas==  
+
+
+**Veja a relação completa clicando em:** **[[dashboards/Visão das Questões.md|REGISTRO DE QUESTÕES]]** .
+
 
 As **questões** surgem à partir de registros diários de **situações pendentes**, **a resolver**, ou que **implicam em processos específicos** e/ou **obrigatórios**, tal como registro de nota fiscal, apuração de despesa, ou providência de reparo/correção.
 
