@@ -1,13 +1,14 @@
 ---
 mnemonico: Q260109_1847
 created: 2026-01-09T19:33
+encerramento: 2026-03-13
 tipo_questao: 
 status_questao: INFORMAR
 area: INFORMAR
 v: 1
 summary:
 ---
-- [ ] Dar baixa
+- [x] Dar baixa
 
 #questao 
 
@@ -31,6 +32,13 @@ summary:
 			- **QUE** em 03/fev, diante de ausência de confirmação de recebimento, Síndica reforça no Whatsapp o envio da resposta, conforme realizado em atividade registrada em
 			- **QUE** na data de 4/fev MV3 informa que resolve pela retirada de ferramentas e material conforme documento [[260204_Comunicado_MV3_Retirada_Ferramentas]]
 			- **QUE** em 13/fev atividade registrada em [[2026-02-13#18 36 Fato Adm. - MV3 Retira Ferramentas]], é efetuada retirada de material
+			- **QUE** na data de 03/Março é recebido laudo da perícia feita pela [[B & G JAMES REFORMAS E CONSTRUCOES LTDA]], cujo documento registra-se em [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]] 
+			- **QUE** na data de 05/Março é feito convite para apresentação dos pontos a serem corrigidos, e para reunião é **frisado SER IMPRESCINDÍVEL presença da engenheira responsável técnica**, Sra [[ALEXANDRA MAGNA DE SOUSA REPIZO]] que consta no [[2507_art2020250191670_assinado_assinado]], direito garantido ao Condomínio Heleri, pela [[Lei nº 6.496-1977]]. Documento convite registra-se em [[DOC260305_Convocacao_Reuniao_Obras_Telhado_Bloco2_ComPresenca_Eng_Alexandra_Magna_de_Sousa_Repizo]]
+			- **QUE** na data de 13/março/2026, [[Milton Vilarino Junior - MV3]] comparece à reunião **SEM A RESPONSÁVEL TÉCNICA Alexandra**, descumprindo premissa da reunião, e quando Síndica expõe a necessidade da presença Milton deliberadamente causa tumulto e impede a Síndica de fazer as colocações, além de iniciar série de exigências de obrigação do Condomínio tal como somente trazer a responsável técnica se o Condomínio também trouxer um responsável técnico, ou, condicionar o acesso a responsável a entrega do laudo independente custeado pelo Condomínio.
+			- **DADA as circunstâncias absurdas, falta total de cooperação e postura mínima a tratar com CONTRATANTE, e o flagrante ato de má-fé lançando mão de solicitações ilegais e protelatórias, CONDOMÍNIO HELERI extingue qualquer relação de prestação de serviço com a [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] ao que será submetido em Assembleia apropriada, para decisão de todos, se aplicar-se-á processo judicial com pedido de ressarcimento mais danos morais coletivos, e o que mais pertinente for.**
+			- **REGISTRA-SE** ainda que dada a permanência dos vícios conforme exposto em vídeo [[2601 Playlist compilação Vídeos status Telhado BL2 ANTES e DURANTE Obras#31 de dezembro 11 40 - Registro com iluminação]], faz-se urgente contratação de nova obra para sanar vícios do [[Telhado Bloco 2]] conforme exposto em laudo técnico, do perito independente, [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
+
+
 
 - **Motivação:** (1) situação de [[inadimplemento da contratada]], (2) [[20260109_Comunicado_Posicao_MV3_AoPedidoDistrato]] (resposta da MV3 ao pedido de distrato )
 
@@ -45,13 +53,19 @@ summary:
 
 
 - **Termo encerramento:** que à partir da [[AGE - Janeiro 2026]], Condôminos decidem fornecer chance à MV3 de continuar serviços desde que tecnicamente enquadrados em norma e garantia da entrega sem vícios. Para tanto, também decide-se pela contratação de técnico independente que irá verificar, e relacionar escopo restante, ao que será submetido à MV3 para aceite ou declinação.
+		- Diante da postura completamente inadequada, desrespeitosa praticadas e permeada de má-fé com sucessão de atitudes não cooperativas durante a reunião por video-conferência de [[2026-03-13#19 30 Reunião - Gestão Heleri - MV3 - Escopo do Laudo]], a [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]], na última chance proporcionada pela CONTRATANTE, inviabilizou por completo qualquer prosseguimento da relação de prestação de serviço. E ainda que serviço iniciado em ==JULHO de 2025== não tenha sanado os vícios objeto do contrato, e por causa disso, Heleri prosseguirá com contratação de nova empresa para execução da obra que hoje degrada e expõe riscos à [[Unidade 402]]
 
-- [ ] notificação extrajudicial à MV3
+- [x] notificação extrajudicial à MV3
 - [ ] notificação extrajudicial à Engenheira Civil ALEXANDRA
-- [ ] entrega ao Engenheiro Perito 
+- [x] entrega ao Engenheiro Perito 
+- [x] verificar se MV3 aceita concluir escopo não terminado, aos moldes do laudo do perito
+
+- **Data encerramento:** 2026-03-13
+
+<!--
 - [ ] embasamento da petição
 	- [ ] analisar estratégia
-
+-->
 
 ---
 
@@ -101,6 +115,15 @@ e ainda
 
 > “O atraso excessivo, equivalente a quase seis vezes o prazo contratado, aliado à persistência de vício essencial, configura inadimplemento grave, autorizando a resolução do contrato e a recusa da continuidade da prestação, nos termos dos arts. 394, 475, 618, 422 e 476 do Código Civil. Não há dever jurídico de permitir correções indefinidas quando a execução se mostra reiteradamente ineficaz.”
 
+**(12)** [[260130_COMUNICACAO_EXTRAJUDICIAL_remetente_HELERI_destinatario_MV3]]
+
+**(13)** [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
+
+**(14)** [[DOC260305_Convocacao_Reuniao_Obras_Telhado_Bloco2_ComPresenca_Eng_Alexandra_Magna_de_Sousa_Repizo]]
+
+**(15)** [[ATA260313_Reuniao_MV3_Recusa_Comparecimento_Responsavel_Tecnica]]
+
+**(16)** [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra]]
 
 # metadado
 

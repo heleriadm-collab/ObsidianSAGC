@@ -13,13 +13,18 @@ summary:
 
 - **Onde:** online via link https://meet.google.com/wuk-rthn-rqo?authuser=0
 
-- **Pauta:** (1) conforme convocação registrada na [[2026-03-06#17 30 Ato Adm. - Gestão Heleri - Agendamento Reunião MV3 - Apresentação Laudo Pericial]] (2) conforme [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]] (3) exposição do caso à engenheira do [[2507_art2020250191670_assinado_assinado]]
+- **Pauta:** A pauta segue diretrizes estabelecidas na [[AGE - Janeiro 2026]], cuja forma de condução, em ato de boa fé, foi dado ciência à CONTRATADA via comunicado formal [[260130_COMUNICACAO_EXTRAJUDICIAL_remetente_HELERI_destinatario_MV3]]
+		- ... assim sendo ...
+		- (1) conforme convocação registrada na [[2026-03-06#17 30 Ato Adm. - Gestão Heleri - Agendamento Reunião MV3 - Apresentação Laudo Pericial]] 
+		- (2) conforme [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]] 
+		- (3) e para fins de exposição do caso à engenheira do [[2507_art2020250191670_assinado_assinado]]
+		- (4) ... cujo pauta plano consta no documento [[DOC2603_Pauta_Roteiro_Reuniao_MV3_20260313]]
 
 - **Participantes:** 
 		- [[Ana 402]] na qualidade de [[Síndica]] do [[Condomínio Heleri]] (CONTRATANTE)
 		- [[Leonardo 402]] na qualidade de Secretário designado pela Síndica
 		- [[Milton Vilarino Junior - MV3]] na qualidade de representante da [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] (CONTRATADA)
-		- **CONVOCAÇÃO OBRIGATÓRIA PORÉM ==SEM COMPARECIMENTO==:** 
+		- **PRESENÇA OBRIGATÓRIA PORÉM ==SEM COMPARECIMENTO==:** 
 		-  [[ALEXANDRA MAGNA DE SOUSA REPIZO]] engenheira emitente do ART das Obras do Telhado Bloco 2
 
 - **Publicidade:** 
@@ -33,6 +38,9 @@ summary:
 - **Link:** N/A
 
 # **Resumo**
+
+REUNIÃO CANCELADA POR NÃO CUMPRIMENTO DE EXIGÊNCIAS
+
 
 Ana Lins informou que para iniciar a reunião, seria necessária a presença da Responsável Técnica do ART. 
 
@@ -76,7 +84,7 @@ Presentes na reunião:
 
 ## 2. Pauta
 
-Apresentação dos pontos identificados em laudo pericial independente através de interlocução com a responsável técnica da obra e tratativas referentes ao escopo de obra não concluída e dos vícios que permanecem.
+Apresentação dos pontos identificados em laudo pericial independente através de ==interlocução com a responsável técnica da obra== e tratativas referentes ao escopo de obra não concluída e dos vícios que permanecem.
 
 ## 3. Relato dos fatos
 

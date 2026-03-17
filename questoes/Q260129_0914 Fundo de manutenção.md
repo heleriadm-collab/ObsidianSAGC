@@ -11,7 +11,9 @@ summary:
 
 #questao 
 
-- **Descrição:** [[???]]
+- **Descrição:** 
+		- **QUE** foi aprovado na [[AGE - Fevereiro 2026]]
+		- **QUE** na data de 06/Março/2026 foi dado ciência à [[Administradora Apolo]] para providência de configuração das cobranças, conforme instrução no e-mail [[DOC260306_Email_Comunicado_à_Apolo_Novas_Cotas_Conforme_AGO_DEZ_25]]
 
 - **Motivação:** [[???]]
 
@@ -21,7 +23,7 @@ summary:
 
 - **Onde:** 
 
-- **Termo encerramento:** 
+- **Termo encerramento:** (1) encerra-se quando iniciar recolhimento no valor de cotas conforme decidido
 
 
 

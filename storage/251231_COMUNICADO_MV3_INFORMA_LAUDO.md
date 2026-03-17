@@ -9,10 +9,10 @@ created: 2026-01-22T15:47
 
 
 
-- **Descrição:** 
+- **Descrição:** Documento que PROVA NÃO ENTREGA DA OBRA, e EVIDENCIA QUE VÍCIOS NUNCA FORAM SANADOS, e que tal condição É DO CONHECIMENTO DA CONTRATADA [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]]
 		- **Arquivo:** ` 251231_COMUNICADO_MV3_INFORMA_LAUDO.pdf `
 
-- **Objetivo:** 
+- **Objetivo:** (1) Atestar não conclusão da obra
 
 - **Motivação:** (1) Reconhecimento da permanência dos vícios 
 

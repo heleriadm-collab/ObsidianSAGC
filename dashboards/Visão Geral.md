@@ -69,6 +69,24 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
+- [[2026-03-16.md#10 27 Questão - Falta de Iluminação Hall Cobertura|2026-03-16 > 10 27 Questão - Falta de Iluminação Hall Cobertura]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260316_1027 Falta de Iluminação Hall Cobertura]]
+- **Descrição:**
+- **QUE** as escadas que sobem do quarto andar para cobertura estão sem iluminação, devido fio do sensor fotoelétrico, que passa pelo basculante entre terraço e hall da cobertura, ter sido danificado em manobra de fechamento que visava anular infiltração de água da chuva
+- **Onde:** [[Hall Cobertura]], [[Terraço]]
+- ---
+- **Ref.:** [[registro questão]]
+
+- [[2026-03-16.md#10 08 Ato Adm - Restauração Mangueira Andar 4|2026-03-16 > 10 08 Ato Adm - Restauração Mangueira Andar 4]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260209_1951 Reinstalação Mangueira Incêndio Andar 4]]
+- **Registra-se:**
+- **QUE** em continuidade a questão, que prevê (1) restauração da porta (2) instalação da tranca/cadeado (3) instalação do vidro, [[Síndica]] prossegue com trabalho, pro-bono de restauração da porta do nicho da mangueira de incêndio
+- ---
+- **Ref.:** [[ato administrativo]], [[registro pro-bono]], [[registro doação]], [[Sistema Anti-incêndio]], [[Andar 4]], [[Hall Andar 4]]
+- https://drive.google.com/file/d/1t-zPetZwHrSIIvw8jWLvBosQfncQMjeG/view
+- <iframe src="https://drive.google.com/file/d/1t-zPetZwHrSIIvw8jWLvBosQfncQMjeG/preview" width="640" height="480"></iframe>
+
 - [[2026-03-13.md#21 04 Ato Adm - Gestão Heleri - Denúncia ao CREA - Eng Alexandra Repizo|2026-03-13 > 21 04 Ato Adm - Gestão Heleri - Denúncia ao CREA - Eng Alexandra Repizo]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]] (2) Reunião com ausência da engenheira [[ALEXANDRA MAGNA DE SOUSA REPIZO]]
@@ -77,22 +95,41 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **QUE** documento com conteúdo da denúncia é [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra]]
 - **QUE** denúncia, para fins de acompanhamento, fica registrada sob questão [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]]
 - ---
-- **Ref.:** [[ato administrativo]]
+- **Ref.:** [[ato administrativo]], [[registro questão]]
 
 - [[2026-03-13.md#19 30 Reunião - Gestão Heleri - MV3 - Escopo do Laudo|2026-03-13 > 19 30 Reunião - Gestão Heleri - MV3 - Escopo do Laudo]]: 
     - Em [[Gestão Condominial do Heleri]], registra-se reunião no ==formato de videoconferência==...
 - **Participantes:**
+- (1) [[Síndica]]
+- (2) [[Leonardo 402]] como secretário designado
+- (3) [[Milton Vilarino Junior - MV3]] como CONTRATADA
 - **Link:** https://meet.google.com/wuk-rthn-rqo?authuser=0
-- **Pauta:**
+- **Pauta:** A pauta segue diretrizes estabelecidas na [[AGE - Janeiro 2026]], cuja forma de condução, em ato de boa fé, foi dado ciência à CONTRATADA via comunicado formal [[260130_COMUNICACAO_EXTRAJUDICIAL_remetente_HELERI_destinatario_MV3]]
+- ... assim sendo ...
 - (1) conforme convocação [[DOC260305_Convocacao_Reuniao_Obras_Telhado_Bloco2_ComPresenca_Eng_Alexandra_Magna_de_Sousa_Repizo]] feita na data de [[2026-03-06#17 30 Ato Adm. - Gestão Heleri - Agendamento Reunião MV3 - Apresentação Laudo Pericial]]
 - (2) exposição de levantamentos que constam no [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
 - (3) interlocução com a engenheira do [[2507_art2020250191670_assinado_assinado]]
+- (4) roteiro de execução da pauta com itens ao aceite [[DOC2603_Pauta_Roteiro_Reuniao_MV3_20260313]]
 - **Ata:**
 - Milton foi questionado sobre a presença da engenheira ALEXANDRA MAGNA DE SOUSA REPIZO, conforme expresso no e-mail de convocação como sendo IMPRESCINDÍVEL. Síndica informou que sem a presença da engenheira responsável técnica não seria possível prosseguir. Milton Junior Vilarino se recusou expressamente em ouvir as colocações da Síndica Sra Ana Tereza. Milton informou que não irá trazer a engenheira até ver o laudo técnico independente produzido pelo Condomínio. Milton informou que a responsável técnica Alexandra só fala com responsável técnico do Heleri. Síndica informou que a CONTRATADA não possui direito de cobrar laudo técnico do Condomínio e nem pode impedir o acesso a responsável técnica declarada no ART. Milton inviabilizou qualquer transcrição da reunião tomando indevidamente a palavra e sobrepondo qualquer fala da Síndica
 -
 - **DETALHAMENTO vide** [[ATA260313_Reuniao_MV3_Recusa_Comparecimento_Responsavel_Tecnica]]
 - ---
 - **Ref.:** [[ato administrativo]], [[registro reunião]]
+
+- [[2026-03-11.md#13 22 Despesa - Massa Vidro Reparo Janela do Terraço|2026-03-11 > 13 22 Despesa - Massa Vidro Reparo Janela do Terraço]]: 
+    - [[Gestão Condominial do Heleri]], segue questão e **despesa** vinculada ...
+- **Motivação:**
+- **questão** relacionada a avaria na janela do terraço [[Q260316_1323 Janela do Terraço Com Avaria - Entrada Água Chuva]]
+- **Onde:** [[Terraço]], [[Andar Cobertura]]
+- **Registra-se:**
+- **QUE** foi adquirido(a) "_[16:46, 11/03/2026] Ana: Registro de compra de massa parq vidro para reparo de janela do terraço_"
+- ... **sob nota fiscal**  [[NF260316_Massa_Vidro_Serralheria_JBV]]
+- **QUE** atualiza-se planilha de controle [[Planilha_Controle_Despesas_v2601_1]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro despesa]], [[registro compra]]
+- https://drive.google.com/file/d/1JEysGurz5lo1T_a58pribFxxJ-bUlrgT/view
+- <iframe src="https://drive.google.com/file/d/1JEysGurz5lo1T_a58pribFxxJ-bUlrgT/preview" width="640" height="480"></iframe>
 
 - [[2026-03-09.md#17 15 Fornecedor - S O S Amigo Faz Tudo e Lavanderia|2026-03-09 > 17 15 Fornecedor - S O S Amigo Faz Tudo e Lavanderia]]: 
     - Em [[Gestão Condominial do Heleri]], cadastra-se ...
@@ -121,6 +158,18 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Ref.:** [[ato administrativo]], [[registro comunicado formal]], [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]], [[Obras Telhado BL2]]
 - https://drive.google.com/file/d/1T_Nm7uY7aaUcLLASa4wYTH3aQmK5dbQh/view
 - <iframe src="https://drive.google.com/file/d/1T_Nm7uY7aaUcLLASa4wYTH3aQmK5dbQh/preview" width="640" height="480"></iframe>
+
+- [[2026-03-06.md#13 33 Ato Adm - Comunicado à Apolo - Sobre Reajustes Cobranças Condominiais|2026-03-06 > 13 33 Ato Adm - Comunicado à Apolo - Sobre Reajustes Cobranças Condominiais]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) conforme decidido em [[AGO - Dezembro 2025]], e também em [[AGE - Fevereiro 2026]], sobre criação do [[Fundo Ordinário de Manutenção]], formalizar comunicado do [[Condomínio Heleri]] à [[Administradora Apolo]] sobre novas cotas condominiais
+- **Registra-se:**
+- **QUE** [[Síndica]] redige comunicado conforme registrado em [[DOC260306_Email_Comunicado_à_Apolo_Novas_Cotas_Conforme_AGO_DEZ_25]]
+- **QUE** no anexo segue [[ATA260208_AGE_Fev_2026]]
+- **QUE** [[Administradora Apolo]] responde confirmando recebimento
+- ---
+- **Ref.:** [[ato administrativo]], [[envio e-mail]], [[registro comunicado formal]]
+- https://drive.google.com/file/d/1XTm76y-nfqUrChokDurfE-fm1_FKNC6e/view
+- <iframe src="https://drive.google.com/file/d/1XTm76y-nfqUrChokDurfE-fm1_FKNC6e/preview" width="640" height="480"></iframe>
 
 - [[2026-03-05.md#19 08 Ato Adm - Recebimento Laudo Telhado Bloco 2|2026-03-05 > 19 08 Ato Adm - Recebimento Laudo Telhado Bloco 2]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
@@ -833,9 +882,11 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - (4) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
 - **Ata:**
 - **QUE** [[Síndica]] dá abertura às 19:39
-- **QUE** reunião transcorre conforme ata
+- **QUE** reunião transcorre conforme ata [[ATA260208_AGE_Fev_2026]]
 - ---
 - **Ref.:** [[ato administrativo]], [[registro reunião]]
+- https://drive.google.com/file/d/1jF4khMnjpVmPf0mumubViIKs3O2omJOy/view
+- <iframe src="https://drive.google.com/file/d/1jF4khMnjpVmPf0mumubViIKs3O2omJOy/preview" width="640" height="480"></iframe>
 
     - [[registro lembrete]] para **próximos passos**: No âmbito do(a) [[AGE - Fevereiro 2026]]
     - Aguardar retorno do [[Marcelo 101]] de orçamento do sistemas de câmeras em alternativa ao proposto ([[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]])

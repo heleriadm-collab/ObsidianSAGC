@@ -13,6 +13,7 @@ summary:
 #questao 
 
 - **Descrição:** Em continuidade ao processo iniciado em [[Q260121_2116 Ausência Mangueira Incêndio Hall Andar 4]]
+		- **QUE** no domingo 15/03/2026, Síndica prossegue, em trabalho pro-bono com atividade de restauração da porta do nicho da mangueira
 
 - **Motivação:** (1) conformidade do [[Sistema Anti-incêndio]]
 
@@ -24,12 +25,25 @@ summary:
 
 - **Termo encerramento:** 
 - [x] mangueira no local
-- [ ] acabamento de vidro
+- [ ] restauração da porta
+- [ ] instalação da tranca/cadeado
+- [ ] instalação do vidro
 
 - **Data encerramento:** 
 
 # Visualização
 
+## 15 mar 2026
+
+https://drive.google.com/file/d/1t-zPetZwHrSIIvw8jWLvBosQfncQMjeG/view
+<iframe src="https://drive.google.com/file/d/1t-zPetZwHrSIIvw8jWLvBosQfncQMjeG/preview" width="640" height="480"></iframe>
+
+https://drive.google.com/file/d/1Pg53Y8EjqUSb0YQBE_csRH7aHmZyNDWe/view
+<iframe src="https://drive.google.com/file/d/1Pg53Y8EjqUSb0YQBE_csRH7aHmZyNDWe/preview" width="640" height="480"></iframe>
+
+## 09 fev 2026
+
+https://drive.google.com/file/d/1kT1DDxJKD0HRWSFVgZ2sy2Aoflg-b3Vb/preview
 <iframe src="https://drive.google.com/file/d/1kT1DDxJKD0HRWSFVgZ2sy2Aoflg-b3Vb/preview" width="640" height="480"></iframe>
 
 # metadado

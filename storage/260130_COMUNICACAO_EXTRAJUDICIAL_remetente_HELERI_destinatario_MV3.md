@@ -8,16 +8,17 @@ created: 2026-01-31T09:38
 #documento/comunicado  #documento/notificacao  
 
 
-- **Descrição:** 
+- **Descrição:** Comunicado formal que visa proteger o Condomínio e **GARANTIR QUE NÃO HAJA DÚVIDA por parte da CONTRATADA** sobre o **encaminhamento obrigatório** que será dado a questão, **sem ao qual NÃO HAVERÁ PROSSEGUIMENTO do CONTRATO** por não cumprimento dos preceitos básicos.
 		- **Arquivo:** 260130_COMUNICACAO_EXTRAJUDICIAL_remetente_HELERI_destinatario_MV3
 
-- **Objetivo:** 
+- **Objetivo:** (1) Garantir que não haja dúvida por parte da CONTRATADA o encaminhamento obrigatório que será dado a questão, sem ao qual NÃO HAVERÁ PROSSEGUIMENTO do CONTRATO por não cumprimento dos preceitos básicos.
 
-- **Motivação:** 
 
-- **Autor:** 
+- **Motivação:** (1) Garantir que não haja dúvida por parte da CONTRATADA o encaminhamento obrigatório que será dado a questão, sem ao qual NÃO HAVERÁ PROSSEGUIMENTO do CONTRATO por não cumprimento dos preceitos básicos.
 
-- **Compõe:** 
+- **Autor:** [[Síndica]]
+
+- **Compõe:** [[Q260109_1847 Providência ao Pedido de Distrato]]
 
 - **Composto por:** 
 

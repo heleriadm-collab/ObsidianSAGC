@@ -23,7 +23,7 @@ certutil -hashfile "20250717.pdf" md5
 
 - **Autor:** [[Condomínio Heleri]]
 
-- **Compõe:** [[Q260109_1847 Providência ao Pedido de Distrato]]
+- **Compõe:** (1) associada a questão [[Q260109_1847 Providência ao Pedido de Distrato]] para fins de acompanhamento
 
 - **Composto por:** 
 		- (1) [[20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI]]

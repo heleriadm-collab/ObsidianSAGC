@@ -4,9 +4,38 @@ categoria:
 created: 2026-03-13T22:53
 ---
 
-#heleri/fornecedor #pessoa 
+#heleri/fornecedor 
 
+- **Descrição:** <!-- categoria pode variar (1) servico (2) material (3) projeto (4) servico_e_material -->
+		- **Razão Social:** 
+		- **CNPJ:** 
+		- **Nome Completo:** 
+		- **CPF:** 
 
+- **Endereço:**
+		- **Google Street View:** <!-- [street view](LINK_AQUI) -->
+		- **Google Maps:** <!-- [maps](LINK_AQUI) -->
+
+- **Contato:** 
+		- **whatsapp:** <!-- https://wa.me/    NUMERO TELEFONE SEM ESPACOS ex. https://wa.me/5521995063254 --> 
+		- **celular:** <!-- (21) 98651-8610 <!-- a href="tel:+5521986518610">ligar</a> -->
+		- **e-mail:** 
+
+- **Links:** 
+		- **Reclame Aqui:** 
+		- **LinkedIn:**  
+
+- **Pessoas relacionadas:** (1) [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]]
+
+- **Composta por:** 
+
+- **Custo:** 
+
+- **Contrato(s):** (1) [[20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI]] (2) [[2507_art2020250191670_assinado_assinado]]
+
+- **Análise(s):** 
+
+<!--
 - **Descrição:** O CNPJ da empresa 59.954.209 ALEXANDRA MAGNA DE SOUSA REPIZO - ME é 59.954.209/0001-37. Com sede em SAO GONCALO, RJ, possui 0 anos, 11 meses e 24 dias e foi fundada em 18/03/2025. A sua situação cadastral é **BAIXADA** e sua principal atividade econômica é Aplicação de revestimentos e de resinas em interiores e exteriores.
 		- **Razão Social:** 
 		- **CNPJ:** 59.954.209/0001-37
@@ -61,6 +90,8 @@ https://drive.google.com/file/d/1yIAdj0x3lqjv0iJs5v6JrQ434a-hCaOS/view
 [[DOC260313_SerasaExperian_Pagina_ALEXANDRA_MAGNA_DE_SOUSA_REPIZO]]
 https://drive.google.com/file/d/11kdeS0i5RUar67sswoE7SgXVPE_tWkZF/view
 <iframe src="https://drive.google.com/file/d/11kdeS0i5RUar67sswoE7SgXVPE_tWkZF/preview" width="640" height="480"></iframe>
+
+ -->
 
 # metadado
 

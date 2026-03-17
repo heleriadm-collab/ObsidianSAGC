@@ -8,6 +8,10 @@ created: 2026-01-12T13:00
 
 
 - **Descrição:** Entregue pela MV3 em [[2026-01-09]] ([[2026-01-09#18 32 Gestão Heleri - Retorno Contratada - Posicionamento MV3 a Solicitação Distrato]])
+		- ---
+		- **EM ANÁLISE VERIFICA-SE MÁ FÉ DA CONTRATADA:**
+		- (1) **ATENÇÃO!** Ao contrário do que é afirmado no comunicado **não há acionamento de garantia** porque a obra **NUNCA FOI ENTREGUE**
+		- ----
 		- **Arquivo:** 20260109_Comunicado_Posicao_MV3_AoPedidoDistrato.pdf
 
 - **Objetivo:** resposta a [[ATA260106 Reunião Heleri MV3 proposição distrato]]
@@ -22,7 +26,7 @@ created: 2026-01-12T13:00
 
 - **Valor:** N/A
 
-- **Análise:** 
+- **Análise:** (1) **ATENÇÃO!** Ao contrário do que é afirmado no comunicado **não há acionamento de garantia** porque a obra **NUNCA FOI ENTREGUE**
 
 - **md5:** 757c6154994bdc3254004ac94dc5bc6b
 
