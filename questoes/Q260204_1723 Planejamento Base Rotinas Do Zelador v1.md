@@ -14,6 +14,8 @@ summary:
 - **Descrição:** vide [[#Planejamento Base - versão 1 - fev 2026]]
 		- **QUE** em atividade de [[2026-02-04#17 23 Questão - Planejamento Base Rotinas Do Zelador]] foi gerado primeiro [[Plano das Atividades de Zeladoria]] (vide em [[2026-02-04#Plano Atividades Zeladoria - 2602_v1]])
 		- **QUE** em atividade ainda em atividade de [[2026-02-04]] foi criado [[Plano Comunicação e Controle Tarefas Zeladoria v01]]
+		- ---
+		- **QUE** versão 01 e em execução é [[2602_Atividades_Zeladoria_fev26_v1]]
 
 - **Motivação:** 
 

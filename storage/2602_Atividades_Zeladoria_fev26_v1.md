@@ -11,7 +11,10 @@ created: 2026-02-05T11:24
 - **Descrição:** Documento [[Plano das Atividades de Zeladoria]], com atividades planejadas para período **fevereiro 2026**
 		- **Arquivo:** 
 
-- **Objetivo:** **(1)** conforme [[Plano Comunicação e Controle Tarefas Zeladoria v01]] **(2)** Código Civil – Lei nº 10.406-2002 Art. 1.348, inciso V compete ao Síndico "diligenciar a conservação e a guarda das partes comuns e zelar pela prestação dos serviços que interessem aos possuidores."  **(3)** CLT – Art. 2º na qualidade de empresa que assume risco da atividade econômica, assalaria e dirige prestação pessoal de serviço
+- **Objetivo:** 
+		- **(1)** conforme [[Plano Comunicação e Controle Tarefas Zeladoria v01]] 
+		- **(2)** Código Civil – Lei nº 10.406-2002 Art. 1.348, inciso V compete ao Síndico "diligenciar a conservação e a guarda das partes comuns e zelar pela prestação dos serviços que interessem aos possuidores."  
+		- **(3)** CLT – Art. 2º na qualidade de empresa que assume risco da atividade econômica, assalaria e dirige prestação pessoal de serviço
 
 - **Motivação:** disposto em [[Plano Comunicação e Controle Tarefas Zeladoria v01]]
 

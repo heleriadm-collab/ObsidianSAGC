@@ -69,6 +69,112 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
+- [[2026-03-18.md#13 17 Fato Adm - Recebimento Ofício CREA - Denúncia nº 202680002797|2026-03-18 > 13 17 Fato Adm - Recebimento Ofício CREA - Denúncia nº 202680002797]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Motivação:** (1) [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]]
+- **Registra-se:**
+- **QUE** na presente data foi recebido em mãos, entregue via portador competente, Ofício Circular do CREA, referente a denúncia aberta contra engenheira [[ALEXANDRA MAGNA DE SOUSA REPIZO]], apontada pela [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] como sendo a responsável técnica das [[Obras Telhado BL2]]
+- **QUE** Ofício solicita documentação probatória à denúncia realizada
+- **QUE** documento ofício está registrado em [[DOC260318 Ofício Circular CREA Denúncia 202680002797 Eng Alexandra MV3 ref Q260313_2156]]
+- **QUE** assina ofício na qualidade de Agente de Fiscalização do CREA, Sr [[Jose Carlos Pingitore Papa]], da matrícula 323, do celular (21) 98882-2114, do e-mail jose.papa@crea-rj.org.br
+- ---
+- **Ref.:** [[fato administrativo]], [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra]], [[Q260109_1847 Providência ao Pedido de Distrato]], [[2507_art2020250191670_assinado_assinado]], [[registro recebimento]]
+- https://drive.google.com/file/d/1JIrSyM3HQR5GNaVB8Gb2hzG7AsPBpDuG/view
+- <iframe src="https://drive.google.com/file/d/1JIrSyM3HQR5GNaVB8Gb2hzG7AsPBpDuG/preview" width="640" height="480"></iframe>
+
+- [[2026-03-17.md#22 27 Questão - Redigindo Solicitação de Propostas Término Telhado Bloco 2|2026-03-17 > 22 27 Questão - Redigindo Solicitação de Propostas Término Telhado Bloco 2]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+- **Descrição:**
+- **QUE** [[Síndica]] no âmbito das necessidades de prosseguir com [[Obras Telhado BL2]], solicita envio de pedidos de cotação conforme escopo obtido à partir do laudo [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
+- **QUE** pede ainda embasamento do escopo declarado conforme exposto em [[DOC2603_Pauta_Roteiro_Reuniao_MV3_20260313]]
+- **QUE** dessa forma, elabora-se [[DOC2603 Documento Solicitação Proposta Comercial e Técnica Telhado Bloco 2]]
+- ---
+- **Onde:**  [[Telhado Bloco 2]], [[Bloco 2]], [[Andar Cobertura]]
+- **Por quê:**
+- (1) diante inviabilidade de prosseguimento com CONTRATADA [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] conforme exposto a todos condôminos em [[AGE - Novembro 2025]] / [[251110_AGE_NOV_2025_STATUS_OBRA_BL2]]
+- (2) ... e também não execução de compromisso firmado em [[ATA251111 Reunião MV3 Questões da AGE NOV 2025]]/[[20251112_6 - CRONOGRAMA FISICO MV3]]
+- (3) ... e ainda não acordo a proposta de distrato [[ATA260106 Reunião Heleri MV3 proposição distrato]]
+- (4) ... e ainda conforme exposto na [[AGE - Janeiro 2026]]
+- (5) ... e ainda conforme evidenciado em laudo independente [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
+- (6) ... e ainda conforme inviabilidade do cumprimento de deveres mínimos para com a CONTRATANTE  [[ATA260313_Reuniao_MV3_Recusa_Comparecimento_Responsavel_Tecnica]]
+- ---
+- **Ref.:** [[ato administrativo]], [[pedido cotação]]
+
+- [[2026-03-17.md#18 18 Ato Adm - Registro Manual Síndico|2026-03-17 > 18 18 Ato Adm - Registro Manual Síndico]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm]]
+- **Registra-se:**
+- **QUE** [[Síndica]] solicita cadastrar o documento ` 20251216_Manual do Síndico - Heleri_v1.pdf ` contendo orientações gerais conforme redigido pela gestão anterior.
+- **QUE** registra-se [[DOC251216_Manual_do_Síndico_Heleri_v1]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro documentação]]
+- https://drive.google.com/file/d/1_ffD9ETHWtzIPzCjBa_A8m-WySGlaCDm/view
+- <iframe src="https://drive.google.com/file/d/1_ffD9ETHWtzIPzCjBa_A8m-WySGlaCDm/preview" width="640" height="480"></iframe>
+
+- [[2026-03-17.md#14 00 Ato Adm - Reparo Iluminação Hall Cobertura|2026-03-17 > 14 00 Ato Adm - Reparo Iluminação Hall Cobertura]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:**
+- **Registra-se:**
+- **QUE** Sr [[Alysson Dias Koehler - Arrumaí]] da fornecedora de serviços [[Arrumaí - Reparos Domésticos]] realiza visita para reparo conforme anotado em [[Q260316_1027 Falta de Iluminação Hall Cobertura]]
+- **QUE** profissional também irá verificar [[Q260316_1323 Janela do Terraço Com Avaria - Entrada Água Chuva]]
+- ---
+- **Ref.:** [[ato administrativo]]
+
+- [[2026-03-17.md#13 48 Ato Adm - Levantamento Custo Limpeza Caixa DAgua|2026-03-17 > 13 48 Ato Adm - Levantamento Custo Limpeza Caixa DAgua]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:**
+- **Registra-se:**
+- **QUE** [[Síndica]] solicita registrar última [[Limpeza Caixa-D'Água]]
+- **QUE** custo à época foi BRL 1080,00, ==conforme identificado no balanço de 08/2025==
+- **QUE** registra-se levantamento em [[Limpeza Caixa-D'Água#Histórico Custos]]
+- ---
+- [13:48, 17/03/2026] Ana: registrar questão de limpeza de caixa dagua, a ultima foi feita em 08/2025
+- [13:48, 17/03/2026] Ana: o custo na época de 1080,00
+- **Ref.:** [[ato administrativo]], [[registro levantamento]]
+- https://drive.google.com/file/d/1IlIHzlzXg5Q__cWew1FEEnYR1ZJjRSDG/view
+- <iframe src="https://drive.google.com/file/d/1IlIHzlzXg5Q__cWew1FEEnYR1ZJjRSDG/preview" width="640" height="480"></iframe>
+
+- [[2026-03-17.md#10 42 Ato Adm - Fornecedor Imunizario - Orçamento Limpeza Caixa DÁgua|2026-03-17 > 10 42 Ato Adm - Fornecedor Imunizario - Orçamento Limpeza Caixa DÁgua]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) registro de orçamento (2) alimentar base de fornecedores (3) [[Q260317_1005 Orçamento Limpeza Caixa DAgua]]
+- **Registra-se:**
+- **QUE** [[Síndica]] recebe orçamento para execução de tarefa [[Limpeza Caixa-D'Água]]
+- **QUE** Síndica também solicita registro de fornecedor [[IMUNIZARIO Dedetização e Limpeza de Reservatório LTDA]]
+- **QUE** orçamento fica registrado em [[DOC260317 Orçamento IMUNIZARIO LTDA Limpeza Caixa D Agua]]
+- ---
+- [16:32, 17/03/2026] Ana: Registrar novo fornecedor Imunizario e orçamento para limpeza de reservatórios
+- **Ref.:** [[ato administrativo]], [[registro orçamento]]
+- https://drive.google.com/file/d/1uiwwiRhsptzQUcGxQsepeHbiTsldSC_E/view
+- <iframe src="https://drive.google.com/file/d/1uiwwiRhsptzQUcGxQsepeHbiTsldSC_E/preview" width="640" height="480"></iframe>
+- ... cujo orçamento na íntegra encontra-se no link abaixo...
+- https://drive.google.com/file/d/13A00PaVAgcDR9iTrpEQa9qdcqsB1GuTj/view
+- <iframe src="https://drive.google.com/file/d/13A00PaVAgcDR9iTrpEQa9qdcqsB1GuTj/preview" width="640" height="480"></iframe>
+
+- [[2026-03-17.md#10 16 Ato Adm - Fornecedor Limper - Orçamento Limpeza Caixa DÁgua|2026-03-17 > 10 16 Ato Adm - Fornecedor Limper - Orçamento Limpeza Caixa DÁgua]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) registro de orçamento (2) alimentar base de fornecedores (3) [[Q260317_1005 Orçamento Limpeza Caixa DAgua]]
+- **Registra-se:**
+- **QUE** [[Síndica]] recebe orçamento para execução de tarefa [[Limpeza Caixa-D'Água]]
+- **QUE** Síndica também solicita registro de fornecedor [[Limper - Limpeza e Higienização LTDA]]
+- **QUE** orçamento fica registrado em [[DOC260317 Orçamento Limper LTDA Limpeza Caixa D Agua]]
+- ---
+- [15:44, 17/03/2026] Ana: Registrar novo fornecedor Limper e orçamento para limpeza de reservatórios. Segue
+- **Ref.:** [[ato administrativo]], [[registro orçamento]], [[registro fornecedor]]
+- https://drive.google.com/file/d/1WL_g01HH9VrZaGptp-rvkhhvRZzGdtO1/view
+- <iframe src="https://drive.google.com/file/d/1WL_g01HH9VrZaGptp-rvkhhvRZzGdtO1/preview" width="640" height="480"></iframe>
+- ... ao que proposta na íntegra segue abaixo...
+- https://drive.google.com/file/d/1kj_RCGtLxwr1tc_CUu80swZ8Lo6wz9GQ/view
+- <iframe src="https://drive.google.com/file/d/1kj_RCGtLxwr1tc_CUu80swZ8Lo6wz9GQ/preview" width="640" height="480"></iframe>
+
+- [[2026-03-17.md#10 05 Questão - Heleri - Solicitação Orçamentos Limpeza Caixa DÁgua|2026-03-17 > 10 05 Questão - Heleri - Solicitação Orçamentos Limpeza Caixa DÁgua]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260317_1005 Orçamento Limpeza Caixa DAgua]]
+- **Descrição:**
+- **QUE** (1) que por motivo de manutenção periódica e legislação própria, faz-se necessário planejar limpeza da [[Caixa DAgua]]
+- **Onde:** [[Caixa DAgua]]
+- **Por quê:** (1) manutenção periódica conforme previsto pela tarefa [[Limpeza Caixa-D'Água]]
+- ---
+- **Ref.:** [[registro questão]]
+
 - [[2026-03-16.md#10 27 Questão - Falta de Iluminação Hall Cobertura|2026-03-16 > 10 27 Questão - Falta de Iluminação Hall Cobertura]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260316_1027 Falta de Iluminação Hall Cobertura]]
 - **Descrição:**
@@ -189,15 +295,18 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Motivação:** (1) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
 - **Registra-se:**
 - **QUE** [[Síndica]] recebe retorno ao pedido de orçamento feito à [[TBRio Elevadores]]
-- [11:45, 05/03/2026] Ana: Registrar Orçamentos TBRio elevadores: manutenção mensal ==**com peças :R$550,00**== , **==manutenção mensal sem peças : R$270,00==**, a empresa só envia orçamento para instalação de contrapesos no caso de assinatura de contrato de manutenção mensal
-- **QUE** **proposta de manutenção** ==**SEM** PEÇAS inclusas== está registrada sob documento [[260305_Proposta_TBRio_Elevadores_Manutenção_SEM_PEÇAS]]
-- **QUE** **proposta de manutenção** ==**COM** PEÇAS inclusas==  está registrada sob documento [[260305_Proposta_TBRio_Elevadores_Manutenção_COM_PEÇAS]]
+- [11:45, 05/03/2026] Ana: Registrar Orçamentos TBRio elevadores: manutenção mensal ==com peças : BRL 550,00== , ==manutenção mensal sem peças : BRL 270,00==, a empresa só envia orçamento para instalação de contrapesos no caso de assinatura de contrato de manutenção mensal
+- **QUE** **proposta de manutenção** **SEM PEÇAS inclusas** está registrada sob documento [[260305_Proposta_TBRio_Elevadores_Manutenção_SEM_PEÇAS]]
+- ... e ainda ...
+- **QUE** **proposta de manutenção** **COM PEÇAS inclusas**  está registrada sob documento [[260305_Proposta_TBRio_Elevadores_Manutenção_COM_PEÇAS]]
 - ---
 - **Ref.:** [[ato administrativo]], [[registro orçamento]]
 - https://drive.google.com/file/d/1_zPsRLqThWvDtRpNCkUON0HOrZQxt9E_/view
 - <iframe src="https://drive.google.com/file/d/1_zPsRLqThWvDtRpNCkUON0HOrZQxt9E_/preview" width="640" height="480"></iframe>
 - ...
-- ==**Serviços de taragem** DEPENDE DO ACEITE DO SERVIÇO DE MANUTENÇÃO==
+- **Não emitiu proposta para serviço de taragem.**
+-
+- ==Serviços de taragem DEPENDE DO ACEITE DO SERVIÇO DE MANUTENÇÃO==
 - ...
 - https://drive.google.com/file/d/1p6KJwWGo6sLEwCJylChJEaL5TOF8LUVa/view
 - <iframe src="https://drive.google.com/file/d/1p6KJwWGo6sLEwCJylChJEaL5TOF8LUVa/preview" width="640" height="480"></iframe>
@@ -254,11 +363,11 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **QUE** [[Síndica]] realiza presente pedido de orçamento seguindo estratégia de negociação sugerida na [[AGE - Fevereiro 2026]]
 - **QUE** proposta acerca da taragem está registrado em [[260224_Proposta_ELBO_Elevadores_Serviço_Taragem_17674_2026]]
 - **QUE** as condições de pagamento ofertadas foram
-- ... "_O pagamento do valor total será feito em ==05 (quatro) prestações iguais==, mensais e consecutivas no valor de **==R$ 980,00** (novecentos e oitenta reais)==_" **totalizando**  ==R$ 4.900==
+- ... "_O pagamento do valor total será feito em ==05 (quatro) prestações iguais==, mensais e consecutivas no valor de **==BRL 980,00** (novecentos e oitenta reais)==_" **totalizando**  ==BRL 4.900==
 - ....
-- **QUE** proposta acerca do ==contrato de manutenção, a taxa de R$ 210 mensais,== está registrado em  [[260224_Proposta_Assistência_Técnica_ELBO_Elevadores_2022_Conservação]]
+- **QUE** proposta acerca do ==contrato de manutenção, a taxa de BRL 210 mensais,== está registrado em  [[260224_Proposta_Assistência_Técnica_ELBO_Elevadores_2022_Conservação]]
 - ---
-- [09:47, 05/03/2026] Ana: Registro de propostas do fornecedor Elbo : Serviço de **manutenção de elevador** - ==valor mensal :  R$ 210,00==  e orçamento de **instalação de pesos**: ==R$ 4.900,00==
+- [09:47, 05/03/2026] Ana: Registro de propostas do fornecedor Elbo : Serviço de **manutenção de elevador** - ==valor mensal :  BRL 210,00==  e orçamento de **instalação de pesos**: ==BRL 4.900,00==
 - **Ref.:** [[ato administrativo]], [[registro orçamento]]
 - **Serviço Manutenção:**
 - https://drive.google.com/file/d/1ai42o-_Upv0JwZpkMy3hQguPVT9ICCCk/view
@@ -386,7 +495,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **QUE** providência de estudo é dada no instante em que, na análise das contas [[Síndica]] identifica potencial insuficiência
 - **Por quê:** **QUE** na análise de balancete de fevereiro/2026 Síndica identifica alerta entre balanço de custos e receitas lançadas
 - ---
-- **Ref.:** [[registro questão]]
+- **Ref.:** [[registro questão]], [[registro análise]]
 
 - [[2026-02-24.md#14 34 Ato Adm - Cotação - Serviço Contrapeso elevador - Elbo Elevadores|2026-02-24 > 14 34 Ato Adm - Cotação - Serviço Contrapeso elevador - Elbo Elevadores]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
@@ -874,7 +983,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - [[2026-02-08.md#19 30 Reunião - AGE Fevereiro 2026|2026-02-08 > 19 30 Reunião - AGE Fevereiro 2026]]: 
     - Em [[Gestão Condominial do Heleri]], registra-se reunião [[AGE - Fevereiro 2026]]
 - **Participantes:** (1) [[Marcelo 101]] (2) [[Glaucia 102]] (3) [[José Wagner 201]] (4) [[Carla 301]] (5) [[Jo 401]] (6) [[Leonardo 402]] (7) [[Lucia Cob 01]]
-- **Pauta:** conforme convocação e conforme disposto na apresentação [[2602_Apresentacao_AGE_FEV_2026_v2]]
+- **Pauta:** conforme convocação e conforme disposto na apresentação [[DOC2602_Apresentacao_AGE_Fev_2026_Pauta_4_Assuntos]]
 - **Questões registradas:**
 - (1) [[Q260125_1712 Ampliação Vagas Para Veículos]]
 - (2) [[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]
@@ -890,13 +999,13 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
     - [[registro lembrete]] para **próximos passos**: No âmbito do(a) [[AGE - Fevereiro 2026]]
     - Aguardar retorno do [[Marcelo 101]] de orçamento do sistemas de câmeras em alternativa ao proposto ([[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]])
-    - Cadastrar questões conforme exposto em [[2602_Apresentacao_AGE_FEV_2026_v2]]  **na seção (c)** - dos itens de manutenção ordinárias mapeados
+    - Cadastrar questões conforme exposto em [[DOC2602_Apresentacao_AGE_Fev_2026_Pauta_4_Assuntos]]  **na seção (c)** - dos itens de manutenção ordinárias mapeados
 
 - [[2026-02-08.md#15 24 Ato Adm - Gerando Arquivo Apresentação da Pauta|2026-02-08 > 15 24 Ato Adm - Gerando Arquivo Apresentação da Pauta]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** [[AGE - Fevereiro 2026]]
 - **Registra-se:**
-- **QUE** [[Síndica]] produz arquivo [[2602_Apresentacao_AGE_FEV_2026_v2]] referente pauta da AGE
+- **QUE** [[Síndica]] produz arquivo [[DOC2602_Apresentacao_AGE_Fev_2026_Pauta_4_Assuntos]] referente pauta da AGE
 - **QUE** publica em: https://drive.google.com/drive/u/2/folders/1XcSr7U4v5i-w2guVehjPMMLZ6_YnsQho
 - ---
 - **Ref.:** [[ato administrativo]]

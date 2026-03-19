@@ -171,6 +171,8 @@ Telefone e Whatsapp por meio de jurisprudências, são meios aceitos para materi
 [[locais/instalacoes/Botão Portão-Externo]]
 [[locais/instalacoes/Botão Portão-Interno]]
 [[locais/instalacoes/Elevador]]
+[[locais/instalacoes/Caixa DAgua]]
+[[locais/instalacoes/Cisterna Garagem]]
 [[locais/instalacoes/Espelho Elevador]]
 [[locais/instalacoes/Interfone Elevador]]
 [[locais/instalacoes/Sistema de Calhas Pluviais Bloco 1]]
@@ -312,6 +314,8 @@ Considerações
 [[tarefas/Rega das Plantas]]
 [[tarefas/Remoção do Lixo]]
 [[tarefas/Limpeza das Calhas]]
+[[tarefas/Limpeza Caixa-D'Água]]
+
 
 [[tarefas/Limpeza das Calhas]]
 [[tarefas/Remoção Lixo]]

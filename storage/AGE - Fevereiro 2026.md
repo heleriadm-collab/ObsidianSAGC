@@ -7,6 +7,8 @@ created: 2026-01-31T15:25
 
 # Pauta
 
+
+
 (a) Ampliação Vagas Para Veículos No Hall Portaria: Deliberar sobre uso área comum para criação de novas vagas para estacionamento de veículo  
 
 
@@ -16,11 +18,14 @@ created: 2026-01-31T15:25
 (c) Criação Fundo Manutenção: Deliberar sobre necessidade fundo manutenção frente levantamentos de questões de infraestrutura e segurança  
   
 (d) Travamento Elevador Dentro Do Limite de Peso: Apresentação e deliberação sobre orçamento emitido pela SOS Elevadores
+
+Arquivo apresentação: [[DOC2602_Apresentacao_AGE_Fev_2026_Pauta_4_Assuntos]]
 ## Documentos de Suporte
 
 
 ### Apresentação
 
+[[DOC2602_Apresentacao_AGE_Fev_2026_Pauta_4_Assuntos]]
 https://drive.google.com/file/d/14FHUhL-6Pr-dA1Y70GHk3OzdR-ElWjW2/view?usp=sharing
 
 <iframe src="https://drive.google.com/file/d/14FHUhL-6Pr-dA1Y70GHk3OzdR-ElWjW2/preview" width="640" height="480"></iframe>
@@ -77,6 +82,8 @@ Condomínio Heleri - 0745
 (6) [[Leonardo 402]]
 (7) [[Lucia Cob 01]]
 # Ata
+
+Documento final, encaminhado à [[Administradora Apolo]]: [[ATA260208_AGE_Fev_2026]]
 
 Síndica dá abertura às 19:39 e dispõe sobre estudo de retirada dos jardins para providência das vagas.
 É informado que as vagas não conseguem ser utilizada pelos carros de dimensões maiores.
@@ -200,7 +207,7 @@ Abre-se votação item (d) às 21:55 e dispõe sobre resolver o problema do elev
 
 # Documentos Consolidados
 
-
+[[ATA260208_AGE_Fev_2026]]
 # metadado
 
 [year:: 2026] | [month:: 01] | [day:: 31] | [dayWeek:: Saturday] | [dayWeekShort:: Sat] | [monthYear:: Jan] | [weekNumber:: 05] | [quarter:: 1] | [dayOfYear:: 031] | [weekNumber2:: 05-] | [month2:: 01-] | [day2:: 31-]
