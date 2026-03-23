@@ -69,6 +69,15 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
+- [[2026-03-23.md#11 05 Ato Adm - Gestão Heleri - OQ|2026-03-23 > 11 05 Ato Adm - Gestão Heleri - OQ]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
+- **Registra-se:**
+- De QEM, na atribuição de POSIÇÃO
+- QUE
+- ---
+- **Ref.:** [[ato administrativo]]
+
 - [[2026-03-18.md#13 17 Fato Adm - Recebimento Ofício CREA - Denúncia nº 202680002797|2026-03-18 > 13 17 Fato Adm - Recebimento Ofício CREA - Denúncia nº 202680002797]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
 - **Motivação:** (1) [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]]
@@ -292,13 +301,13 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 - [[2026-03-05.md#18 41 Ato Adm - Orçamento Empresa Elevadores - TBRio|2026-03-05 > 18 41 Ato Adm - Orçamento Empresa Elevadores - TBRio]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** (1) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+- **Motivação:** (1) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 - **Registra-se:**
 - **QUE** [[Síndica]] recebe retorno ao pedido de orçamento feito à [[TBRio Elevadores]]
 - [11:45, 05/03/2026] Ana: Registrar Orçamentos TBRio elevadores: manutenção mensal ==com peças : BRL 550,00== , ==manutenção mensal sem peças : BRL 270,00==, a empresa só envia orçamento para instalação de contrapesos no caso de assinatura de contrato de manutenção mensal
-- **QUE** **proposta de manutenção** **SEM PEÇAS inclusas** está registrada sob documento [[260305_Proposta_TBRio_Elevadores_Manutenção_SEM_PEÇAS]]
+- **QUE** **proposta de manutenção** **SEM PEÇAS inclusas** está registrada sob documento [[DOC260305 Orçamento TBRio Elevadores Manutenção SEM PEÇAS]]
 - ... e ainda ...
-- **QUE** **proposta de manutenção** **COM PEÇAS inclusas**  está registrada sob documento [[260305_Proposta_TBRio_Elevadores_Manutenção_COM_PEÇAS]]
+- **QUE** **proposta de manutenção** **COM PEÇAS inclusas**  está registrada sob documento [[DOC260305 Orçamento TBRio Elevadores Manutenção COM peças]]
 - ---
 - **Ref.:** [[ato administrativo]], [[registro orçamento]]
 - https://drive.google.com/file/d/1_zPsRLqThWvDtRpNCkUON0HOrZQxt9E_/view
@@ -357,11 +366,11 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 - [[2026-03-05.md#17 52 Ato Adm - Gestão Heleri - Orçamento Elbo Elevadores|2026-03-05 > 17 52 Ato Adm - Gestão Heleri - Orçamento Elbo Elevadores]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** (1) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+- **Motivação:** (1) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 - **Registra-se:**
 - **QUE** recebemos da [[Elbo - Elevadores LTDA]], orçamento referente a (1) Serviço de manutenção de elevador (2) Instalação dos pesos, ==considerando fechamento de serviço manutenção mensal ser transferido à Elbo==
 - **QUE** [[Síndica]] realiza presente pedido de orçamento seguindo estratégia de negociação sugerida na [[AGE - Fevereiro 2026]]
-- **QUE** proposta acerca da taragem está registrado em [[260224_Proposta_ELBO_Elevadores_Serviço_Taragem_17674_2026]]
+- **QUE** proposta acerca da taragem está registrado em [[DOC260224 Proposta ELBO Elevadores Serviço Taragem 17674_2026]]
 - **QUE** as condições de pagamento ofertadas foram
 - ... "_O pagamento do valor total será feito em ==05 (quatro) prestações iguais==, mensais e consecutivas no valor de **==BRL 980,00** (novecentos e oitenta reais)==_" **totalizando**  ==BRL 4.900==
 - ....
@@ -499,13 +508,13 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 - [[2026-02-24.md#14 34 Ato Adm - Cotação - Serviço Contrapeso elevador - Elbo Elevadores|2026-02-24 > 14 34 Ato Adm - Cotação - Serviço Contrapeso elevador - Elbo Elevadores]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** (1) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]] (2) Conforme alinhado na [[AGE - Fevereiro 2026]]
+- **Motivação:** (1) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]] (2) Conforme alinhado na [[AGE - Fevereiro 2026]]
 - **Registra-se:**
 - **QUE** [[Síndica]] procede com pedido de cotação para instalação de contrapesos (serviço de taragem)
 - **QUE** ainda solicita-se proposta para contrato de assistência técnica e prontidão
 - **QUE** solicita à [[Elbo - Elevadores LTDA]]
 - ... documenta-se proposta de assistência técnica em [[260224_Proposta_Assistência_Técnica_ELBO_Elevadores_2022_Conservação]]
-- ... documenta-se proposta para serviço de taragem em [[260224_Proposta_ELBO_Elevadores_Serviço_Taragem_17674_2026]]
+- ... documenta-se proposta para serviço de taragem em [[DOC260224 Proposta ELBO Elevadores Serviço Taragem 17674_2026]]
 - ---
 - **Ref.:** [[ato administrativo]], [[Sistema de Elevador]], [[registro cotação]]
 - https://drive.google.com/file/d/1ai42o-_Upv0JwZpkMy3hQguPVT9ICCCk/view
@@ -988,7 +997,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - (1) [[Q260125_1712 Ampliação Vagas Para Veículos]]
 - (2) [[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]
 - (3) [[Q260129_0914 Fundo de manutenção]]
-- (4) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+- (4) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 - **Ata:**
 - **QUE** [[Síndica]] dá abertura às 19:39
 - **QUE** reunião transcorre conforme ata [[ATA260208_AGE_Fev_2026]]
@@ -1184,7 +1193,9 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - [21:02, 01/02/2026] Ana: Análise parcial de câmeras wi-fi
 - [21:02, 01/02/2026] Ana: instalação de 4 câmeras wi-fi (camera sem cartão de memória)
 - ---
-- **Ref.:** [[ato administrativo]], [[registro planejamento]],
+- **Ref.:** [[ato administrativo]], [[registro planejamento]], [[registro levantamento]]
+- https://www.mercadolivre.com.br/up/MLBU781814895?pdp_filters=item_id:MLB4887048264
+- <iframe src="https://www.mercadolivre.com.br/up/MLBU781814895?pdp_filters=item_id:MLB4887048264#origin=share&sid=share&wid=MLB4887048264&action=whatsapp" width="640" height="480"></iframe>
 
 - [[2026-02-02.md#16 13 Ato Adm - Visita Levantamento 401|2026-02-02 > 16 13 Ato Adm - Visita Levantamento 401]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
@@ -1314,7 +1325,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 - [[2026-01-31.md#14 46 Fato Adm - Travamento Elevador|2026-01-31 > 14 46 Fato Adm - Travamento Elevador]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
-- **Motivação:** ocorrências relacionadas a [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+- **Motivação:** ocorrências relacionadas a [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 - **Registra-se:**
 - **QUE** elevador travou com 3 integrantes ([[Renato 302]], visita e [[Leonardo 402]])
 - ---
@@ -1448,32 +1459,29 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - ---
 - **Ref.:** [[ato administrativo]], [[registro fornecedor]], [[registro levantamento]], [[gestão financeira]],
 
-- [[2026-01-29.md#13 51 Ato Adm - Gestão Heleri - OQ|2026-01-29 > 13 51 Ato Adm - Gestão Heleri - OQ]]: 
+- [[2026-01-29.md#13 51 Ato Adm - Levantamento Se Cabe Custo de Registro Ata em Cartório - AGE Jan 2026|2026-01-29 > 13 51 Ato Adm - Levantamento Se Cabe Custo de Registro Ata em Cartório - AGE Jan 2026]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** divulgação da ata [[AGE - Janeiro 2026]]
 - **Registra-se:**
-- QUE sobre dúvidas no processo administrativo Conselheira [[Lucia Cob 01]] informa que "_ata de assembleia **extraordinária**, tal como [[AGE - Janeiro 2026]], não precisa de registro, e custas, no cartório_"
+- **QUE** sobre dúvidas no processo administrativo Conselheira [[Lucia Cob 01]] informa que "_ata de assembleia **extraordinária**, tal como [[AGE - Janeiro 2026]], não precisa de registro, e custas, no cartório_"
 - ---
 - **Ref.:** [[ato administrativo]], [[registro levantamento]]
 
-- [[2026-01-29.md#09 08 Ato Adm - Gestão Heleri -|2026-01-29 > 09 08 Ato Adm - Gestão Heleri -]]: 
+- [[2026-01-29.md#09 08 Ato Adm - Sobre Necessidade - Ampliação Vagas Para Veículos|2026-01-29 > 09 08 Ato Adm - Sobre Necessidade - Ampliação Vagas Para Veículos]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** (1) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]] (2) [[Q260125_1712 Ampliação Vagas Para Veículos]] (3) [[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]] (4) [[Q260129_0914 Fundo de manutenção]]
+- **Motivação:**
+- (1) [[Q260125_1712 Ampliação Vagas Para Veículos]]
 - **Registra-se:**
 - **QUE** diante de episódio de carro preso na data de hoje, vizinhos [[Carla 301]] e [[Sandro 301]] frisaram que novas vagas são urgente
-- **QUE**
 - ---
 - **Ref.:** [[ato administrativo]], [[registro planejamento]], [[registro atendimento]]
 
-- [[2026-01-29.md#09 01 Questão - Heleri - OQ|2026-01-29 > 09 01 Questão - Heleri - OQ]]: 
+- [[2026-01-29.md#09 01 Questão - Fundo de Manutenção|2026-01-29 > 09 01 Questão - Fundo de Manutenção]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260129_0914 Fundo de manutenção]]
 - **Descrição:**
 - **QUE** diante das apurações de "_necessidades por fazer na infraestrutura do condomínio_", foi dado início de estudo orçamentário
 - **QUE** em conversa com condômina Sra [[Glaucia 102]], é possível criar "fundo de manutenção"
-- **Quem:**
-- **Quando:**
-- **Onde:**
-- **Por quê:**
+- **Por quê:** (1) diante das apurações, conforme relacionadas na [[Visão das Questões]], acerca das "_necessidades por fazer na infraestrutura do condomínio_", foi dado início de estudo orçamentário que viabilizasse execução dos itens
 - ---
 - **Ref.:** [[registro questão]]
 
@@ -1694,6 +1702,20 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Por quê:** Necessidade formal declaratória de nova gestão
 - ---
 - **Ref.:** [[registro questão]]
+
+- [[2026-01-22.md#11 08 Ato Adm - Recebimento Proposta SOS Elevadores|2026-01-22 > 11 08 Ato Adm - Recebimento Proposta SOS Elevadores]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
+- **Registra-se:**
+- **QUE** [[SOS Elevadores]] entrega proposta para reparo da questão de taragem do elevador
+- **QUE** proposta de **instalação de apenas 1 (um) peso** fica registrada em [[DOC260122 Orçamento SOS Elevadores Taragem 1 Peso]]
+- **QUE** SOS informa que pagamento na hipótese de 1 (um) seria sinal de 50% (R$ 300) + conclusão 5 dias (R$ 300), totalizando R$ 600
+- ---
+- **QUE** SOS informa que, "_na hipótese de instalação de segundo peso, a forma de pagamento seria 4x R$ 300,00 (em total de R$ 1.200 de custo)_"
+- ---
+- **Ref.:** [[ato administrativo]], [[registro orçamento]], [[Sistema de Elevador]], [[Elevador]]
+- https://drive.google.com/file/d/1f0u7xQhnAAMC5Qhtg-nEfBQ-KfrKW54o/view
+- <iframe src="https://drive.google.com/file/d/1f0u7xQhnAAMC5Qhtg-nEfBQ-KfrKW54o/preview" width="640" height="480"></iframe>
 
 - [[2026-01-22.md#09 39 Ato Adm - Análise Extensão Danos e Imperícias MV3 - Caso Telhas Soltas|2026-01-22 > 09 39 Ato Adm - Análise Extensão Danos e Imperícias MV3 - Caso Telhas Soltas]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
@@ -1918,7 +1940,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 - [[2026-01-15.md#18 20 Fato Adm - SOS Elevadores Realiza Visita e Orientações|2026-01-15 > 18 20 Fato Adm - SOS Elevadores Realiza Visita e Orientações]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
-- **Motivação:** conforme [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+- **Motivação:** conforme [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 - **Registra-se:**
 - **QUE** [[SOS Elevadores]] realiza visita ao Heleri
 - **QUE** [[Síndica]] faz recepção e comunica em [[Grupo Whatsapp Condomínio Heleri]]
@@ -1938,7 +1960,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - ---
 - **Ref.:** [[fato administrativo]], [[registro questão]], [[gestão risco]], [[gestão pessoal]], [[registro comunicado]]
 
-    - [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]], verificar retorno/posição da [[SOS Elevadores]] sobre "_elevador parar quando mesmo abaixo da carga de peso permitida_" ([20:05, 15/01/2026] Ana: Vizinhos, boa noite! Gostaria de avisar que a SOS Elevadores vai gerar um **documento explicando as causas para as paradas do elevador** e o que precisamos fazer para resolver o problema. Assim que o documento chegar eu dou publicidade a todos.)
+    - [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]], verificar retorno/posição da [[SOS Elevadores]] sobre "_elevador parar quando mesmo abaixo da carga de peso permitida_" ([20:05, 15/01/2026] Ana: Vizinhos, boa noite! Gostaria de avisar que a SOS Elevadores vai gerar um **documento explicando as causas para as paradas do elevador** e o que precisamos fazer para resolver o problema. Assim que o documento chegar eu dou publicidade a todos.)
 
     - [[registro lembrete]] em 01 2026. No âmbito do(a) [[Q260115_1828 Reforço Publicidade Contato SOS Elevadores e Instrução Funcionário]] => **QUE** [[Síndica]] deverá reforçar a publicidade e conhecimento de todos, **sobre contato de emergência** da [[SOS Elevadores]]
     - verificar teste de pronto atendimento da [[SOS Elevadores]]
@@ -2202,7 +2224,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Ref.:** [[ato administrativo]], [[execução de rotina]], [[Jardim da Entrada]], [[Rega das Plantas]]
 
 - [[2026-01-12.md#16 54 Questão - Visita SOS Elevadores Que Trava Abaixo do Peso Especificado|2026-01-12 > 16 54 Questão - Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]: 
-    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+    - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 - **Descrição:**
 - **QUE** [[Síndica]] entra em contato com fornecedor [[SOS Elevadores]] e informa problema de que "_o elevador trava com pesos abaixo do limite discriminado_"
 - **QUE** [[SOS Elevadores]] agenda visita para quarta-feira dia 15/01/2026
