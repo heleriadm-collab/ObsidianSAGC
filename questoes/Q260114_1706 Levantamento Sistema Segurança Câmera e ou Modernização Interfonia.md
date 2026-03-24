@@ -142,7 +142,7 @@ gerado em 2026-03-19
 - (1) [[Q260125_1712 Ampliação Vagas Para Veículos]]
 - (2) [[Q260114_1706 Levantamento Sistema Segurança Câmera e ou Modernização Interfonia]]
 - (3) [[Q260129_0914 Fundo de manutenção]]
-- (4) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+- (4) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 - **Ata:**
 - **QUE** [[Síndica]] dá abertura às 19:39
 - **QUE** reunião transcorre conforme ata [[ATA260208_AGE_Fev_2026]]

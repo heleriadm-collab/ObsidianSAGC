@@ -7,10 +7,13 @@ created: {{date:YYYY-MM-DD[T]HH:mm}}
 
 #documento 
 
+
+<!-- 
 ```
 REM == RETIRA-SE O MD5 PARA INTEGRIDADE ==
 certutil -hashfile "20250717.pdf" md5
 ```
+-->
 
 - **Descrição:** 
 		- **Arquivo:** 

@@ -7,16 +7,16 @@ created: 2026-02-26T19:31
 
 #documento 
 
-- **Descrição:** proposta de assistência técnica para análise e negociação, e conforme decidido na [[AGE - Fevereiro 2026]], em detrimento dos problemas de "taragem" conforme registrado na questão [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]. Análise de preços de mercado de assistência técnica de elevadores.
+- **Descrição:** proposta de assistência técnica para análise e negociação, e conforme decidido na [[AGE - Fevereiro 2026]], em detrimento dos problemas de "taragem" conforme registrado na questão [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]. Análise de preços de mercado de assistência técnica de elevadores.
 		- **Arquivo:** ` 260224_Proposta_Assistência_Técnica_ELBO_Elevadores_2022_Conservação.pdf `
 
 - **Objetivo:** (1) levantamento de preços de mercado/cotação (2) verificar potencial de negociação para serviço de "taragem"
 
-- **Motivação:** (1) conforme decidido [[AGE - Fevereiro 2026]] (2) e no âmbito do [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+- **Motivação:** (1) conforme decidido [[AGE - Fevereiro 2026]] (2) e no âmbito do [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 
 - **Autor:** [[Elbo - Elevadores LTDA]]
 
-- **Compõe:** [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+- **Compõe:** [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 
 - **Composto por:** 
 

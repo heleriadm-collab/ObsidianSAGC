@@ -8,16 +8,16 @@ created: 2026-02-26T19:35
 #documento 
 
 
-- **Descrição:** arquivo proposta da [[Elbo - Elevadores LTDA]] para serviço de taragem do [[Sistema de Elevador]], e resolução de problemas conforme registrado na questão  [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]] 
+- **Descrição:** arquivo proposta da [[Elbo - Elevadores LTDA]] para serviço de taragem do [[Sistema de Elevador]], e resolução de problemas conforme registrado na questão  [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]] 
 		- **Arquivo:** ` 260224_Proposta_ELBO_Elevadores_Serviço_Taragem_17674_2026.pdf `
 
 - **Objetivo:** 
 
-- **Motivação:** (1) [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]] (2) e conforme decisão [[AGE - Fevereiro 2026]]
+- **Motivação:** (1) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]] (2) e conforme decisão [[AGE - Fevereiro 2026]]
 
 - **Autor:** [[Elbo - Elevadores LTDA]]
 
-- **Compõe:** [[Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado]]
+- **Compõe:** [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 
 - **Composto por:** 
 

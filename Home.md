@@ -32,7 +32,8 @@
 | semana 09/2026 |                                  | [[diario/2026-02-24.md\|24 FEV]] | [[diario/2026-02-25.md\|25 FEV]] |                                  |                                  |                                  |                                  |
 | semana 10/2026 | [[diario/2026-03-02.md\|02 MAR]] | [[diario/2026-03-03.md\|03 MAR]] | [[diario/2026-03-04.md\|04 MAR]] | [[diario/2026-03-05.md\|05 MAR]] | [[diario/2026-03-06.md\|06 MAR]] |                                  |                                  |
 | semana 11/2026 | [[diario/2026-03-09.md\|09 MAR]] | [[diario/2026-03-10.md\|10 MAR]] | [[diario/2026-03-11.md\|11 MAR]] |                                  |                                  | [[diario/2026-03-13.md\|13 MAR]] |                                  |
-| semana 12/2026 | [[diario/2026-03-16.md\|16 MAR]] | [[diario/2026-03-17.md\|17 MAR]] | [[diario/2026-03-18.md\|18 MAR]] |                                  |                                  |                                  |                                  |
+| semana 12/2026 | [[diario/2026-03-16.md\|16 MAR]] | [[diario/2026-03-17.md\|17 MAR]] | [[diario/2026-03-18.md\|18 MAR]] |                                  | [[diario/2026-03-20.md\|20 MAR]] |                                  |                                  |
+| semana 13/2026 | [[diario/2026-03-23.md\|23 MAR]] |                                  |                                  |                                  |                                  |                                  |                                  |
 
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
@@ -129,7 +130,7 @@ As **questões** surgem à partir de registros diários de **situações pendent
 **Se** você **puder ajudar** na resolução de alguma questão registrada, **TODA E QUALQUER AJUDA SERÁ BEM VINDA!**
 
 
-## COMO PODEM OCORRER "==AS AJUDAS=="?
+## COMO PODEM OCORRER "AS AJUDAS"?
 
 As colaborações com as questões em aberto, ou mesmo questões ainda não registradas, ==podem ser feitas na forma== OU de **[[registro doação]]** OU de **[[registro pro-bono]]**
 
