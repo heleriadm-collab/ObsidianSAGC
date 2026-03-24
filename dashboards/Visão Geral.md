@@ -69,93 +69,14 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
-- [[2026-03-23.md#13 56 Ato Adm - Solicitação Serviço Coleta Entulho|2026-03-23 > 13 56 Ato Adm - Solicitação Serviço Coleta Entulho]]: 
+- [[2026-03-23.md#11 05 Ato Adm - Gestão Heleri - OQ|2026-03-23 > 11 05 Ato Adm - Gestão Heleri - OQ]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** (1) coleta de entulho
+- **Motivação:** (1) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
 - **Registra-se:**
-- **QUE** [[Síndica]], solicita coleta de entulho via [[1746 - Central Atendimento Prefeitura Rio]], e dirigido a [[COMLURB]]
-- **QUE** ==houve impedimento== em realizar a solicitação ==devido protocolo EM ABERTO== , código **RIO-31946611-6** de 22/01/2026 às 17:46:14
+- De QEM, na atribuição de POSIÇÃO
+- QUE
 - ---
 - **Ref.:** [[ato administrativo]]
-- https://drive.google.com/file/d/1-mALm0OJd7kD8gR65LaBAe6V8F8hqJmq/view
-- <iframe src="https://drive.google.com/file/d/1-mALm0OJd7kD8gR65LaBAe6V8F8hqJmq/preview" width="640" height="480"></iframe>
-- https://drive.google.com/file/d/1flUHzy9INXhXeTbpaDvvKSA2Z141gfCF/view
-- <iframe src="https://drive.google.com/file/d/1flUHzy9INXhXeTbpaDvvKSA2Z141gfCF/preview" width="640" height="480"></iframe>
-
-- [[2026-03-20.md#14 36 Fornecedor - Inset Max - Limpeza Reservatório Impermeabilização Dedetização|2026-03-20 > 14 36 Fornecedor - Inset Max - Limpeza Reservatório Impermeabilização Dedetização]]: 
-    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
-- **Motivação:** (1) alimentar base de fornecedores (2) [[Q260317_1005 Orçamento Limpeza Caixa DAgua]]
-- **Registra-se:**
-- fornecedor [[Inset Max - Limpeza Reservatório e Dedetização]]
-- **QUE** informa valor do serviço [[Limpeza Caixa-D'Água]] em ` R$ 980,00 ` em condições de pagamento ` 02x R$ 490 `
-- **QUE** registra-se proposta em [[DOC260320 Orçamento Inset Max Limpeza_Reservatorio Ao Heleri]]
-- ---
-- **Ref.:** [[ato administrativo]], [[registro fornecedor]], [[Caixa DAgua]], [[registro orçamento]]
-- [12:29, 20/03/2026] Ana: CADASTRAR FORNECEDOR E PROPOSTA
-- [12:33, 20/03/2026] Ana: O valor do serviço com esse fornecedor é o melhor  02x R$ 490,00 (quatrocentos e noventa reais)
-- https://drive.google.com/file/d/1J74rKAdlTtnTR0qAcdin52KawBisVn9q/view
-- <iframe src="https://drive.google.com/file/d/1J74rKAdlTtnTR0qAcdin52KawBisVn9q/preview" width="640" height="480"></iframe>
-
-- [[2026-03-20.md#14 32 Fornecedor - Lowndes - Condomínios e Imóveis|2026-03-20 > 14 32 Fornecedor - Lowndes - Condomínios e Imóveis]]: 
-    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
-- **Motivação:** (1) alimentar base de fornecedores (2) (1) [[Q260224_1453 Análise Orçamentária e Custos]]
-- **Registra-se:**
-- fornecedor [[Lowndes - Condomínios e Imóveis]]
-- **QUE** [[Síndica]] recebe tabela padrão de preços de serviços de administração
-- **QUE** documenta-se tabela em [[DOC260320 Lowndes Tabela Padrão Preços e Serviços]]
-- ---
-- **Ref.:** [[ato administrativo]], [[registro fornecedor]], [[registro orçamento]], [[registro análise]]
-- [11:01, 20/03/2026] COND. DO ED. HELERI.pdf
-- [11:01, 20/03/2026] Ana: registrar fornecedor e proposta
-- https://drive.google.com/file/d/1AeU0pp4gXrnBU6MMkqbRlL-sM7YAM7zq/view
-- <iframe src="https://drive.google.com/file/d/1AeU0pp4gXrnBU6MMkqbRlL-sM7YAM7zq/preview" width="640" height="480"></iframe>
-
-- [[2026-03-19.md#14 21 Ato Adm - Documentos Denúncia CREA 202680002797|2026-03-19 > 14 21 Ato Adm - Documentos Denúncia CREA 202680002797]]: 
-    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** (1) [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]]
-- **Registra-se:**
-- **QUE** [[Síndica]] registra íntegra contato com relator e agente fiscalização CREA, Sr [[Jose Carlos Pingitore Papa]]
-- ...
-- [10:00, 19/03/2026] Ana: REGISTRO DE CONTATO COM CREA RJ
-- [10:01, 19/03/2026] Ana: [14:18, 16/03/2026] Jose Carlos  - CREA RJ: Boa tarde , Sra Ana Tereza José Carlos Crea tudo bem em atenção solicitação a denúncia código 202680002797, ao endereço ra Silva guimarães ,24 tijuca ,precisamos o registro da empresa e art pela execução do laudo técnico  B&G James Reformas e Construções ktda cnpj 09.561.165/ 0001-07 não informado obrigado.
-- [14:19, 16/03/2026] Ana: Boa tarde! Eu vou verificar e te envio.
-- [14:20, 16/03/2026] Jose Carlos  - CREA RJ: Obrigado
-- [15:57, 16/03/2026] Jose Carlos  - CREA RJ: Favor enviar cópia do contrato com a empresa MV3 ,razão social endereço e cnpj apurar se a empresa  estar registrada também obrigado.
-- [13:53, 18/03/2026] Ana: Boa tarde , Sra Ana Tereza José Carlos Crea tudo bem em atenção solicitação a denúncia código 202680002797, ao endereço ra Silva guimarães ,24 tijuca ,precisamos o registro da empresa e art pela execução do laudo técnico  B&G James Reformas e Construções ktda cnpj 09.561.165/ 0001-07 não informado obrigado.
-- Prezado, boa tarde! Fiz a solicitação dos dados a B&G James Reformas.
-- [13:54, 18/03/2026] Ana: Favor enviar cópia do contrato com a empresa MV3 ,razão social endereço e cnpj apurar se a empresa  estar registrada também obrigado.
-- Não identificamos que a empresa MV3 tenha registro no CREA
-- [13:55, 18/03/2026] Ana: Dados: MV3 ENGENHARIA
-- Rua Pompílio da Rocha, 76 - Campo Grande RJ/RJ
-- CNPJ 36.117.641/0001-78
-- [13:55, 18/03/2026] Ana: Contrato
-- [13:59, 18/03/2026] Ana: B&G James  : Registro: 2009216201 Data Inscrição: 23/12/2009
-- [14:00, 18/03/2026] Ana: Agora só falta o ART, correto?
-- [14:02, 18/03/2026] Jose Carlos  - CREA RJ: Boa tarde art do laudo foi localizada  empresa registrada vamos notificar a empresa MV3 para regularizar no Crea  obrigado.
-- [14:02, 18/03/2026] Ana: ok, obrigada!
-- [14:03, 18/03/2026] Jose Carlos  - CREA RJ: Digo art do laudo não foi localizada ok
-- [14:04, 18/03/2026] Ana: Digo art do laudo não foi localizada ok
-- Entendi, o engenheiro está com um problema na geração do boleto e está tentando resolver com o CREA, por isso ainda lhe repassei o ART.
-- [14:05, 18/03/2026] Jose Carlos  - CREA RJ: Favor assim que receber enviar ART obrigado
-- [14:05, 18/03/2026] Ana: sim, pode deixar. Obrigada!
-- ---
-- **Ref.:** [[ato administrativo]], [[registro esclarecimento]]
-- https://drive.google.com/file/d/1FwKKsOvwtWN-b5GVlZSuZ6a8E9jE3jQ9/view
-- <iframe src="https://drive.google.com/file/d/1FwKKsOvwtWN-b5GVlZSuZ6a8E9jE3jQ9/preview" width="640" height="480"></iframe>
-
-- [[2026-03-18.md#15 01 Fornecedor - Orçamento AL Durange|2026-03-18 > 15 01 Fornecedor - Orçamento AL Durange]]: 
-    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
-- **Motivação:** (1) alimentar base de fornecedores (2) [[Q260224_1453 Análise Orçamentária e Custos]] (3) Prerrogativa
-- **Registra-se:**
-- fornecedor [[AL Durange Solução Serviços para Condomínios LTDA]]
-- Orçamento serviços terceirizados de zeladoria [[DOC260318 Orçamento Serviços Zeladoria AL Durange]]
-- **QUE** para fins de análise de risco, ==proposta está com dados incompletos da fornecedora e inconsistências nas informações==
-- ---
-- **Ref.:** [[ato administrativo]], [[registro fornecedor]], [[registro orçamento]], [[registro análise]]
-- [16:39, 18/03/2026] Ana: registrar fornecedor para serviço de administração condominial e serviço terceirizado de zelador
-- [16:39, 18/03/2026] Ana: telefone : 21 97526-9204
-- https://drive.google.com/file/d/1DUQPFYN36C7L5MMAC-X0Q4i5Q7Gh92BX/view
-- <iframe src="https://drive.google.com/file/d/1DUQPFYN36C7L5MMAC-X0Q4i5Q7Gh92BX/preview" width="640" height="480"></iframe>
 
 - [[2026-03-18.md#13 17 Fato Adm - Recebimento Ofício CREA - Denúncia nº 202680002797|2026-03-18 > 13 17 Fato Adm - Recebimento Ofício CREA - Denúncia nº 202680002797]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
@@ -1795,8 +1716,6 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Ref.:** [[ato administrativo]], [[registro orçamento]], [[Sistema de Elevador]], [[Elevador]]
 - https://drive.google.com/file/d/1f0u7xQhnAAMC5Qhtg-nEfBQ-KfrKW54o/view
 - <iframe src="https://drive.google.com/file/d/1f0u7xQhnAAMC5Qhtg-nEfBQ-KfrKW54o/preview" width="640" height="480"></iframe>
-- https://drive.google.com/file/d/1x7Elf62JD-pU5k8oePtQdFnL5QMKgzES/view
-- <iframe src="https://drive.google.com/file/d/1x7Elf62JD-pU5k8oePtQdFnL5QMKgzES/preview" width="640" height="480"></iframe>
 
 - [[2026-01-22.md#09 39 Ato Adm - Análise Extensão Danos e Imperícias MV3 - Caso Telhas Soltas|2026-01-22 > 09 39 Ato Adm - Análise Extensão Danos e Imperícias MV3 - Caso Telhas Soltas]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
