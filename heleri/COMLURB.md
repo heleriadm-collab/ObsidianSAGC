@@ -9,7 +9,7 @@ created: 2026-03-23T14:01
 		- Referências: 
 			- https://carioca.rio/servicos/remocao-de-entulho-e-bens-inserviveis
 			- https://rio.rj.gov.br/documents/91370/1017211/LEI-DE-LIMPEZA-URBANA--WEB.pdf
-			- **Arquivo:** DOC260323_LEI_3.273_6_nov_2001_Dec_21.305_19.04.2002_DE_LIMPEZA_URBANA_RIO_DE_JANEIRO.pdf
+			- **Arquivo:** ` DOC260323_LEI_3.273_6_nov_2001_Dec_21.305_19.04.2002_DE_LIMPEZA_URBANA_RIO_DE_JANEIRO.pdf ` 
 			- **Storage:** https://drive.google.com/drive/u/2/folders/1XcSr7U4v5i-w2guVehjPMMLZ6_YnsQho
 			- **Link:** https://drive.google.com/file/d/1iRarvugONIJCQWkY_OteUIuW2aKsDt-Y/view
 

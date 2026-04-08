@@ -67,16 +67,173 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 <!-- LIST rows.L.text FROM #diario_heleri  WHERE file.lists AND month = this.month AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 --> 
 
 
-<!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
-<!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 400 -->
-- [[2026-03-23.md#11 05 Ato Adm - Gestão Heleri - OQ|2026-03-23 > 11 05 Ato Adm - Gestão Heleri - OQ]]: 
+<!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
+<!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
+- [[2026-04-07.md#12 01 Ato Adm - Gestão Heleri - OQ|2026-04-07 > 12 01 Ato Adm - Gestão Heleri - OQ]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** (1) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
+- **Motivação:** (1) [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
 - **Registra-se:**
-- De QEM, na atribuição de POSIÇÃO
-- QUE
+- **QUE** [[Síndica]] solicita ajustes ao texto final do segundo documento de escopo elaborado ([[DOC2603_v02 Documento Solicitação Proposta Telhado Bloco 2]])
+- **QUE**  solicita separar as fases 100 e 200 como **levantamento por parte das proponentes** para elaboração de proposta e orçamento
+-
 - ---
 - **Ref.:** [[ato administrativo]]
+
+- [[2026-04-02.md#11 02 Ato Adm - Limpeza Cisterna e Caixa DÁgua|2026-04-02 > 11 02 Ato Adm - Limpeza Cisterna e Caixa DÁgua]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260317_1005 Orçamento Limpeza Caixa DAgua]]
+- **Registra-se:**
+- **QUE** empresa
+- ---
+- **Ref.:** [[ato administrativo]], [[Cisterna Garagem]], [[Caixa DAgua]]
+
+- [[2026-04-02.md#10 38 Ato Adm - Verificando Status Denúncia|2026-04-02 > 10 38 Ato Adm - Verificando Status Denúncia]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]]
+- **Registra-se:**
+- **QUE** [[Síndica]] realiza pesquisa da denúncia número ==202680002797==
+- **QUE** pesquisa é realizada através do https://www.crea-rj.org.br/consultapublica/
+- ... seção [serviÇos públicos - CONSULTAR PROTOCOLO](https://sistemacrearj.com.br/creaonline/SifaOnLineServicosPublicosAction.do?metodo=servicoPublicoConsultaProtocolo)
+- **QUE** no entanto, a resposta do site é "_Não foi encontrado resultado para a sua consulta._"
+- **QUE** dessa forma Síndica entra em contato com Agente de Fiscalização do CREA, Sr [[Jose Carlos Pingitore Papa]]/[[+55 21 98882-2114 Jose Carlos Pingitore CREA]], para levantar o acompanhamento da denúncia
+- ---
+- **Ref.:** [[ato administrativo]], [[registro levantamento]], [[registro solicitação]]
+- https://drive.google.com/file/d/1_08BEoIEksYZFoPRtQ1J2dszRXJYkl8f/view
+- <iframe src="https://drive.google.com/file/d/1_08BEoIEksYZFoPRtQ1J2dszRXJYkl8f/preview" width="640" height="480"></iframe>
+- https://drive.google.com/file/d/1iaRh-vWupye-BBHF8dycWGy7f04oIPnn/view
+- <iframe src="https://drive.google.com/file/d/1iaRh-vWupye-BBHF8dycWGy7f04oIPnn/preview" width="640" height="480"></iframe>
+
+- [[2026-03-28.md#17 35 Ato Adm - Revisão do Escopo Restante Telhado Bloco 2|2026-03-28 > 17 35 Ato Adm - Revisão do Escopo Restante Telhado Bloco 2]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+- **Registra-se:**
+- **QUE** [[Síndica]] solicita revisão da primeira versão da proposta redigida
+- **QUE** solicita destacar sequenciamento das atividades, e descrição dos itens
+- **QUE** essa nova versão também está lastreada no escopo descrito no laudo pericial [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
+- **QUE** nova versão do documento fica registrada em [[DOC2603_v02 Documento Solicitação Proposta Telhado Bloco 2]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro planejamento]], [[Obras Telhado BL2]], [[Telhado Bloco 2]]
+
+- [[2026-03-26.md#11 02 Ato Adm - Comunicado Ausência Zelador|2026-03-26 > 11 02 Ato Adm - Comunicado Ausência Zelador]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Registra-se:**
+- Comunicado ausência justificada do Zelador via [[Grupo Whatsapp Condomínio Heleri]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro comunicado formal]], [[gestão pessoal]], [[Rogerio Zelador]]
+
+- [[2026-03-25.md#08 30 Fato Adm - Serviço de Coleta de Entulho da Comlurb|2026-03-25 > 08 30 Fato Adm - Serviço de Coleta de Entulho da Comlurb]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Motivação:** (1) conforme agendado em 22/01/2026 às 17:46:14, serviço coleta entulho [[COMLURB]]
+- **Registra-se:**
+- **QUE** em atendimento ao protocolo código **RIO-31946611-6** de 22/01/2026 às 17:46:14, [[COMLURB]] efetua serviço de coleta de entulho
+- **QUE**  companhia interfona para [[Unidade 402]] para informar presença
+- **QUE** funcionário da Comlurb instrui "_armazenar entulho em sacos similares aos sacos de pacotes de areia. Que a Comlurb pode se negar a recolher entulho de obra que não esteja devidamente armazenado em sacos_"
+- ---
+- **Ref.:** [[fato administrativo]], [[registro limpeza]]
+
+- [[2026-03-24.md#Próximos Passos|2026-03-24 > Próximos Passos]]: 
+    - [[registro lembrete]] para **próximos passos**: No âmbito do(a) [[RIA - Relatório de Inspeção Anual]], verificar se condomínio recebeu a sua via enviada pela [[SOS Elevadores]]
+
+- [[2026-03-24.md#11 23 Fato Adm - Visita Engenheiro SOS Elevadores|2026-03-24 > 11 23 Fato Adm - Visita Engenheiro SOS Elevadores]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) conforme informado pela [[SOS Elevadores]] em 20/fev/2026, sobre Engenheiro para emissão [[RIA - Relatório de Inspeção Anual]] (registro [[2026-02-20#15 15 Ato Adm. - SOS Elevadores - Comunicado Visita para RIA]])
+- **Registra-se:**
+- **QUE** Sr [[Jairo Valente - Eng. SOS Elevadores]] compareceu na presente data ao Edifício Heleri e acessou a [[Casa de Máquinas]]
+- **QUE** Engenheiro [[Jairo Valente - Eng. SOS Elevadores]] realizou a inspeção para produção do [[RIA - Relatório de Inspeção Anual]]
+- **QUE** informa que [[Catia - SOS Elevadores]] realizará o envio de uma das vias do [[RIA - Relatório de Inspeção Anual]] ao Heleri,
+- ... e ==outra via será entregue à Prefeitura da Cidade do Rio de Janeiro==
+- **QUE** Engenheiro esclarece ainda, que a via recebida pelo Heleri deverá ficar em local visível e público ao residentes
+- **QUE** prazo de envio será próximo mês (abril/2026)
+- ---
+- **Ref.:** [[ato administrativo]], [[registro inspeção]], [[Sistema de Elevador]], [[Elevador]]
+
+- [[2026-03-23.md#13 56 Ato Adm - Solicitação Serviço Coleta Entulho|2026-03-23 > 13 56 Ato Adm - Solicitação Serviço Coleta Entulho]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) coleta de entulho
+- **Registra-se:**
+- **QUE** [[Síndica]], solicita coleta de entulho via [[1746 - Central Atendimento Prefeitura Rio]], e dirigido a [[COMLURB]]
+- **QUE** ==houve impedimento== em realizar a solicitação ==devido protocolo EM ABERTO== , código **RIO-31946611-6** de 22/01/2026 às 17:46:14
+- ---
+- **Ref.:** [[ato administrativo]]
+- https://drive.google.com/file/d/1-mALm0OJd7kD8gR65LaBAe6V8F8hqJmq/view
+- <iframe src="https://drive.google.com/file/d/1-mALm0OJd7kD8gR65LaBAe6V8F8hqJmq/preview" width="640" height="480"></iframe>
+- https://drive.google.com/file/d/1flUHzy9INXhXeTbpaDvvKSA2Z141gfCF/view
+- <iframe src="https://drive.google.com/file/d/1flUHzy9INXhXeTbpaDvvKSA2Z141gfCF/preview" width="640" height="480"></iframe>
+
+- [[2026-03-20.md#14 36 Fornecedor - Inset Max - Limpeza Reservatório Impermeabilização Dedetização|2026-03-20 > 14 36 Fornecedor - Inset Max - Limpeza Reservatório Impermeabilização Dedetização]]: 
+    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
+- **Motivação:** (1) alimentar base de fornecedores (2) [[Q260317_1005 Orçamento Limpeza Caixa DAgua]]
+- **Registra-se:**
+- fornecedor [[Inset Max - Limpeza Reservatório e Dedetização]]
+- **QUE** informa valor do serviço [[Limpeza Caixa-D'Água]] em ` R$ 980,00 ` em condições de pagamento ` 02x R$ 490 `
+- **QUE** registra-se proposta em [[DOC260320 Orçamento Inset Max Limpeza_Reservatorio Ao Heleri]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro fornecedor]], [[Caixa DAgua]], [[registro orçamento]]
+- [12:29, 20/03/2026] Ana: CADASTRAR FORNECEDOR E PROPOSTA
+- [12:33, 20/03/2026] Ana: O valor do serviço com esse fornecedor é o melhor  02x R$ 490,00 (quatrocentos e noventa reais)
+- https://drive.google.com/file/d/1J74rKAdlTtnTR0qAcdin52KawBisVn9q/view
+- <iframe src="https://drive.google.com/file/d/1J74rKAdlTtnTR0qAcdin52KawBisVn9q/preview" width="640" height="480"></iframe>
+
+- [[2026-03-20.md#14 32 Fornecedor - Lowndes - Condomínios e Imóveis|2026-03-20 > 14 32 Fornecedor - Lowndes - Condomínios e Imóveis]]: 
+    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
+- **Motivação:** (1) alimentar base de fornecedores (2) (1) [[Q260224_1453 Análise Orçamentária e Custos]]
+- **Registra-se:**
+- fornecedor [[Lowndes - Condomínios e Imóveis]]
+- **QUE** [[Síndica]] recebe tabela padrão de preços de serviços de administração
+- **QUE** documenta-se tabela em [[DOC260320 Lowndes Tabela Padrão Preços e Serviços]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro fornecedor]], [[registro orçamento]], [[registro análise]]
+- [11:01, 20/03/2026] COND. DO ED. HELERI.pdf
+- [11:01, 20/03/2026] Ana: registrar fornecedor e proposta
+- https://drive.google.com/file/d/1AeU0pp4gXrnBU6MMkqbRlL-sM7YAM7zq/view
+- <iframe src="https://drive.google.com/file/d/1AeU0pp4gXrnBU6MMkqbRlL-sM7YAM7zq/preview" width="640" height="480"></iframe>
+
+- [[2026-03-19.md#14 21 Ato Adm - Documentos Denúncia CREA 202680002797|2026-03-19 > 14 21 Ato Adm - Documentos Denúncia CREA 202680002797]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]]
+- **Registra-se:**
+- **QUE** [[Síndica]] registra íntegra contato com relator e agente fiscalização CREA, Sr [[Jose Carlos Pingitore Papa]]
+- ...
+- [10:00, 19/03/2026] Ana: REGISTRO DE CONTATO COM CREA RJ
+- [10:01, 19/03/2026] Ana: [14:18, 16/03/2026] Jose Carlos  - CREA RJ: Boa tarde , Sra Ana Tereza José Carlos Crea tudo bem em atenção solicitação a denúncia código 202680002797, ao endereço ra Silva guimarães ,24 tijuca ,precisamos o registro da empresa e art pela execução do laudo técnico  B&G James Reformas e Construções ktda cnpj 09.561.165/ 0001-07 não informado obrigado.
+- [14:19, 16/03/2026] Ana: Boa tarde! Eu vou verificar e te envio.
+- [14:20, 16/03/2026] Jose Carlos  - CREA RJ: Obrigado
+- [15:57, 16/03/2026] Jose Carlos  - CREA RJ: Favor enviar cópia do contrato com a empresa MV3 ,razão social endereço e cnpj apurar se a empresa  estar registrada também obrigado.
+- [13:53, 18/03/2026] Ana: Boa tarde , Sra Ana Tereza José Carlos Crea tudo bem em atenção solicitação a denúncia código 202680002797, ao endereço ra Silva guimarães ,24 tijuca ,precisamos o registro da empresa e art pela execução do laudo técnico  B&G James Reformas e Construções ktda cnpj 09.561.165/ 0001-07 não informado obrigado.
+- Prezado, boa tarde! Fiz a solicitação dos dados a B&G James Reformas.
+- [13:54, 18/03/2026] Ana: Favor enviar cópia do contrato com a empresa MV3 ,razão social endereço e cnpj apurar se a empresa  estar registrada também obrigado.
+- Não identificamos que a empresa MV3 tenha registro no CREA
+- [13:55, 18/03/2026] Ana: Dados: MV3 ENGENHARIA
+- Rua Pompílio da Rocha, 76 - Campo Grande RJ/RJ
+- CNPJ 36.117.641/0001-78
+- [13:55, 18/03/2026] Ana: Contrato
+- [13:59, 18/03/2026] Ana: B&G James  : Registro: 2009216201 Data Inscrição: 23/12/2009
+- [14:00, 18/03/2026] Ana: Agora só falta o ART, correto?
+- [14:02, 18/03/2026] Jose Carlos  - CREA RJ: Boa tarde art do laudo foi localizada  empresa registrada vamos notificar a empresa MV3 para regularizar no Crea  obrigado.
+- [14:02, 18/03/2026] Ana: ok, obrigada!
+- [14:03, 18/03/2026] Jose Carlos  - CREA RJ: Digo art do laudo não foi localizada ok
+- [14:04, 18/03/2026] Ana: Digo art do laudo não foi localizada ok
+- Entendi, o engenheiro está com um problema na geração do boleto e está tentando resolver com o CREA, por isso ainda lhe repassei o ART.
+- [14:05, 18/03/2026] Jose Carlos  - CREA RJ: Favor assim que receber enviar ART obrigado
+- [14:05, 18/03/2026] Ana: sim, pode deixar. Obrigada!
+- ---
+- **Ref.:** [[ato administrativo]], [[registro esclarecimento]]
+- https://drive.google.com/file/d/1FwKKsOvwtWN-b5GVlZSuZ6a8E9jE3jQ9/view
+- <iframe src="https://drive.google.com/file/d/1FwKKsOvwtWN-b5GVlZSuZ6a8E9jE3jQ9/preview" width="640" height="480"></iframe>
+
+- [[2026-03-18.md#15 01 Fornecedor - Orçamento AL Durange|2026-03-18 > 15 01 Fornecedor - Orçamento AL Durange]]: 
+    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
+- **Motivação:** (1) alimentar base de fornecedores (2) [[Q260224_1453 Análise Orçamentária e Custos]] (3) Prerrogativa
+- **Registra-se:**
+- fornecedor [[AL Durange Solução Serviços para Condomínios LTDA]]
+- Orçamento serviços terceirizados de zeladoria [[DOC260318 Orçamento Serviços Zeladoria AL Durange]]
+- **QUE** para fins de análise de risco, ==proposta está com dados incompletos da fornecedora e inconsistências nas informações==
+- ---
+- **Ref.:** [[ato administrativo]], [[registro fornecedor]], [[registro orçamento]], [[registro análise]]
+- [16:39, 18/03/2026] Ana: registrar fornecedor para serviço de administração condominial e serviço terceirizado de zelador
+- [16:39, 18/03/2026] Ana: telefone : 21 97526-9204
+- https://drive.google.com/file/d/1DUQPFYN36C7L5MMAC-X0Q4i5Q7Gh92BX/view
+- <iframe src="https://drive.google.com/file/d/1DUQPFYN36C7L5MMAC-X0Q4i5Q7Gh92BX/preview" width="640" height="480"></iframe>
 
 - [[2026-03-18.md#13 17 Fato Adm - Recebimento Ofício CREA - Denúncia nº 202680002797|2026-03-18 > 13 17 Fato Adm - Recebimento Ofício CREA - Denúncia nº 202680002797]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
@@ -87,7 +244,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **QUE** documento ofício está registrado em [[DOC260318 Ofício Circular CREA Denúncia 202680002797 Eng Alexandra MV3 ref Q260313_2156]]
 - **QUE** assina ofício na qualidade de Agente de Fiscalização do CREA, Sr [[Jose Carlos Pingitore Papa]], da matrícula 323, do celular (21) 98882-2114, do e-mail jose.papa@crea-rj.org.br
 - ---
-- **Ref.:** [[fato administrativo]], [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra]], [[Q260109_1847 Providência ao Pedido de Distrato]], [[2507_art2020250191670_assinado_assinado]], [[registro recebimento]]
+- **Ref.:** [[fato administrativo]], [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra_MV3]], [[Q260109_1847 Providência ao Pedido de Distrato]], [[2507_art2020250191670_assinado_assinado]], [[registro recebimento]]
 - https://drive.google.com/file/d/1JIrSyM3HQR5GNaVB8Gb2hzG7AsPBpDuG/view
 - <iframe src="https://drive.google.com/file/d/1JIrSyM3HQR5GNaVB8Gb2hzG7AsPBpDuG/preview" width="640" height="480"></iframe>
 
@@ -207,7 +364,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]] (2) Reunião com ausência da engenheira [[ALEXANDRA MAGNA DE SOUSA REPIZO]]
 - **Registra-se:**
 - **QUE** no CREA RJ, é protocolada a denúncia **Denúncia nº 202680002797 registrada com sucesso.**
-- **QUE** documento com conteúdo da denúncia é [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra]]
+- **QUE** documento com conteúdo da denúncia é [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra_MV3]]
 - **QUE** denúncia, para fins de acompanhamento, fica registrada sob questão [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]]
 - ---
 - **Ref.:** [[ato administrativo]], [[registro questão]]
@@ -258,7 +415,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 - [[2026-03-06.md#17 30 Ato Adm - Gestão Heleri - Agendamento Reunião MV3 - Apresentação Laudo Pericial|2026-03-06 > 17 30 Ato Adm - Gestão Heleri - Agendamento Reunião MV3 - Apresentação Laudo Pericial]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]] (2) Resolução escopo restante [[Telhado Bloco 2]] conforme decisão de [[AGE - Janeiro 2026]] (3) entrega do laudo do perito [[Luiz Engenheiro técnico-perito]]
+- **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]] (2) Resolução escopo restante [[Telhado Bloco 2]] conforme decisão de [[AGE - Janeiro 2026]] (3) entrega do laudo do perito [[Luis Engenheiro técnico-perito]]
 - **Registra-se:**
 - **QUE** [[Síndica]] **solicita reunião com MV3** para apresentação do laudo e andamento das questões conforme decidido em Assembleia Extraordinária de JAN/2026
 - **QUE** MV3 confirma reunião remota, via Google Meeting, link https://meet.google.com/wuk-rthn-rqo?authuser=0, na ==próxima sexta-feira dia **13/mar/2026==**
@@ -290,7 +447,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]]
 - **Registra-se:**
-- **QUE** recebemos do [[Luiz Engenheiro técnico-perito]] o laudo e nota fiscal, que foi encaminhada para pagamento via [[Administradora Apolo]]
+- **QUE** recebemos do [[Luis Engenheiro técnico-perito]] o laudo e nota fiscal, que foi encaminhada para pagamento via [[Administradora Apolo]]
 - **QUE** nota foi emitida pela empresa [[B & G JAMES REFORMAS E CONSTRUCOES LTDA]]
 - **QUE** documento possui 28 páginas
 - **QUE** está registrado como documento [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
@@ -409,7 +566,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
     - [[Gestão Condominial do Heleri]], segue **despesa** ...
 - **Motivação:** (1) [15:52, 05/03/2026] Ana: Registrar recebimento de laudo de vistoria e nota fiscal no valor de 950,00 (encaminhada a Apolo para pagamento) (2) [[Q260109_1847 Providência ao Pedido de Distrato]] (3) Laudo conforme decidido [[AGE - Janeiro 2026]]
 - **Registra-se:**
-- **QUE** foi adquirido(a) "_laudo pericial da [[B & G JAMES REFORMAS E CONSTRUCOES LTDA]], perito [[Luiz Engenheiro técnico-perito]], nos termos do que fora decidido na [[AGE - Janeiro 2026]], acerca de providências em relação [[Obras Telhado BL2]]_"
+- **QUE** foi adquirido(a) "_laudo pericial da [[B & G JAMES REFORMAS E CONSTRUCOES LTDA]], perito [[Luis Engenheiro técnico-perito]], nos termos do que fora decidido na [[AGE - Janeiro 2026]], acerca de providências em relação [[Obras Telhado BL2]]_"
 - ... **sob nota fiscal**  [[NF260305_2026_LAUDO_TECNICO_DE_ENGENHARIA_NOTA_FISCAL]]
 - **QUE** atualiza-se planilha de controle [[Planilha_Controle_Despesas_v2601_1]]
 -
@@ -562,9 +719,9 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 - [[2026-02-20.md#19 44 Ato Adm - Verificando Disponibilidade Engenheiro Perito - Caso Telhado Bloco 2|2026-02-20 > 19 44 Ato Adm - Verificando Disponibilidade Engenheiro Perito - Caso Telhado Bloco 2]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
-- **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]] (2) dado que na [[AGE - Janeiro 2026]] condicionou-se a continuidade do serviço da MV3 mediante declaração do escopo restante via perito, engenheiro independente (3) dado que engenheiro contratado Sr [[Luiz Engenheiro técnico-perito]], sofreu acidente no início de fevereiro
+- **Motivação:** (1) [[Q260109_1847 Providência ao Pedido de Distrato]] (2) dado que na [[AGE - Janeiro 2026]] condicionou-se a continuidade do serviço da MV3 mediante declaração do escopo restante via perito, engenheiro independente (3) dado que engenheiro contratado Sr [[Luis Engenheiro técnico-perito]], sofreu acidente no início de fevereiro
 - **Registra-se:**
-- **QUE** [[Síndica]] averigua com Sr [[Luiz Engenheiro técnico-perito]] sobre possibilidade de continuidade do serviço iniciado
+- **QUE** [[Síndica]] averigua com Sr [[Luis Engenheiro técnico-perito]] sobre possibilidade de continuidade do serviço iniciado
 - **QUE** Sr Luiz se posiciona confirmando a possibilidade
 - [15:56, 20/02/2026] Ana: oi Luis, boa tarde! Em caso de precisarmos que você visite a execução da obra, você conseguiria?
 - [15:59, 20/02/2026] Luis Claudio - Eng RJ Delphos: Sim.
@@ -701,7 +858,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** Perícia no telhado bloco 2
 - **Registra-se:**
-- **QUE** no âmbito da contratação de perito para verificação do escopo que resta referente as [[Obras Telhado BL2]], e conforme decidido em [[AGE - Janeiro 2026]], e diante de impossibilidade de prosseguir com [[Luiz Engenheiro técnico-perito]] por motivos de ter sofrido acidente grave, [[Síndica]] segue com prospecção de novo engenheiro
+- **QUE** no âmbito da contratação de perito para verificação do escopo que resta referente as [[Obras Telhado BL2]], e conforme decidido em [[AGE - Janeiro 2026]], e diante de impossibilidade de prosseguir com [[Luis Engenheiro técnico-perito]] por motivos de ter sofrido acidente grave, [[Síndica]] segue com prospecção de novo engenheiro
 - **QUE** segue em negociação de condições e valores com [[Marco Aurélio Eng técnico-perito]]
 - ---
 - **Ref.:** [[ato administrativo]], [[Telhado Bloco 2]], [[Q260109_1847 Providência ao Pedido de Distrato]], [[registro fornecedor]]
@@ -867,7 +1024,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
     - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
 - **Motivação:** [[Q260109_1847 Providência ao Pedido de Distrato]]
 - **Registra-se:**
-- **QUE** na data de **09 Fev** foi comunicado que o Sr. [[Luiz Engenheiro técnico-perito]], que realizava perícia para construção de laudo acerca das [[Obras Telhado BL2]], sofreu acidente de nível grave
+- **QUE** na data de **09 Fev** foi comunicado que o Sr. [[Luis Engenheiro técnico-perito]], que realizava perícia para construção de laudo acerca das [[Obras Telhado BL2]], sofreu acidente de nível grave
 - **QUE** incidente suspende atividade de consultoria em curso, devendo portanto, o Condomínio providenciar novo profissional para prosseguimento do laudo e levantamentos, conforme deliberado na [[AGE - Janeiro 2026]]
 - **QUE** além da questão que analisava caso da [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]], também fica impactado o planejamento de levantamento acerca da questão [[Q260131_0855 Infiltração apartamento 401]], dado que Síndica havia reservado visita do perido Sr Luiz, ao imóvel [[Unidade 401]] para primeira análise do caso de infiltração
 - ---
@@ -1203,7 +1360,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Registra-se:**
 - **QUE** [[Jo 401]] conduziu [[Síndica]] a verificar dependências afetadas por infiltração
 - **QUE** [[Síndica]], leiga, não conseguiu identificar pontos de manchas e umidade
-- **QUE** Síndica se propõe a fazer pedido ao [[Luiz Engenheiro técnico-perito]] para verificar problema e dar instrução/orientação geral, quando vier ao Heleri concluir levantamento do Telhado Bloco 2
+- **QUE** Síndica se propõe a fazer pedido ao [[Luis Engenheiro técnico-perito]] para verificar problema e dar instrução/orientação geral, quando vier ao Heleri concluir levantamento do Telhado Bloco 2
 - **QUE**índica també Sm fez incursão pelo lado externo, via [[Terraço]]/[[Telhado Bloco 1]]
 - QUE ainda assim, em melhor palpite verificou que os pontos referentes ao incidente (lado de dentro) podem estar relacionados a pontos de descida pluvial ([[Sistema de Calhas Pluviais Bloco 1]])
 - ---
@@ -1254,7 +1411,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Motivação:** [[Q260109_1847 Providência ao Pedido de Distrato]]
 - **Registra-se:**
 - **QUE** [[Síndica]] recebeu o orçamento de laudo de vistoria e acompanhamento de obra
-- **QUE** [[Luiz Engenheiro técnico-perito]] informa o valor de R$ 950,00 para confecção de laudo e visita técnica o valor de R$ 500,00
+- **QUE** [[Luis Engenheiro técnico-perito]] informa o valor de R$ 950,00 para confecção de laudo e visita técnica o valor de R$ 500,00
 - **QUE** [[Síndica]] solicitou orçamento para emissão de ART
 - ---
 - **Ref.:** [[ato administrativo]] , [[registro levantamento]]
@@ -1335,7 +1492,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** [[Q260109_1847 Providência ao Pedido de Distrato]]
 - **Registra-se:**
-- **QUE** [[Síndica]] entregou novos dados para inclusão em laudo de vistoria solicitado a [[Luiz Engenheiro técnico-perito]]
+- **QUE** [[Síndica]] entregou novos dados para inclusão em laudo de vistoria solicitado a [[Luis Engenheiro técnico-perito]]
 - **QUE** foram entregues vídeos, medidas e fotos conforme instruídas pelo perito
 - ---
 - **Ref.:** [[ato administrativo]] , [[registro levantamento]]
@@ -1500,7 +1657,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Registra-se:**
 - **QUE** em ato decidido na [[AGE - Janeiro 2026]] prepara-se documentação
 - **QUE** para submissão CREA/RJ em processo administrativo dirigido a responsável técnica das [[Obras Telhado BL2]], Engenheira Sra [[ALEXANDRA MAGNA DE SOUSA REPIZO]], registra-se documento complementar sobre execução de custos durante obra [[260106_Analise_Custos_Obras_telhado_bloco_2_Heleri_Anexo_CREA]]
-- **QUE** também será enviada para considerações no laudo do perito [[Luiz Engenheiro técnico-perito]], que esteve em visita para análise em [[2026-01-26#12 21 Fato Adm. - Gestão Heleri - Visita Engenheiro Perito]]
+- **QUE** também será enviada para considerações no laudo do perito [[Luis Engenheiro técnico-perito]], que esteve em visita para análise em [[2026-01-26#12 21 Fato Adm. - Gestão Heleri - Visita Engenheiro Perito]]
 - ---
 - **Ref.:** [[ato administrativo]], [[2507_art2020250191670_assinado_assinado]]
 
@@ -1545,7 +1702,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
     - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
 - **Motivação:** [[Q260109_1847 Providência ao Pedido de Distrato]]
 - **Registra-se:**
-- **QUE** no âmbito do que fora decidido na [[AGE - Janeiro 2026]], Condomínio recebe visita de [[Luiz Engenheiro técnico-perito]] com objetivo de inspecionar local [[Obras Telhado BL2]]
+- **QUE** no âmbito do que fora decidido na [[AGE - Janeiro 2026]], Condomínio recebe visita de [[Luis Engenheiro técnico-perito]] com objetivo de inspecionar local [[Obras Telhado BL2]]
 - **QUE** perito serve a detalhar de forma técnica-objetiva, escopo faltante e problemas encontrados na obra efetuada pela [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]]
 - **QUE**, também conforme acordado na AGE, perito fornecerá também orçamento, além do parecer/escopo, para: (1) acompanhar periodicamente o andamento da obra quando for retomada (seja pela MV3 seja por outra empresa) (2) emitir o aceite de entrega da obra e conformidade (3) conduzir teste de aferição e estanqueidade a compor aceite formal
 - ---
@@ -1716,6 +1873,8 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Ref.:** [[ato administrativo]], [[registro orçamento]], [[Sistema de Elevador]], [[Elevador]]
 - https://drive.google.com/file/d/1f0u7xQhnAAMC5Qhtg-nEfBQ-KfrKW54o/view
 - <iframe src="https://drive.google.com/file/d/1f0u7xQhnAAMC5Qhtg-nEfBQ-KfrKW54o/preview" width="640" height="480"></iframe>
+- https://drive.google.com/file/d/1x7Elf62JD-pU5k8oePtQdFnL5QMKgzES/view
+- <iframe src="https://drive.google.com/file/d/1x7Elf62JD-pU5k8oePtQdFnL5QMKgzES/preview" width="640" height="480"></iframe>
 
 - [[2026-01-22.md#09 39 Ato Adm - Análise Extensão Danos e Imperícias MV3 - Caso Telhas Soltas|2026-01-22 > 09 39 Ato Adm - Análise Extensão Danos e Imperícias MV3 - Caso Telhas Soltas]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
@@ -2936,6 +3095,16 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - às 14:08, estudo teste para verificar eficiência do modelo de anotações
 - Registra-se no [[2601 Estudo Eficiência da Forma dos Registros Obsidian]]
 - [[registro pro-bono]], , [[registro configuração]]
+
+- [[2026-01-02.md#10 23 Ato Adm - Gestão Heleri - Início limpeza reservatórios de água|2026-01-02 > 10 23 Ato Adm - Gestão Heleri - Início limpeza reservatórios de água]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260317_1005 Orçamento Limpeza Caixa DAgua]]
+- **Registra-se:**
+- **QUE** [[Síndica]] informa via [[Grupo Whatsapp Condomínio Heleri]]
+- [09:34, 02/04/2026] Ana Tereza: Prezados, bom dia! A empresa que fará a limpeza dos reservatórios chegou e vai começar os trabalhos, a duração do período sem água deve ser de 4 horas, conforme informado anteriormente.
+- **QUE** a atividade iniciará pela limpeza das 2 cisternas localizadas na garagem
+- ---
+- **Ref.:** [[ato administrativo]], [[registro comunicado]], [[Cisterna Garagem]], [[Garagem]], [[Limpeza Caixa-D'Água]]
 
 
 <!-- SerializedQuery END -->

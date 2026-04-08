@@ -4,18 +4,6 @@
 
 !!! Para ficar atualizado, sempre é possível começar lendo o **[[Visão Geral#Diário Bordo do Mês]]** <= **[[Visão Geral#Diário Bordo do Mês|CLIQUE AQUI]]**
 
-<!-- 
-# Podcast - Resumo de Janeiro 2026
-
-
-## Parte I
-
-
-
-## Parte II
--->
-
-
 # [Diário](https://heleriadm-collab.github.io/SAGCHeleri/diario/) 
 
 
@@ -33,26 +21,60 @@
 | semana 10/2026 | [[diario/2026-03-02.md\|02 MAR]] | [[diario/2026-03-03.md\|03 MAR]] | [[diario/2026-03-04.md\|04 MAR]] | [[diario/2026-03-05.md\|05 MAR]] | [[diario/2026-03-06.md\|06 MAR]] |                                  |                                  |
 | semana 11/2026 | [[diario/2026-03-09.md\|09 MAR]] | [[diario/2026-03-10.md\|10 MAR]] | [[diario/2026-03-11.md\|11 MAR]] |                                  |                                  | [[diario/2026-03-13.md\|13 MAR]] |                                  |
 | semana 12/2026 | [[diario/2026-03-16.md\|16 MAR]] | [[diario/2026-03-17.md\|17 MAR]] | [[diario/2026-03-18.md\|18 MAR]] |                                  | [[diario/2026-03-20.md\|20 MAR]] |                                  |                                  |
-| semana 13/2026 | [[diario/2026-03-23.md\|23 MAR]] |                                  |                                  |                                  |                                  |                                  |                                  |
+| semana 13/2026 | [[diario/2026-03-23.md\|23 MAR]] | [[diario/2026-03-24.md\|24 MAR]] | [[diario/2026-03-25.md\|25 MAR]] | [[diario/2026-03-26.md\|26 MAR]] |                                  |                                  |                                  |
+| semana 14/2026 |                                  |                                  |                                  | [[diario/2026-04-02.md\|02 ABR]] |                                  |                                  |                                  |
+| semana 15 2026 |                                  | [[diario/2026-04-07.md\|07 ABR]] |                                  |                                  |                                  |                                  |                                  |
 
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
+<!-- 
+# Podcast - Resumo de Janeiro 2026
+
+
+## Parte I
+
+
+
+## Parte II
+-->
 
 
 # Eventos Relevantes
 
+## Captação de Proponentes para Término Obras Telhado Bloco 2
+
+No âmbito da questão [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]], está em fase de finalização a especificação para pedido de propostas ao término das obras [[Telhado Bloco 2]]
+
+## Limpeza das 2 Cisternas da Garagem
+
+No âmbito da questão [[Q260317_1005 Orçamento Limpeza Caixa DAgua]], foi ==realizada na semana 14 de 2026==, na data de ==02/04/2026== a limpeza das duas cisternas existentes na garagem.
+
+O planejamento inicial incluía limpeza da [[Caixa DAgua]] no alto do bloco 2, porém não foi possível execução dado que todo o expediente foi gasto na atividade de limpeza das duas cisternas.
+
+Nova visita será agendada com o fornecedor para conclusão do serviço.
+
+
+<!--
 ## Recebimento Ofício do CREA 
 
 No âmbito da denúncia feita conta [[ALEXANDRA MAGNA DE SOUSA REPIZO]], engenheira designada pela [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] como sendo responsável técnica, tal como registrado em [[DOC260318 Ofício Circular CREA Denúncia 202680002797 Eng Alexandra MV3 ref Q260313_2156]], recebemos ofício do CREA
 
 **Documento Ofício:** [[DOC260318 Ofício Circular CREA Denúncia 202680002797 Eng Alexandra MV3 ref Q260313_2156]]
 
+-->
+
+<!--
 ## SOS Elevadores Informa Visita 
 
 No **mês de março**, o condomínio Heleri terá a visita do nosso **engenheiro [[Jairo Valente - Eng. SOS Elevadores]]**, em conformidade com a **lei municipal 2743/1999**, para a realização do **[[RIA - Relatório de Inspeção Anual]]**.
 
 **[[SOS Elevadores]] Complementa:** 
 "... à disposição para quaisquer perguntas ou esclarecimentos. Se desejar acompanhar a vistoria, peço que me avise para que possamos agendar com o engenheiro"
+
+
+>**Visita realizada em 24/março/2026 (registro [[2026-03-24#11 23 Fato Adm. - Visita Engenheiro SOS Elevadores]])**
+
+-->
 
 <!-- 
 

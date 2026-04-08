@@ -9,21 +9,29 @@ created: 2026-03-13T21:05
 
 #documento 
 
-```
+<!-- 
+
 REM == RETIRA-SE O MD5 PARA INTEGRIDADE ==
 certutil -hashfile "20250717.pdf" md5
-```
 
-- **Descrição:** 
-		- **Arquivo:** 
+-->
 
-- **Objetivo:** 
 
-- **Motivação:** 
+- **Descrição:** Referente a denúncia número ==2026080002797==, realizada conforme registro em [[2026-03-13#21 04 Ato Adm. - Gestão Heleri - Denúncia ao CREA - Eng Alexandra Repizo]] (em 13/mar/2026) (vide [[#RELATO FORMULÁRIO PREENCHIDO]])
+		- **QUE** na data de 16/março Eng. do CREA Sr [[Jose Carlos Pingitore Papa]] retornou via e-mail solicitando documentação complementar (vide [[#16 Março 2026 - CREA Solicita Informação Complementar]])
+		- **QUE** fez entrega dos documentos solicitados, porém faltou o documento "art", da perícia, a ser emitido pelo Eng. [[Luis Engenheiro técnico-perito]] ([[B & G JAMES REFORMAS E CONSTRUCOES LTDA]])
+		- **QUE**  Eng. [[Luis Engenheiro técnico-perito]] informa estar com dificuldades de emitir guia de pagamento via site do CREA
+		- **QUE** na sexta-feira dia 27/03/2026, eng. [[Luis Engenheiro técnico-perito]] informa [[ART - Anotação de Responsabilidade Técnica]] nº **2020260090776**, conforme exigido pelo relator da denúncia em curso no CREA, Eng. [[Jose Carlos Pingitore Papa]]
+		- **QUE** registra-se documento ART em [[DOC260327_ART_2020260090776_Laudo_Tecnico_Eng_Luis_Claudio]]
+
+
+- **Objetivo:** (1) [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]] 
+
+- **Motivação:** (1) [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]]
 
 - **Autor:** [[Condomínio Heleri]]
 
-- **Compõe:** (1) associada a questão [[Q260109_1847 Providência ao Pedido de Distrato]] para fins de acompanhamento
+- **Compõe:** (1) [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]] (2) associada a questão [[Q260109_1847 Providência ao Pedido de Distrato]] para fins de acompanhamento
 
 - **Composto por:** 
 		- (1) [[20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI]]
@@ -32,6 +40,7 @@ certutil -hashfile "20250717.pdf" md5
 		- (4) [[260106_Analise_Custos_Obras_telhado_bloco_2_Heleri_Anexo_CREA]]
 		- (5) [[DOC260305_Convocacao_Reuniao_Obras_Telhado_Bloco2_ComPresenca_Eng_Alexandra_Magna_de_Sousa_Repizo]]
 		- (6) [[2601 Playlist compilação Vídeos status Telhado BL2 ANTES e DURANTE Obras]]
+		- (7)  [[DOC260327_ART_2020260090776_Laudo_Tecnico_Eng_Luis_Claudio]]
 
 - **Valor:** N/A
 
@@ -46,7 +55,8 @@ certutil -hashfile "20250717.pdf" md5
 # Visualização 
 
 
-CONFORME PREENCHIDO EM FORMULÁRIO
+## RELATO FORMULÁRIO PREENCHIDO 
+
 
 ```
 O condomínio contratou a empresa de engenharia sob competência técnica da Engenheira Civil Alexandra Magna de Sousa Repizo, do CPF 153.964.267-48, do RNP 2022978870, e declarada em ART 2020250191670 para execução de obra de reparo em telhado e calhas, incluindo serviços de impermeabilização e correção de infiltrações, com prazo estimado de 30 dias declarados pela contratada.
@@ -93,6 +103,16 @@ Telefone/whatsapp: +55 21 98374-9126
 E-mail: heleri.adm@gmail.com
 
 ```
+
+## 16 Março 2026 - CREA Solicita Informação Complementar
+
+- Arquivo: ` DOC260318_Email_CREA_Denuncia_202680002797_Contra_MV3_Eng_Alexandra.pdf `
+- Storage: https://drive.google.com/drive/u/2/folders/1XcSr7U4v5i-w2guVehjPMMLZ6_YnsQho
+- Link: https://drive.google.com/file/d/1Bqk2ZyTUaDEMwu1pvYizWFyRyIsqlafU/view
+- Visualização:
+		- <iframe src="https://drive.google.com/file/d/1Bqk2ZyTUaDEMwu1pvYizWFyRyIsqlafU/preview" width="640" height="480"></iframe>
+
+
 
 # metadado
 

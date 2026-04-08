@@ -14,11 +14,11 @@ created: 2026-03-18T13:24
 
 - **Objetivo:** Ofício solicita documentação probatória à denúncia realizada
 
-- **Motivação:** (1) [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra]]
+- **Motivação:** (1) [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra_MV3]]
 
-- **Autor:** CREA, mediante [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra]]
+- **Autor:** CREA para pessoa do Engenheiro e Relator da denúncia Sr. [[Jose Carlos Pingitore Papa]]
 
-- **Compõe:** (1) [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]] (2) [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra]] (3) [[Q260109_1847 Providência ao Pedido de Distrato]]
+- **Compõe:** (1) [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]] (2) [[DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra_MV3]] (3) [[Q260109_1847 Providência ao Pedido de Distrato]]
 
 - **Composto por:** 
 

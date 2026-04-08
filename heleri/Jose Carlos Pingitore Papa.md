@@ -17,6 +17,8 @@ created: 2026-03-18T13:29
 		- **Whatsapp:** https://wa.me/5521988822114
 		- **Celular:** (21) 98882-2114 <a href="tel:+5521988822114">ligar</a>
 		- **E-mail:** jose.papa@crea-rj.org.br
+		- https://drive.google.com/file/d/1lbblDywZ9a3g6jhbt6PY9gb4-FxMt2ec/view
+		- <iframe src="https://drive.google.com/file/d/1lbblDywZ9a3g6jhbt6PY9gb4-FxMt2ec/preview" width="640" height="480"></iframe>
 
 - **Links:** 
 

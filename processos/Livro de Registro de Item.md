@@ -28,7 +28,7 @@ Sr [[fornecedores/Milton Vilarino Junior - MV3]]
 
 [[+55 21 98556-6170 - Adm Apolo]] telefone/whatsapp
 
-[[fornecedores/Luiz Engenheiro técnico-perito]]
+[[Luis Engenheiro técnico-perito]]
 
 Razão Social
 CNPJ
@@ -65,6 +65,18 @@ Telefone e Whatsapp por meio de jurisprudências, são meios aceitos para materi
 
 [[heleri.adm@gmail.com - conta]]
 
+## Leis
+
+[[Lei 13.467-2017]]
+[[Lei 10.406-2002]]
+[[Lei nº 6.496-1977]]
+[[Art 22 -  Lei 4.591-64]]
+[[Art 475 - CC]]
+[[Art 389 - CC]]
+
+## Técnicas
+
+[[notação de redução a termo]]
 # Atribuição
 
 [[Síndica]]

@@ -87,9 +87,11 @@ o Ajustes necessários para evitar transbordamento.
 
 
 --> 
+
+<!-- REFERÊNCIA https://chatgpt.com/c/69bb0e2d-d22c-8333-8630-c01e7c5c1c9c -->
 # Versão 1
 
-Claro. Abaixo segue o texto consolidado, em formato de **solicitação formal de proposta** para envio a proponentes, com redação objetiva, técnica e já contendo a exigência de **empresa registrada no CREA**, **responsável técnico habilitado** e **ART**. A fundamentação está alinhada à Lei nº 5.194/1966, à Lei nº 6.496/1977 e a normativos do Confea. ([Planalto](https://www.planalto.gov.br/ccivil_03/leis/L5194.htm?utm_source=chatgpt.com "L5194 - Planalto"))
+**Solicitação formal de proposta** para envio a proponentes, contendo a exigência de **empresa registrada no CREA**, **responsável técnico habilitado** e **ART**. A fundamentação está alinhada à Lei nº 5.194/1966, à Lei nº 6.496/1977 e a normativos do Confea. ([Planalto](https://www.planalto.gov.br/ccivil_03/leis/L5194.htm"))
 
 ---
 
