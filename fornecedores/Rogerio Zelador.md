@@ -29,6 +29,17 @@ created: 2026-01-06T16:54
 
 - **Análise(s):** 
 
+# Exame Ocupacional
+
+## 2026 04
+
+### Convocação
+
+Recebido em [[2026-04-09#12 22 Fato Adm. - Convocação Exame Periódico Ocupacional Sr Rogerio]]
+
+https://drive.google.com/file/d/1AQ3rjeDSkAm_jQ0-Ezid6CMWa4hT8amv/view
+<iframe src="https://drive.google.com/file/d/1AQ3rjeDSkAm_jQ0-Ezid6CMWa4hT8amv/preview" width="640" height="480"></iframe>
+
 # (Rogerio Bernardino Silva)
 
 

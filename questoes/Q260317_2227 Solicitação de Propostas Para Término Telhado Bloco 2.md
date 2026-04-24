@@ -18,11 +18,21 @@ summary:
 		- ==**STATUS:** RECUSADO ==
 		- ...
 		- **Segundo documento escopo:** 
-		- (2) [[DOC2603_v02 Documento Solicitação Proposta Telhado Bloco 2]]
+		- (2) [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]]
+		- **STATUS:** DEFERIDO
+		- ...
+		- **QUE** em [[2026-04-09#10 22 Ato Adm. - Solicitação de Proposta à SMM - Término Telhado Bloco 2]] foi realizado envio Termo Referência à [[SMM Manutenção e Reforma]]
+		- **QUE** em [[2026-04-09#11 55 Ato Adm. - Término Telhado Bloco 2 - Gomes Carvalho Conservação Predial]] foi realizado envio Termo Referência à [[Gomes Carvalho Conservação Predial]]
+		- **QUE** em [[2026-04-14#15 57 Fornecedor - JBSF Impermeabilização]] foi realizado envio Termo Referência à [[JBSF Impermeabilização]] 
+		- **QUE** em [[2026-04-16#14 56 Ato Adm. - Solicitar Proposta Telhado Bloco 2 à JJ Serviços]] foi realizado envio Termo Referência à [[JJ SERVIÇOS DE IMPERMEABILIZAÇÃO LTDA]]
+		- [[Gomes Carvalho Conservação Predial]]
+		- 
+
+<!-- termo de referência submetido a ... -->
 
 - **Motivação:** 
 			- (1) diante inviabilidade de prosseguimento com CONTRATADA [[MV3 Engenharia - Vilarinos Empreendimentos LTDA]] conforme exposto a todos condôminos em [[AGE - Novembro 2025]] / [[251110_AGE_NOV_2025_STATUS_OBRA_BL2]] 
-			- (2) ... e também **não execução** de compromisso firmado em [[ATA251111 Reunião MV3 Questões da AGE NOV 2025]]/[[20251112_6 - CRONOGRAMA FISICO MV3]] 
+			- (2) ... e também **não execução** de compromisso firmado em (a) [[ATA251111 Reunião MV3 Questões da AGE NOV 2025]] e (b) [[20251112_6 - CRONOGRAMA FISICO MV3]] 
 			- (3) ... e ainda **não acordo a proposta de distrato** [[ATA260106 Reunião Heleri MV3 proposição distrato]] 
 			- (4) ... e ainda conforme exposto na [[AGE - Janeiro 2026]] 
 			- (5) ... e ainda conforme todas **imperícias evidenciadas em laudo independente** [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]] 
@@ -35,9 +45,9 @@ summary:
 - **Onde:** [[Telhado Bloco 2]], [[Bloco 2]], [[Andar Cobertura]]
 
 - **Termo encerramento:** 
-- [ ] documento versão final
+- [x] documento versão final
 - [ ] relação de proponentes
-- [ ] submissão da proposta aos proponentes
+- [x] submissão da proposta aos proponentes
 - [ ] verificação de ajustes decorrentes da fase de levantamento
 
 - **Data encerramento:** 

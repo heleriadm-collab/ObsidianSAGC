@@ -21,7 +21,7 @@ summary:
 
 - **Risco:** N/A
 
-- **Onde:** [[Garagem]], [[Cisterna Garagem]]
+- **Onde:** [[Garagem]], [[Sistema de Reservatórios de Água]]
 
 - **Termo encerramento:** 
 

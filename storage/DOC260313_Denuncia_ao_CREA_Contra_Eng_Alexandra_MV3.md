@@ -19,9 +19,9 @@ certutil -hashfile "20250717.pdf" md5
 
 - **Descrição:** Referente a denúncia número ==2026080002797==, realizada conforme registro em [[2026-03-13#21 04 Ato Adm. - Gestão Heleri - Denúncia ao CREA - Eng Alexandra Repizo]] (em 13/mar/2026) (vide [[#RELATO FORMULÁRIO PREENCHIDO]])
 		- **QUE** na data de 16/março Eng. do CREA Sr [[Jose Carlos Pingitore Papa]] retornou via e-mail solicitando documentação complementar (vide [[#16 Março 2026 - CREA Solicita Informação Complementar]])
-		- **QUE** fez entrega dos documentos solicitados, porém faltou o documento "art", da perícia, a ser emitido pelo Eng. [[Luis Engenheiro técnico-perito]] ([[B & G JAMES REFORMAS E CONSTRUCOES LTDA]])
-		- **QUE**  Eng. [[Luis Engenheiro técnico-perito]] informa estar com dificuldades de emitir guia de pagamento via site do CREA
-		- **QUE** na sexta-feira dia 27/03/2026, eng. [[Luis Engenheiro técnico-perito]] informa [[ART - Anotação de Responsabilidade Técnica]] nº **2020260090776**, conforme exigido pelo relator da denúncia em curso no CREA, Eng. [[Jose Carlos Pingitore Papa]]
+		- **QUE** fez entrega dos documentos solicitados, porém faltou o documento "art", da perícia, a ser emitido pelo Eng. [[Luis Claudio Engenheiro técnico-perito]] ([[B & G JAMES REFORMAS E CONSTRUCOES LTDA]])
+		- **QUE**  Eng. [[Luis Claudio Engenheiro técnico-perito]] informa estar com dificuldades de emitir guia de pagamento via site do CREA
+		- **QUE** na sexta-feira dia 27/03/2026, eng. [[Luis Claudio Engenheiro técnico-perito]] informa [[ART - Anotação de Responsabilidade Técnica]] nº **2020260090776**, conforme exigido pelo relator da denúncia em curso no CREA, Eng. [[Jose Carlos Pingitore Papa]]
 		- **QUE** registra-se documento ART em [[DOC260327_ART_2020260090776_Laudo_Tecnico_Eng_Luis_Claudio]]
 
 

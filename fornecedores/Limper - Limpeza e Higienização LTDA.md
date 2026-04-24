@@ -7,7 +7,7 @@ created: 2026-03-19T10:20
 #heleri/fornecedor
 
 
-- **Descrição:** Empresa especializada em serviço de [[Limpeza Caixa-D'Água]]
+- **Descrição:** Empresa especializada em serviço de [[Limpeza Reservatórios Água]]
 		- **Razão Social:** Limper Limpeza de Cisterna e Caixa D'agua LTDA [cnpj.biz](https://cnpj.biz/14142261000150) / [serasaexperian](https://empresas.serasaexperian.com.br/consulta-gratis/LIMPER-LIMPEZA-DE-CISTERNA-E-CAIXA-DAGUA-LTDA-ME-14142261000150) / [econodata](https://www.econodata.com.br/consulta-empresa/14142261000150-limper-limpeza-de-cisterna-e-caixa-dagua-ltda)
 			- Data da Abertura: **18/08/2011** **14 anos, 7 meses e 1 dia**
 		- **CNPJ:** 14.142.261/0001-50

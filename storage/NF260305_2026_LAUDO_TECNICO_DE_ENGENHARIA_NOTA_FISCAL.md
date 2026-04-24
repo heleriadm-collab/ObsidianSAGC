@@ -7,7 +7,7 @@ created: 2026-03-10T12:08
 
 #documento/nota_fiscal 
 
-- **Empresa:** [[B & G JAMES REFORMAS E CONSTRUCOES LTDA]] ([[Luis Engenheiro técnico-perito]])
+- **Empresa:** [[B & G JAMES REFORMAS E CONSTRUCOES LTDA]] ([[Luis Claudio Engenheiro técnico-perito]])
 		- **CNPJ:** 
 
 - **Valor Total:** R$ 950

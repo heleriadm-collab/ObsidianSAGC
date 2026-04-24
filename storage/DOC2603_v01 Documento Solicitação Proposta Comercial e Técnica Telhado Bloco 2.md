@@ -8,7 +8,8 @@ created: 2026-03-18T17:48
 #documento 
 
 
-- **Descrição:** (1) O documento terá duas partes. **A primeira parte** contendo escopo observando a garantia de finalização de trabalho iniciado e não finalizado pela contratada anterior, e conforme havia sido declarado via contrato [[20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI]].
+- **Descrição:** ==VERSÃO DE DOCUMENTO RECUSADA - SERVE DE BASE COMO RASCUNHO==
+		- (1) O documento terá duas partes. **A primeira parte** contendo escopo observando a garantia de finalização de trabalho iniciado e não finalizado pela contratada anterior, e conforme havia sido declarado via contrato [[20250717_4 CONTRATO - 3 CONDOMÍNIO EDIFICIO HELERI]].
 		- (2) **A segunda parte** conterá itens de escopo trazidos por engenheiro perito, e que não foram observados na proposta original (no documento de contrato que não fora finalizado)
 		- ---
 		- OBS: Os arquivos serão gerados em versões a serem submetidas a aprovação da Síndica para produção da versão final

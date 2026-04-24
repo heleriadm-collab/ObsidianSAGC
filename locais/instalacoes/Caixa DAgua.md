@@ -7,11 +7,16 @@ created: 2026-03-19T10:37
 
 - **Descrição:** 
 
-- **Onde:** [[Andar Cobertura]], [[Bloco 2]]
+- **Onde:** 
+		- (1) [[Andar Cobertura]] 
+		- (2) [[Bloco 2]]
 
 - **Composta por:** 
 
-- **Compõe:** [[Andar Cobertura]], [[Bloco 2]]
+- **Compõe:** 
+		- (1) [[Sistema de Reservatórios de Água]] 
+		- (2) [[Andar Cobertura]]
+		- (3) [[Bloco 2]]
 
 - **Tarefas de Rotina:** 
 

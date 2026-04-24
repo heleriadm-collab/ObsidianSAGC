@@ -18,8 +18,8 @@ summary:
 		- **QUE** número gerado para a denúncia foi ==202680002797==
 		- **QUE** na data de 16/março Eng. do CREA Sr [[Jose Carlos Pingitore Papa]] retornou via e-mail solicitando documentação complementar (vide [[#16 Março 2026 - CREA Solicita Informação Complementar]])
 		- **QUE** também via [[DOC260318 Ofício Circular CREA Denúncia 202680002797 Eng Alexandra MV3 ref Q260313_2156]] , entregue por correspondência, CREA reforça necessidade de documentação complementar
-		- **QUE** Síndica fez entrega dos documentos solicitados, via whatsapp Sr. [[Jose Carlos Pingitore Papa]], porém faltou o documento "ART", da perícia, a ser emitido pelo Eng. [[Luis Engenheiro técnico-perito]] ([[B & G JAMES REFORMAS E CONSTRUCOES LTDA]])
-		- **QUE**  Eng. [[Luis Engenheiro técnico-perito]] informa estar com dificuldades de emitir guia de pagamento via site do CREA
+		- **QUE** Síndica fez entrega dos documentos solicitados, via whatsapp Sr. [[Jose Carlos Pingitore Papa]], porém faltou o documento "ART", da perícia, a ser emitido pelo Eng. [[Luis Claudio Engenheiro técnico-perito]] ([[B & G JAMES REFORMAS E CONSTRUCOES LTDA]])
+		- **QUE**  Eng. [[Luis Claudio Engenheiro técnico-perito]] informa estar com dificuldades de emitir guia de pagamento via site do CREA
 		- **QUE** na sexta-feira dia 27/mar/2026 foi entregue ART do [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]], conforme solicitado pelo CREA
 		- **QUE** na quinta-feira dia 02/abr/2026 é solicitado status ao Sr [[Jose Carlos Pingitore Papa]] (CREA), via [[+55 21 98882-2114 Jose Carlos Pingitore CREA]] (vide )
 

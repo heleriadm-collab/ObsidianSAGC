@@ -23,7 +23,7 @@ summary:
 
 - **Risco:** N/A
 
-- **Onde:** [[Caixa DAgua]], [[Cisterna Garagem]]
+- **Onde:** [[Caixa DAgua]], [[Sistema de Reservatórios de Água]]
 
 - **Termo encerramento:** Encerra-se quando houver decisão à partir das propostas tomadas
 - **Data encerramento:** 

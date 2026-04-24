@@ -15,7 +15,7 @@ certutil -hashfile "DOC260317_Orçamento_Limper_LTDA_Limpeza_Caixa_D_Agua.pdf" m
 - **Descrição:** 
 		- **Arquivo:** DOC260317_Orçamento_Limper_LTDA_Limpeza_Caixa_D_Agua.pdf
 
-- **Objetivo:** (1) executar [[Limpeza Caixa-D'Água]]
+- **Objetivo:** (1) executar [[Limpeza Reservatórios Água]]
 
 - **Motivação:** (1) [[Q260317_1005 Orçamento Limpeza Caixa DAgua]]
 

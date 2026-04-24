@@ -15,7 +15,7 @@ certutil -hashfile "20250717.pdf" md5
 ```
 -->
 
-- **Descrição:** **QUE** na sexta-feira dia 27/03/2026, eng. [[Luis Engenheiro técnico-perito]] informa [[ART - Anotação de Responsabilidade Técnica]] nº **2020260090776**, conforme exigido pelo relator da denúncia em curso no CREA, Eng. [[Jose Carlos Pingitore Papa]]
+- **Descrição:** **QUE** na sexta-feira dia 27/03/2026, eng. [[Luis Claudio Engenheiro técnico-perito]] informa [[ART - Anotação de Responsabilidade Técnica]] nº **2020260090776**, conforme exigido pelo relator da denúncia em curso no CREA, Eng. [[Jose Carlos Pingitore Papa]]
 		- [[ART - Anotação de Responsabilidade Técnica]] emitido em função do laudo [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
 		- **Arquivo:** ` DOC260327_ART_2020260090776_Laudo_Tecnico_Eng_Luis_Claudio.pdf `
 
@@ -23,7 +23,7 @@ certutil -hashfile "20250717.pdf" md5
 
 - **Motivação:** (1) documento em exigência [[Q260313_2156 Denúncia CREA nº 202680002797 - contra Eng Alexandra MV3]]
 
-- **Autor:** (1) [[Luis Engenheiro técnico-perito]]
+- **Autor:** (1) [[Luis Claudio Engenheiro técnico-perito]]
 
 - **Compõe:** (1) [[260303_2026_LAUDO_TECNICO_DE_ENGENHARIA_TIJUCA_HELERI]]
 

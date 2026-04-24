@@ -10,7 +10,7 @@ created: 2026-03-09T19:11
 - **Descrição:** <!-- categoria pode variar (1) servico (2) material (3) projeto (4) servico_e_material -->
 		- **Razão Social:** 
 		- **CNPJ:** 
-		- **Nome Completo:** [[Luis Engenheiro técnico-perito]]
+		- **Nome Completo:** [[Luis Claudio Engenheiro técnico-perito]]
 		- **CPF:** 
 
 - **Endereço:**

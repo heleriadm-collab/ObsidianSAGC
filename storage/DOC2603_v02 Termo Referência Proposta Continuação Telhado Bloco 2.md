@@ -44,6 +44,8 @@ certutil -hashfile "20250717.pdf" md5
 - **Link:** 
 		- (1) versão 02: ` DOC2604_Termo_de_Referência_para_Solicitação_Propostas_Término_Telhado_Bloco_2_v02.pdf `
 		- https://drive.google.com/file/d/1Jl4BJuKHtjbKy2xdJPbkI_h2CsKMyViy/view
+		- (2) docx editável ` DOC2604_Termo_de _eferência_para_Solicitação_Propostas_Término_Telhado_Bloco 2_v02.docx `
+		- https://drive.google.com/file/d/1WXHTL8k8alUrD7CEi11JknGkTK2D1t-B/view
 
 <!-- VIDE https://chatgpt.com/c/69bb0e2d-d22c-8333-8630-c01e7c5c1c9c -->
 

@@ -23,7 +23,9 @@
 | semana 12/2026 | [[diario/2026-03-16.md\|16 MAR]] | [[diario/2026-03-17.md\|17 MAR]] | [[diario/2026-03-18.md\|18 MAR]] |                                  | [[diario/2026-03-20.md\|20 MAR]] |                                  |                                  |
 | semana 13/2026 | [[diario/2026-03-23.md\|23 MAR]] | [[diario/2026-03-24.md\|24 MAR]] | [[diario/2026-03-25.md\|25 MAR]] | [[diario/2026-03-26.md\|26 MAR]] |                                  |                                  |                                  |
 | semana 14/2026 |                                  |                                  |                                  | [[diario/2026-04-02.md\|02 ABR]] |                                  |                                  |                                  |
-| semana 15 2026 |                                  | [[diario/2026-04-07.md\|07 ABR]] |                                  |                                  |                                  |                                  |                                  |
+| semana 15/2026 |                                  | [[diario/2026-04-07.md\|07 ABR]] |                                  | [[diario/2026-04-09.md\|09 ABR]] | [[diario/2026-04-10.md\|10 ABR]] |                                  |                                  |
+| semana 16/2026 |                                  |                                  | [[diario/2026-04-15.md\|15 ABR]] | [[diario/2026-04-16.md\|16 ABR]] | [[diario/2026-04-17.md\|17 ABR]] |                                  |                                  |
+| semana 17/2026 |                                  |                                  | [[diario/2026-04-22.md\|22 ABR]] | [[diario/2026-04-23.md\|23 ABR]] | [[diario/2026-04-24.md\|24 ABR]] |                                  |                                  |
 
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
@@ -41,13 +43,24 @@
 
 # Eventos Relevantes
 
+## SOS Elevadores Realizará Instalação dos Contrapesos
+
+No âmbito da questão [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]], a [[SOS Elevadores]] HAVIA AGENDADO INICIALMENTE início das atividades de ajuste da taragem do elevador (travamento mesmo dentro do limite de peso) na semana 15 de 2026, datas mais prováveis 09 ou 10 de abril. ==No entanto não houve comparecimento conforme planejado==.
+
+Síndica  realizou cobrança à [[SOS Elevadores]] por nova agenda, ao que **foi informada que visita técnica seria realizada na semana 16 (de 12 a 18 abril)**.
+
 ## Captação de Proponentes para Término Obras Telhado Bloco 2
 
-No âmbito da questão [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]], está em fase de finalização a especificação para pedido de propostas ao término das obras [[Telhado Bloco 2]]
+No âmbito da questão [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]], estamos em fase de **CAPTAÇÃO DE PROPOSTAS** ao término das obras [[Telhado Bloco 2]]
+
+
+!!! **SE VOCÊ PREZADO CONDÔMINO E/OU MORADOR, TIVER EMPRESAS A INDICAR SERÁ DE GRANDE AJUDA** !!!
 
 ## Limpeza das 2 Cisternas da Garagem
 
 No âmbito da questão [[Q260317_1005 Orçamento Limpeza Caixa DAgua]], foi ==realizada na semana 14 de 2026==, na data de ==02/04/2026== a limpeza das duas cisternas existentes na garagem.
+
+O serviço foi realizado pela [[Tigre Impermeabilizações E Pequenas Reformas Ltda]]
 
 O planejamento inicial incluía limpeza da [[Caixa DAgua]] no alto do bloco 2, porém não foi possível execução dado que todo o expediente foi gasto na atividade de limpeza das duas cisternas.
 
@@ -164,7 +177,7 @@ As colaborações com as questões em aberto, ou mesmo questões ainda não regi
 
 # 📌 **Base Legal e Deveres do Síndico**
 
-De acordo com a **[Lei nº 10.406/2002 (Código Civil)](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm)**, em seu **[artigo 1.348](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406.htm#art1348)**, o síndico tem o dever de:
+De acordo com a **[Lei nº 10.406/2002 (Código Civil)](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm)**, em seu [LEI Nº 10.406 - Art. 1.348](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406.htm#art1348:~:text=total%20ou%20parcial.-,Se%C3%A7%C3%A3o%20II,-Da%20Administra%C3%A7%C3%A3o%20do), o síndico tem o dever de:
 
 - Diligir a conservação e a guarda das partes comuns;
     
