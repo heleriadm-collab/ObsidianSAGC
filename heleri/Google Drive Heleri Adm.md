@@ -9,6 +9,10 @@ created: 2026-01-25T16:06
 
 **Raiz:** https://drive.google.com/drive/u/6/my-drive
 
+<!--
+Explorer I:\
+Explorer I:\heleri.adm
+-->
 # Pastas
 
 ## Storage
@@ -22,6 +26,7 @@ https://drive.google.com/drive/u/2/folders/1XcSr7U4v5i-w2guVehjPMMLZ6_YnsQho
 ### imgs
 
 https://drive.google.com/drive/u/2/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ
+
 ### NF
 
 https://drive.google.com/drive/u/2/folders/1YrB9NgwS5YUApBKWKXXyup53_v9krbLi

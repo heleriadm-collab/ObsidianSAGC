@@ -69,6 +69,146 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
+- [[2026-04-27.md#14 14 Ato Adm - Cobrança SMM Reformas - Telhado Bloco 2|2026-04-27 > 14 14 Ato Adm - Cobrança SMM Reformas - Telhado Bloco 2]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+- **Registra-se:**
+- **QUE** é feita cobrança a [[SMM Manutenção e Reforma]] acerca do [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]]
+- ... conforme enviado em 09/04/2026 (registro [[2026-04-09#10 22 Ato Adm. - Solicitação de Proposta à SMM - Término Telhado Bloco 2]])
+- ---
+- **Ref.:** [[ato administrativo]], [[Telhado Bloco 2]], [[registro cobrança]]
+
+- [[2026-04-27.md#14 02 Ato Adm - Cobrança Tampa Bueiro Serviços - Leandro Obras Geral|2026-04-27 > 14 02 Ato Adm - Cobrança Tampa Bueiro Serviços - Leandro Obras Geral]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260105_1445 Aquisição de Tampa de Bueiro Hidráulico]]
+- **Registra-se:**
+- **QUE** realiza-se cobrança ao [[Leandro Obras Geral - Referência 301]] acerca de proposta da solução tampa do bueiro
+- ---
+- [14:07, 27/04/2026] LS: Boa tarde Leandro tudo bem?
+- [14:08, 27/04/2026] LS: Essa semana temos reunião de orçamento, queria levar o máximo de cotações para aprovar.
+- [14:08, 27/04/2026] LS: Gostamos muito da sua proposta para reparo do bueiro.
+- [14:08, 27/04/2026] LS: Consegue nos enviar o orçamento?
+- ---
+- **Ref.:** [[ato administrativo]], [[registro cobrança]], [[Entrada da Garagem]], [[Calçada Heleri]]
+
+- [[2026-04-27.md#13 46 Ato Adm - Cobrança Orçamento Guarda-Corpo Grupo Copabomba Manhaes LTDA|2026-04-27 > 13 46 Ato Adm - Cobrança Orçamento Guarda-Corpo Grupo Copabomba Manhaes LTDA]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260422_1234 - Necessidade Guarda-corpo telhado bloco 2]]
+- **Registra-se:**
+- **QUE** foi realizada cobrança a [[Grupo Copabomba Manhaes LTDA]] de posicionamento em relação ao orçamento do [[guarda-corpo]] para [[Telhado Bloco 2]], conforme solicitado em 22/04/2026 ([[2026-04-22#12 35 Fato Adm. - Contato Grupo Copabomba - Especialistas em Guarda corpo]])
+- ... aguardando resposta...
+- ---
+- **Ref.:** [[ato administrativo]], [[registro cobrança]]
+
+- [[2026-04-27.md#13 38 Ato Adm - Cobrança Posição da Gomes Conservação Predial|2026-04-27 > 13 38 Ato Adm - Cobrança Posição da Gomes Conservação Predial]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+- **Registra-se:**
+- **QUE** foi realizada cobrança a [[Gomes Carvalho Conservação Predial]] de posicionamento em relação ao [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]],
+- ... e conforme visita técnica realizada em 20/04/2026 (registro [[2026-04-20#09 00 Ato Adm. - Visita Gomes Carvalho Conservação Predial]])
+- ---
+- [13:40, 27/04/2026] LS: Boa tarde Sr. Carlos, tudo bem?
+- [13:41, 27/04/2026] LS: O sr. necessita de maiores detalhes sobre o Telhado do Edifício Heleri? Para redação de proposta comercial?
+- [13:41, 27/04/2026] LS: Temos um escopo de instalação da escada de segurança, que precisa fazer parte da proposta.
+- [13:42, 27/04/2026] LS: Trouxeram essa dúvida, então fiz um vídeo especificamente dessa parte para explicar que também será necessária a escada.
+- Altura da parede
+- 3,10m
+- Altura escada marinheiro
+- 3,90m
+- Largura escada
+- 37cm
+- Largura parede escada
+- 85,5cm
+- ---
+- ... aguardando resposta ...
+- ---
+- **Ref.:** [[ato administrativo]], [[registro cobrança]]
+
+- [[2026-04-27.md#13 37 Ato Adm - Cobrança Posição da JJ Serviços Impermeabilização|2026-04-27 > 13 37 Ato Adm - Cobrança Posição da JJ Serviços Impermeabilização]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+- **Registra-se:**
+- **QUE** foi realizada cobrança a [[JJ SERVIÇOS DE IMPERMEABILIZAÇÃO LTDA]] de posicionamento em relação ao [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]]
+- [13:36, 27/04/2026] LS: Prezados, preciso saber se vocês têm interesse de participarem como proponentes do Termo de Referência enviado
+- [13:36, 27/04/2026] LS: A Síndica do Condomínio Heleri, realizou serviço pela Tigre, e segundo fora informada, vocês teriam interesse.
+- [13:36, 27/04/2026] LS: Porém ainda não obtive o retorno.
+- ---
+- ... aguardando resposta...
+- ---
+- **Ref.:** [[ato administrativo]], [[registro cobrança]]
+
+- [[2026-04-25.md#17 19 Ato Adm - Remoção de Lixo - Sr Valdeci|2026-04-25 > 17 19 Ato Adm - Remoção de Lixo - Sr Valdeci]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1)  [[Q260423_2044 Retirada Lixo Acumulado - Ausência Zelador Período 1 semana]]
+- **Registra-se:**
+- **QUE** fora contratado serviço extraordinário e emergencial do Sr [[Valdeci Felix Henrique - Prédio 26]] para retirada do lixo em caráter emergencial
+- **QUE** sr. Valdeci cobrou o valor de R$ 50 pela realização do serviço
+- **QUE** pagamento foi realizado em pix, por [[Leonardo 402]], sob ciência e autorização expressa da [[Síndica]]
+- ... **sob comprovante de pagamento**  [[NF260425_Serviço_Retirada_Lixo_Sr_Valdeci]]
+- **QUE** atualiza-se planilha de controle [[Planilha_Controle_Despesas_v2601_1]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro despesa]], [[Retirada do Lixo]], [[Processo Reembolso]]
+- https://drive.google.com/file/d/1eq3CIWDtvJvHWYUdv3Ll-IVZuoFICsgs/view
+- <iframe src="https://drive.google.com/file/d/1eq3CIWDtvJvHWYUdv3Ll-IVZuoFICsgs/preview" width="640" height="480"></iframe>
+
+- [[2026-04-24.md#17 03 Ato Adm - Visita Técnica - Verificação Telhado Bloco 2 - Lohan Construções|2026-04-24 > 17 03 Ato Adm - Visita Técnica - Verificação Telhado Bloco 2 - Lohan Construções]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+- **Registra-se:**
+- **QUE** a proponente [[Lohan Construções e Reforma]] em resposta ao [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]], realiza visita para inspeção do [[Telhado Bloco 2]]
+- **QUE** [[Leonardo 402]] acompanha até o local e esclarece dúvidas acerca do termo de referência
+- ---
+- **Ref.:** [[ato administrativo]], [[registro verificação]], [[registro inspeção]], [[Obras Telhado BL2]], [[Telhado Bloco 2]]
+
+- [[2026-04-24.md#14 32 Ato Adm - Gestão Heleri - Q260112_1654 - Travamento do Elevador|2026-04-24 > 14 32 Ato Adm - Gestão Heleri - Q260112_1654 - Travamento do Elevador]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]]
+- **Registra-se:**
+- **QUE** [[SOS Elevadores]] compareceu para efetuar instalação dos pesos, dado que na última visita não foi possível porque as dimensões do peso não possibilitaram a instalação
+- **QUE** após troca foi realizado teste com 4 pessoas adultas, dentre os quais a [[Síndica]] estava presente
+- **QUE** elevador subiu e desceu **SEM APRESENTAR TRAVAMENTOS**
+- **QUE** a capacidade **nominal e efetiva** do elevador **agora são iguais, e portanto 300 kg**
+- ---
+- **QUE** [[Síndica]] dá publicidade via [[Grupo Whatsapp Condomínio Heleri]]
+- [13:48, 24/04/2026] Ana Tereza: Prezados,  boa tarde
+- [13:48, 24/04/2026] Ana Tereza: A SOS elevadores vai fazer testes com peso e por isso o elevador vai ficar em manutenção
+- [14:47, 24/04/2026] Ana Tereza: A SOS elevadores concluí os testes e aparentemente o problema de travamento foi resolvido. O elevador voltou a poder movimentar a sua carga máxima (300 kg ou 4 pessoas).
+- [14:47, 24/04/2026] Ana Tereza: O Elevador está liberado.
+- ---
+- **QUE** ==declara-se== questão [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]] ==encerrada==
+- ---
+- **Ref.:** [[ato administrativo]], [[registro manutenção]], [[registro verificação]], [[Elevador]], [[Sistema de Elevador]]
+- [14:48, 24/04/2026] Ana Tereza: Registrar visita da SOS elevadores com a inclusão de 2 pesos para ajuste de taragem e solução de problemas de travamento.
+- [14:49, 24/04/2026] Ana Tereza: A SOS elevadores concluí os testes e aparentemente o problema de travamento foi resolvido. O elevador voltou a poder movimentar a sua carga máxima (300 kg ou 4 pessoas).
+
+- [[2026-04-24.md#12 20 Ato Adm - JBSF Impermeabilização solicita esclarecimento sobre Escada Marinheiro|2026-04-24 > 12 20 Ato Adm - JBSF Impermeabilização solicita esclarecimento sobre Escada Marinheiro]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:**
+- (1) [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+- (2) esclarecimento de escopo contido no [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]]
+- (3) [[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]] incorporada ao escopo [[Obras Telhado BL2]]
+- (4) [[Q260105_2324 Calha Sobre Cobertura 01 Causa Infiltração]] incorporada ao escopo [[Obras Telhado BL2]]
+- **Registra-se:**
+- **QUE** proponente [[JBSF Impermeabilização]] solicita maiores detalhes sobre [[escada de marinheiro - desc. telhado bl 2]]
+- **QUE** [[Leonardo 402]] realiza medições e registro de vídeo da escada e declaração referente ao escopo [[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro inspeção]], [[registro esclarecimento]], [[Cobertura 01]], [[Telhado Bloco 2]]
+- **24/04/2026 - Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada - Parte I**
+- https://youtube.com/shorts/XkD3MKGhkuk?feature=share
+- <iframe width="482" height="857" src="https://www.youtube.com/embed/XkD3MKGhkuk" title="24/04/2026 - Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- **24/04/2026 - Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada - Parte II**
+- https://youtube.com/shorts/FkMCNbDha54?feature=share
+- <iframe width="482" height="857" src="https://www.youtube.com/embed/FkMCNbDha54" title="24/04/2026 - Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada - Parte II" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-
+
+- [[2026-04-24.md#12 16 Ato Adm - Gestão Heleri|2026-04-24 > 12 16 Ato Adm - Gestão Heleri]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:** (1) registro questão de prerrogativa
+- **Registra-se:**
+- [[PR260424 Questão Prerrogativa.mdenc]]
+- ---
+- **Ref.:** [[ato administrativo]], [[prerrogativa administração]]
+
 - [[2026-04-24.md#10 26 Ato Adm - Dúvidas Proponente SMM Manutenção e Reforma|2026-04-24 > 10 26 Ato Adm - Dúvidas Proponente SMM Manutenção e Reforma]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** (1) [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
@@ -86,7 +226,13 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **QUE** dessa forma [[Leonardo 402]] realiza retirada do lixo da lixeira para calçada, para recolhimento pela [[COMLURB]]
 - **QUE** [[Duto da Lixeira]] fica liberado para novos descartes
 - ---
-- **Ref.:** [[ato administrativo]], [[registro pro-bono]], [[Lixeira]], [[Retirada do Lixo]]
+- **QUE** para fins de acompanhamento, registra-se como questão [[Q260423_2044 Retirada Lixo Acumulado - Ausência Zelador Período 1 semana]]
+- **Quem:** (1) ausência sr [[Rogerio Zelador]] por motivos de saúde
+- **Quando:** semana 17 de 2026
+- **Onde:** (1) [[Lixeira]] (2) [[Duto da Lixeira]]
+- **Por quê:** acúmulo lixo acima da capacidade suportada
+- ---
+- **Ref.:** [[ato administrativo]], [[registro pro-bono]], [[Lixeira]], [[Retirada do Lixo]], [[registro questão]]
 
 - [[2026-04-23.md#10 16 Ato Adm - Dúvidas Proponente JBSF|2026-04-23 > 10 16 Ato Adm - Dúvidas Proponente JBSF]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
@@ -97,11 +243,23 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - ---
 - **Ref.:** [[ato administrativo]], [[registro levantamento]], [[Telhado Bloco 2]], [[registro reunião]]
 
+- [[2026-04-22.md#15 49 Fato Adm - Atestado Médico - Rogério - 4 dias|2026-04-22 > 15 49 Fato Adm - Atestado Médico - Rogério - 4 dias]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Motivação:** (1) justifica [[Q260423_2044 Retirada Lixo Acumulado - Ausência Zelador Período 1 semana]]
+- **Registra-se:**
+- **QUE** pede registrar atestado [[DOC260422_Atestado_Medico_Rogerio_4_dias]]
+- ---
+- **Ref.:** [[fato administrativo]], [[gestão pessoal]]
+- [11:42, 22/04/2026] Ana Tereza: Registrar atestado do Rogerio para 20/04/2026
+- [11:43, 22/04/2026] Ana Tereza: Registrar atestado do Rogerio para 22/04/2026 - duração 4 dias
+- https://drive.google.com/file/d/1Z4TuKlQyYnNVnfRc_l3Le0bUw5NuPvLw/view
+- <iframe src="https://drive.google.com/file/d/1Z4TuKlQyYnNVnfRc_l3Le0bUw5NuPvLw/preview" width="640" height="480"></iframe>
+
 - [[2026-04-22.md#12 35 Fato Adm - Contato Grupo Copabomba - Especialistas em Guarda corpo|2026-04-22 > 12 35 Fato Adm - Contato Grupo Copabomba - Especialistas em Guarda corpo]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
 - **Motivação:** (1) [[Q260422_1234 - Necessidade Guarda-corpo telhado bloco 2]]
 - **Registra-se:**
-- **QUE** foi realizado contato para pedido de orçamento ao [[Grupo Copabomba]] via telefone e whatsapp +55 21 97126-0011
+- **QUE** foi realizado contato para pedido de orçamento ao [[Grupo Copabomba Manhaes LTDA]] via telefone e whatsapp +55 21 97126-0011
 - ---
 - **Ref.:** [[fato administrativo]], [[registro solicitação]]
 - ---
@@ -181,6 +339,19 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Registra-se:** [08:28, 22/04/2026] LS: Faltou luz
 - ---
 - **Ref.:** [[registro incidente]]
+
+- [[2026-04-20.md#15 59 Fato Adm - Registro Atestado Médico|2026-04-20 > 15 59 Fato Adm - Registro Atestado Médico]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Motivação:** (1) [[gestão pessoal]]
+- **Registra-se:**
+- **QUE** pede registrar atestado [[DOC260420_Atestado_Medico_Rogerio_1_dia]]
+- ---
+- **Ref.:** [[fato administrativo]]
+- [11:42, 22/04/2026] Ana Tereza: Registrar atestado do Rogerio para 20/04/2026
+- [11:43, 22/04/2026] Ana Tereza: Registrar atestado do Rogerio para 22/04/2026 - duração 4 dias
+- ---
+- https://drive.google.com/file/d/1xSGOHfKlLWbSZ0tIGx-b7T6_rzRDPNyk/view
+- <iframe src="https://drive.google.com/file/d/1xSGOHfKlLWbSZ0tIGx-b7T6_rzRDPNyk/preview" width="640" height="480"></iframe>
 
 - [[2026-04-20.md#14 02 Fato Adm - Medição Relógio de Gás|2026-04-20 > 14 02 Fato Adm - Medição Relógio de Gás]]: 
     - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..

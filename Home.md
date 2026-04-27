@@ -25,7 +25,8 @@
 | semana 14/2026 |                                  |                                  |                                  | [[diario/2026-04-02.md\|02 ABR]] |                                  |                                  |                                  |
 | semana 15/2026 |                                  | [[diario/2026-04-07.md\|07 ABR]] |                                  | [[diario/2026-04-09.md\|09 ABR]] | [[diario/2026-04-10.md\|10 ABR]] |                                  |                                  |
 | semana 16/2026 |                                  |                                  | [[diario/2026-04-15.md\|15 ABR]] | [[diario/2026-04-16.md\|16 ABR]] | [[diario/2026-04-17.md\|17 ABR]] |                                  |                                  |
-| semana 17/2026 |                                  |                                  | [[diario/2026-04-22.md\|22 ABR]] | [[diario/2026-04-23.md\|23 ABR]] | [[diario/2026-04-24.md\|24 ABR]] |                                  |                                  |
+| semana 17/2026 |                                  |                                  | [[diario/2026-04-22.md\|22 ABR]] | [[diario/2026-04-23.md\|23 ABR]] | [[diario/2026-04-24.md\|24 ABR]] | [[diario/2026-04-25.md\|25 ABR]] |                                  |
+| semana 18/2026 | [[diario/2026-04-27.md\|27 ABR]] |                                  |                                  |                                  |                                  |                                  |                                  |
 
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
