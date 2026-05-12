@@ -9,7 +9,7 @@ created: 2026-01-06T13:16
 [[fornecedores/Light - fornecedora]]
 [[fornecedores/CEDAE Águas do Rio - fornecedora]]
 [[fornecedores/Empresa Manutenção Elevadores]]
-[[fornecedores/Empresa Manutenção Interfone]]
+[[Marjor Seguranca Eletronica]]
 [[fornecedores/Empresa Manutenção Bombas]]
 [[fornecedores/Empresa Material Limpeza]]
 [[fornecedores/Administradora Apolo]]

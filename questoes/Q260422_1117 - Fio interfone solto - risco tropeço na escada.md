@@ -18,14 +18,14 @@ summary:
 
 - **Custo:** N/A
 
-- **Quem:** (1) fio de interfone endereçar à [[Empresa Manutenção Interfone]]
+- **Quem:** (1) fio de interfone endereçar à [[Marjor Seguranca Eletronica]]
 
 - **Risco:** (1) tropeço na escada devido ao enganchar pé no fio solto
 
 - **Onde:** (1) [[Portaria Interna]] (2) [[Porta Vidro Principal]] 
 
 - **Termo encerramento:** quando o fio não passar mais por depois da porta de vidro
-- [ ] comunicar [[Empresa Manutenção Interfone]] e verificar se cabe orçamento
+- [ ] comunicar [[Marjor Seguranca Eletronica]] e verificar se cabe orçamento
 - [ ] agendar a manutenção
 - **Data encerramento:** 
 

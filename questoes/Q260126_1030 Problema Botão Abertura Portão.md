@@ -13,7 +13,7 @@ summary:
 
 - **Descrição:** conforme registrado em [[2026-01-26#10 30 Questão - Heleri - Problema Botão Abertura Portão]]
 		- **QUE** [[Sistema Interfone]] está com problemas. Que botões pararam de funcionar ([[Botão Portão-Interno]]/[[Botão Portão-Externo]])
-		- **QUE** [[Síndica]] aciona [[Empresa Manutenção Interfone]] e solicita urgência
+		- **QUE** [[Síndica]] aciona [[Marjor Seguranca Eletronica]] e solicita urgência
 
 - **Motivação:** **QUE** [[Sistema Interfone]] está com problemas. Que botões pararam de funcionar ([[Botão Portão-Interno]]/[[Botão Portão-Externo]])
 		- ...
@@ -26,7 +26,7 @@ summary:
 
 - **Onde:** [[Portão Entrada]], [[Porta Vidro Principal]], [[Sistema Interfone]]
 
-- **Termo encerramento:** **QUE** por volta de 11:30 foi recebida visita da [[Empresa Manutenção Interfone]], que realizou reparo
+- **Termo encerramento:** **QUE** por volta de 11:30 foi recebida visita da [[Marjor Seguranca Eletronica]], que realizou reparo
 
 
 

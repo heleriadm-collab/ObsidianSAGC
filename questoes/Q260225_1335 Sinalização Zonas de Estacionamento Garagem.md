@@ -14,6 +14,7 @@ summary:
 
 - **Descrição:** **QUE** para esclarecimentos e visão das zonas de estacionamento da garagem, e clareza a todos usuários, faz-se necessário sinalização dos pontos passíveis de estacionamento
 		- **QUE** o local da garagem conjuga instalações que necessitam de cuidado extra, tal como a cisterna que deve evitar risco de contaminação da água, evitando-se, por exemplo, exposição a óleo automotivo, ou água resíduo proveniente dos veículos
+		- **QUE** pelo motivo da garagem possuir espaço limitado, deve haver garantia das posições de manobra e trânsito
 
 - **Motivação:** 
 

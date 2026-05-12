@@ -69,6 +69,169 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 
 <!-- QueryToSerialize: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
 <!-- SerializedQuery: LIST rows.L.text FROM #diario_heleri  WHERE file.lists  AND year = this.year FLATTEN file.lists as L GROUP BY L.section as Secao SORT Secao DESC LIMIT 500 -->
+- [[2026-05-12.md#19 04 Despesa - Compra de Lâmpadas|2026-05-12 > 19 04 Despesa - Compra de Lâmpadas]]: 
+    - [[Gestão Condominial do Heleri]], segue **despesa** ...
+- **Motivação:** (1) [[Q260512_0912 Iluminação - Troca Lâmpadas]]
+- **Registra-se:**
+- **QUE** foi adquirido(a) "_lâmpadas para troca na iluminação do andar portaria_"
+- ... **sob nota fiscal**  [[NF260509_Lampadas_Troca_Q260512_0912]]
+- **QUE** atualiza-se planilha de controle [[Planilha_Controle_Despesas_v2601_1]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro despesa]], (1) [[Garagem]], (2) [[Hall Pilotis]], (3) [[Portaria Interna]], [[Andar Portaria]]
+- https://drive.google.com/file/d/1vshKo_AKHeUcUG9ogMY-EqUUyTzfKg0Y/view
+- <iframe src="https://drive.google.com/file/d/1vshKo_AKHeUcUG9ogMY-EqUUyTzfKg0Y/preview" width="640" height="480"></iframe>
+
+- [[2026-05-12.md#13 07 Fato Adm - Sinalização Zonas Estacionamento|2026-05-12 > 13 07 Fato Adm - Sinalização Zonas Estacionamento]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Motivação:** (1) registro de necessidade
+- **Registra-se:**
+- **QUE** registra-se episódio de fomento a questão [[Q260225_1335 Sinalização Zonas de Estacionamento Garagem]]
+- **QUE** houve ocupação da zona de manobra na garagem entre posição 07 e posição 04 (referência [[Garagem#Numeração vagas]])
+- ---
+- **Ref.:** [[fato administrativo]], [[registro episódio]]
+- https://drive.google.com/file/d/1IUIIS1Uchbky4NEn1wqo2SVOSvz3JBUL/preview
+- <iframe src="https://drive.google.com/file/d/1IUIIS1Uchbky4NEn1wqo2SVOSvz3JBUL/preview" width="640" height="480"></iframe>
+- https://drive.google.com/file/d/1kxFZy-ozhy1o3eCgsLUbAXzYWi1O-E0q/view
+- <iframe src="https://drive.google.com/file/d/1kxFZy-ozhy1o3eCgsLUbAXzYWi1O-E0q/preview" width="640" height="480"></iframe>
+
+- [[2026-05-12.md#09 02 Ato Adm - Inspeção Iluminação Andar Portaria|2026-05-12 > 09 02 Ato Adm - Inspeção Iluminação Andar Portaria]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Registra-se:**
+- **QUE** na data do domingo dia 10/05 às 18:36, [[Síndica]] solicita inspeção da iluminação no [[Andar Portaria]]
+- **QUE** verifica-se 2 lâmpadas queimadas no [[Hall Pilotis]]
+- **QUE** verifica-se 4 lâmpadas queimadas na [[Garagem]]
+- **QUE** verifica-se 1 lâmpada queimada na [[Portaria Interna]]
+- **QUE** verifica-se iluminação não funcionando na [[Lixeira]]
+- **QUE** verifica-se sensor de presença danificado na posição das vagas 09, 10, 11 (vide [[Garagem#Numeração vagas]])
+- ---
+- **QUE** fica registrada questão [[Q260512_0912 Iluminação - Troca Lâmpadas]] para lâmpadas queimadas
+- **Quando:** levantamento 10/05/2026
+- **Onde:** (1) [[Garagem]], (2) [[Hall Pilotis]], (3) [[Portaria Interna]] (4) [[Lixeira]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro inspeção]], [[registro questão]]
+- **Hall pilotis**
+- https://drive.google.com/file/d/11Ljw8KPjJB7uc2BwRWZS5Xe_L8y-8Uv-/view?usp=sharing
+- <iframe src="https://drive.google.com/file/d/11Ljw8KPjJB7uc2BwRWZS5Xe_L8y-8Uv-/preview" width="640" height="480"></iframe>
+- ...
+- https://drive.google.com/file/d/15kCBcyceYYHn0XF51d6XjNDZGme_hcPX/view?usp=sharing
+- <iframe src="https://drive.google.com/file/d/15kCBcyceYYHn0XF51d6XjNDZGme_hcPX/preview" width="640" height="480"></iframe>
+- **Portaria interna**
+- https://drive.google.com/file/d/1HyFKcGsAGsSkokIXlZpdPwVH-bWMFIn4/view
+- <iframe src="https://drive.google.com/file/d/1HyFKcGsAGsSkokIXlZpdPwVH-bWMFIn4/preview" width="640" height="480"></iframe>
+- **Garagem**
+- https://drive.google.com/file/d/11b5jOzWJ9LlWW-AGc7QGp0IvkiBydfjc/view?usp=sharing
+- <iframe src="https://drive.google.com/file/d/11b5jOzWJ9LlWW-AGc7QGp0IvkiBydfjc/preview" width="640" height="480"></iframe>
+- https://drive.google.com/file/d/1aos_7ZEpAXJE46CESyvVE7lOkGw_34O6/view?usp=sharing
+- <iframe src="https://drive.google.com/file/d/1aos_7ZEpAXJE46CESyvVE7lOkGw_34O6/preview" width="640" height="480"></iframe>
+- **Lixeira**
+- https://drive.google.com/file/d/1rkMvP1IQCrd8E8dQVbCjoDRH5usHrXZu/view
+- <iframe src="https://drive.google.com/file/d/1rkMvP1IQCrd8E8dQVbCjoDRH5usHrXZu/preview" width="640" height="480"></iframe>
+
+- [[2026-05-11.md#17 17 Fato Adm - Contato Solicita Informações Termo Referência Telhado Bloco 2|2026-05-11 > 17 17 Fato Adm - Contato Solicita Informações Termo Referência Telhado Bloco 2]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Motivação:**
+- (1) visita no âmbito [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+- **Registra-se:**
+- **QUE** para entendimento das questões do [[Telhado Bloco 2]], e [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]], entrou em contato "Marco Antonio Engenheiro", via telefone/whatsapp +55 21 98084-3379
+- **QUE** a indicação foi feita por [[Gabriel Oliveira - indicação Sandro Delphos]]
+- **QUE** foi solicitado dados cadastrais da empresa
+- **QUE** foi agendada visita ao telhado na quinta-feira dia 14/05/2026
+- ---
+- [09:57, 11/05/2026] Marco Antonio - Engenharia Proponente: Bom dia Aguardando o agendamento. Obg.
+- [12:50, 11/05/2026] LS: Você teria disponibilidade amanhã 15:00? (condicionado a não estar chovendo)
+- [14:39, 11/05/2026] Marco Antonio - Engenharia Proponente: Boa tarde
+- Existe sim essa possibilidade,
+- Vou me programar para esse   agendamento.
+- [16:45, 11/05/2026] LS: Ok. No aguardo do retorno, para informar morador e organizar aqui agenda do expediente
+- [17:02, 11/05/2026] Marco Antonio - Engenharia Proponente: Boa tarde
+- Verifiquei com meu ADM.e só terei disponibilidade para quinta feira,pode ser parte da tarde.
+- Obg.
+- ---
+- **Ref.:** [[fato administrativo]]
+
+- [[2026-05-11.md#16 28 Fato Adm - Recebemos Orçamento Gomes Carvalho - Continuar Obras Telhado Bloco 2|2026-05-11 > 16 28 Fato Adm - Recebemos Orçamento Gomes Carvalho - Continuar Obras Telhado Bloco 2]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Motivação:** (1) [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+- **Registra-se:**
+- **QUE** na data de 28/04/2026 recebemos, via e-mail [[heleri.adm@gmail.com - conta]], proposta da [[Gomes Carvalho Conservação Predial]], assinada por [[Carlos Alberto - Gomes Conservação Predial]]
+- **QUE** valor da proposta ficou em R$ 83.500,00 ( oitenta  e tres mil e quinhentos reais)
+- **QUE** registramos a proposta e anexo em [[DOC260428_Orçamento_Gomes_Carvalho_Telhado_Bloco2_COND_Heleri]]
+- ---
+- **Ref.:** [[fato administrativo]], [[registro orçamento]]
+- https://drive.google.com/file/d/1g2lHI2WVuO7GDP826sqZJhqJq_MDe_pP/view
+- <iframe src="https://drive.google.com/file/d/1g2lHI2WVuO7GDP826sqZJhqJq_MDe_pP/preview" width="640" height="480"></iframe>
+- ... e relação de referências ...
+- https://drive.google.com/file/d/1x2S_u-C-RsNVKOqmMFboqE7Oe4JPCxII/view
+- <iframe src="https://drive.google.com/file/d/1x2S_u-C-RsNVKOqmMFboqE7Oe4JPCxII/preview" width="640" height="480"></iframe>
+
+- [[2026-05-08.md#16 01 Ato Adm - Visita Inspeção Telhado Bloco 2|2026-05-08 > 16 01 Ato Adm - Visita Inspeção Telhado Bloco 2]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:**
+- (1) visita no âmbito [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+- **Registra-se:**
+- **QUE** recebemos visita da proponente [[Wellington - indicação Sandro Delphos]]
+- **QUE** visita foi em função do envio do [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]]
+- **QUE** acompanhou na inspeção ao [[Telhado Bloco 2]], [[Leonardo 402]]
+- ---
+- **Ref.:** [[ato administrativo]], [[registro inspeção]]
+
+- [[2026-05-08.md#15 40 Fornecedor - Empresa do Eng Wellington|2026-05-08 > 15 40 Fornecedor - Empresa do Eng Wellington]]: 
+    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
+- **Motivação:** alimentar base de fornecedores
+- **Registra-se:**
+- fornecedor [[Wellington - indicação Sandro Delphos]]
+- **QUE** foram solicitadas informações cadastrais
+- ---
+- **Ref.:** [[ato administrativo]], [[registro fornecedor]]
+
+- [[2026-05-07.md#19 00 Ato Adm - Reunião Conselho|2026-05-07 > 19 00 Ato Adm - Reunião Conselho]]: 
+    - Em [[Gestão Condominial do Heleri]], segue registro de ato..
+- **Motivação:**
+- (1) [[Q260224_1453 Análise Orçamentária e Custos]]
+- (2) Portfolio serviços administradora
+- **Registra-se:**
+- De QEM, na atribuição de POSIÇÃO
+- QUE
+- ---
+- **Ref.:** [[ato administrativo]]
+
+- [[2026-04-29.md#14 26 Fornecedor - Engenheiro Wellington - indicação Sandro|2026-04-29 > 14 26 Fornecedor - Engenheiro Wellington - indicação Sandro]]: 
+    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
+- **Motivação:** alimentar base de fornecedores
+- **Registra-se:**
+- **QUE** [[Síndica]] solicita cadastrar novos fornecedores candidatos a proponentes da [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]]
+- fornecedor [[Wellington - indicação Sandro Delphos]] do telefone +55 21 986148739
+- ---
+- aguardando resposta
+- ---
+- [08:48, 29/04/2026] Ana Tereza: Indicado do Sandro da Delphos para obra do telhado : Wellington 21 986148739 Esse também foi indicação do Sandro para o telhado.
+- ---
+- **Ref.:** [[ato administrativo]], [[registro fornecedor]]
+
+- [[2026-04-29.md#14 22 Fornecedor - Engenheiro Gabriel Oliveira - indicação Sandro|2026-04-29 > 14 22 Fornecedor - Engenheiro Gabriel Oliveira - indicação Sandro]]: 
+    - Em [[Gestão Condominial do Heleri]], cadastra-se ...
+- **Motivação:** (1) alimentar base de fornecedores
+- **Registra-se:**
+- **QUE** [[Síndica]] solicita cadastrar novos fornecedores candidatos a proponentes da [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]]
+- fornecedor [[Gabriel Oliveira - indicação Sandro Delphos]] do telefone +55 21 96598-8511
+- ---
+- **QUE** Gabriel Oliveira comunicou interesse de receber termo de referência e analisar visita técnica
+- **QUE** foi enviado ao Gabriel, por whatsapp número +55 21 96598-8511
+- (1) [[DOC2603_v02 Termo Referência Proposta Continuação Telhado Bloco 2]]
+- (2) vídeo 1 de 2 e...
+- (3) ... vídeo 2 de 2 [[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]]
+- ---
+- [08:47, 29/04/2026] Ana Tereza: Indicação do Sandro para obra do telhado.
+- ---
+- **Ref.:** [[ato administrativo]], [[registro fornecedor]], [[registro solicitação]]
+
+- [[2026-04-27.md#16 26 Fato Adm - Registra-se Flutuação de Energia|2026-04-27 > 16 26 Fato Adm - Registra-se Flutuação de Energia]]: 
+    - No âmbito da [[Gestão Condominial do Heleri]], segue registro de fato..
+- **Registra-se:**
+- **QUE** houve oscilação de energia que parou momentaneamente o elevador
+- ---
+- **Ref.:** [[fato administrativo]], [[Light - fornecedora]]
+
 - [[2026-04-27.md#14 14 Ato Adm - Cobrança SMM Reformas - Telhado Bloco 2|2026-04-27 > 14 14 Ato Adm - Cobrança SMM Reformas - Telhado Bloco 2]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
 - **Motivação:** (1) [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
@@ -150,6 +313,34 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Ref.:** [[ato administrativo]], [[registro despesa]], [[Retirada do Lixo]], [[Processo Reembolso]]
 - https://drive.google.com/file/d/1eq3CIWDtvJvHWYUdv3Ll-IVZuoFICsgs/view
 - <iframe src="https://drive.google.com/file/d/1eq3CIWDtvJvHWYUdv3Ll-IVZuoFICsgs/preview" width="640" height="480"></iframe>
+
+- [[2026-04-24.md#18 37 Despesa - Consultoria Técnica - Análise Problemas Identificados|2026-04-24 > 18 37 Despesa - Consultoria Técnica - Análise Problemas Identificados]]: 
+    - [[Gestão Condominial do Heleri]], segue **despesa** ...
+- **Motivação:**
+- (1) visita técnica feita por [[Luis Claudio Engenheiro técnico-perito]] em 09/abr/2026 (registros [[2026-04-09#10 36 Ato Adm. - Q260131_0855 - Infiltração 401 - Visita Eng Luis Claudio]])
+- Visita cobriu análise de questões potenciais para execução do [[Fundo Ordinário de Manutenção]]
+- (1) [[Q260131_0855 Infiltração apartamento 401]]
+- (2) avarias na parede da entrada de serviço ([[Q260415_1726 Risco Queda Parede Entrada Serviço]])
+- (3) [[Q260201_1312 Fissura Parede Interna na Lixeira]]
+- (4) avarias nas paredes do [[Terraço]]
+- (5) [[Q260201_1312 Fissura Parede Interna na Lixeira]]
+- (6) [[Q260415_1743 Colunas das Garagens Com Avarias e Exposição Ferragens]]
+- **Registra-se:**
+- **QUE** pelo serviço de inspeção técnica e consultoria realizado na data de 09/abr/2026, e conforme registros [[2026-04-09#10 36 Ato Adm. - Q260131_0855 - Infiltração 401 - Visita Eng Luis Claudio]], registra-se nota fiscal referente serviço prestado
+- ... **sob nota fiscal**  [[NF260419_BeJames_Reformas_e_Construcoes_Servico_Analise_Tecnica]]
+- **QUE** cobrança é endereçada para pagamento via [[Administradora Apolo]]
+- **QUE** valor do serviço foi de R$ 250
+- ---
+- **Ref.:** [[ato administrativo]], [[registro despesa]]
+- [16:07, 27/04/2026] Ana Tereza: Registrar recebimento de nota fiscal perito em 24/04/2026
+- ...
+- **Nota fiscal**
+- https://drive.google.com/file/d/1Nxuwc0qI5HO_Z0ai-bgizhM7AYoYiZns/view
+- <iframe src="https://drive.google.com/file/d/1Nxuwc0qI5HO_Z0ai-bgizhM7AYoYiZns/preview" width="640" height="480"></iframe>
+- ...
+- **Pedido Pagamento**
+- https://drive.google.com/file/d/17J0eDFIRY-JeNO9o0eVrT9HfwrbTtjTK/view
+- <iframe src="https://drive.google.com/file/d/17J0eDFIRY-JeNO9o0eVrT9HfwrbTtjTK/preview" width="640" height="480"></iframe>
 
 - [[2026-04-24.md#17 03 Ato Adm - Visita Técnica - Verificação Telhado Bloco 2 - Lohan Construções|2026-04-24 > 17 03 Ato Adm - Visita Técnica - Verificação Telhado Bloco 2 - Lohan Construções]]: 
     - Em [[Gestão Condominial do Heleri]], segue registro de ato..
@@ -291,7 +482,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
     - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260422_1117 - Fio interfone solto - risco tropeço na escada]]
 - **Descrição:**
 - **QUE** foi verificado fio solto e que sujeita moradores e pessoas a tropeços na beira da escada da portaria
-- **Quem:** (1) fio de interfone endereça à [[Empresa Manutenção Interfone]]
+- **Quem:** (1) fio de interfone endereça à [[Marjor Seguranca Eletronica]]
 - **Onde:** (1) [[Portaria Interna]] (2) [[Porta Vidro Principal]]
 - **Por quê:** (1) expõe moradores e pessoas a risco de tropeço na escada
 - ---
@@ -2314,7 +2505,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
     - No âmbito da [[Gestão Condominial do Heleri]], fica registrada questão [[Q260126_1030 Problema Botão Abertura Portão]]
 - **Descrição:**
 - **QUE** [[Sistema Interfone]] está com problemas. Que botões pararam de funcionar ([[Botão Portão-Interno]]/[[Botão Portão-Externo]])
-- **QUE** [[Síndica]] aciona [[Empresa Manutenção Interfone]] e solicita urgência
+- **QUE** [[Síndica]] aciona [[Marjor Seguranca Eletronica]] e solicita urgência
 - **Registro acionamento:** ...
 - [07:58, 26/01/2026] Ana: Olá Marcelo,  bom dia!
 - [07:58, 26/01/2026] Ana: Estamos com o portão da entrada sem conseguir abrir pelo interfone ou pelos botões.
@@ -2322,7 +2513,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - [10:58, 26/01/2026] Marcello Interfones: Daqui a pouco, faremos a visita
 - [11:48, 26/01/2026] Marcello Interfones: Atendimento realizado , portão funcionando
 - [12:15, 26/01/2026] Ana: Obrigada!
-- **QUE** por volta de **11:30** foi recebida visita da [[Empresa Manutenção Interfone]], que realizou **reparo**
+- **QUE** por volta de **11:30** foi recebida visita da [[Marjor Seguranca Eletronica]], que realizou **reparo**
 - **Onde:** [[Portão Entrada]], [[Porta Vidro Principal]], [[Sistema Interfone]]
 - ---
 - **Ref.:** [[registro questão]], [[registro manutenção]]
@@ -2611,7 +2802,7 @@ QueryToSerialize TABLE WITHOUT ID qnd_mes AS "Mes",  dateformat(quando, "dd/MM")
 - **Registra-se:**
 - **QUE** [[Marcelo 101]] informa problema nos botões que abrem portão (interno e externo)
 - **QUE** [[Renato 302]] verifica mesmo erro
-- **QUE** [[Síndica]] agenda [[Empresa Manutenção Interfone]] para segunda-feira próximo dia 19/01
+- **QUE** [[Síndica]] agenda [[Marjor Seguranca Eletronica]] para segunda-feira próximo dia 19/01
 - [12:01, 16/01/2026] Marcelo Apto 101 Sindico Silva Guimarães: Boa tarde. O interruptor interno do hall para abrir o portão não está funcionando. O externo tambem não.
 - [12:35, 16/01/2026] Ana: Oi Marcelo, acredito que o problema tenha sido momentâneo, desci e testei os interruptores e funcionaram normalmente. Vamos observar. Se acontecer novamente, faço contato com a empresa de Interfones. Obrigada!
 - [12:45, 16/01/2026] Renato Heleri 302: Está com algum mal contato , qdo desci só funcionou o da portaria!

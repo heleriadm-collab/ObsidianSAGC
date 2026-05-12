@@ -26,7 +26,9 @@
 | semana 15/2026 |                                  | [[diario/2026-04-07.md\|07 ABR]] |                                  | [[diario/2026-04-09.md\|09 ABR]] | [[diario/2026-04-10.md\|10 ABR]] |                                  |                                  |
 | semana 16/2026 |                                  |                                  | [[diario/2026-04-15.md\|15 ABR]] | [[diario/2026-04-16.md\|16 ABR]] | [[diario/2026-04-17.md\|17 ABR]] |                                  |                                  |
 | semana 17/2026 |                                  |                                  | [[diario/2026-04-22.md\|22 ABR]] | [[diario/2026-04-23.md\|23 ABR]] | [[diario/2026-04-24.md\|24 ABR]] | [[diario/2026-04-25.md\|25 ABR]] |                                  |
-| semana 18/2026 | [[diario/2026-04-27.md\|27 ABR]] |                                  |                                  |                                  |                                  |                                  |                                  |
+| semana 18/2026 | [[diario/2026-04-27.md\|27 ABR]] |                                  | [[diario/2026-04-29.md\|29 ABR]] |                                  |                                  |                                  |                                  |
+| semana 19/2026 |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
+| semana 20/2026 | [[diario/2026-05-11.md\|11 MAI]] | [[diario/2026-05-12.md\|12 MAI]] |                                  |                                  |                                  |                                  |                                  |
 
 > .. toda **informação** no SAGC **nasce** através dos **registros diários**.
 
@@ -44,11 +46,15 @@
 
 # Eventos Relevantes
 
-## SOS Elevadores Realizará Instalação dos Contrapesos
+## Conserto do Limite de Peso do Elevador - RESOLVIDO!!!
 
-No âmbito da questão [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]], a [[SOS Elevadores]] HAVIA AGENDADO INICIALMENTE início das atividades de ajuste da taragem do elevador (travamento mesmo dentro do limite de peso) na semana 15 de 2026, datas mais prováveis 09 ou 10 de abril. ==No entanto não houve comparecimento conforme planejado==.
+No âmbito da questão registrada como [[Q260112_1654 Elevador Trava Abaixo do Peso Especificado]], a [[SOS Elevadores]] na data de 24/abr/2026 ==realizou conserto==, conforme registro [[2026-04-24#14 32 Ato Adm. - Gestão Heleri - Q260112_1654 - Travamento do Elevador]]
+
+<!--
+HAVIA AGENDADO INICIALMENTE início das atividades de ajuste da taragem do elevador (travamento mesmo dentro do limite de peso) na semana 15 de 2026, datas mais prováveis 09 ou 10 de abril. ==No entanto não houve comparecimento conforme planejado==.
 
 Síndica  realizou cobrança à [[SOS Elevadores]] por nova agenda, ao que **foi informada que visita técnica seria realizada na semana 16 (de 12 a 18 abril)**.
+-->
 
 ## Captação de Proponentes para Término Obras Telhado Bloco 2
 

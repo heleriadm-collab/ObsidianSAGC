@@ -18,6 +18,7 @@ certutil -hashfile "20250717.pdf" md5
 -->
 
 - **Descrição:** No âmbito da questão [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]], documento proposta relatando escopo para fins término das [[Obras Telhado BL2]]
+		- Também compõe o escopo item [[Q260105_2313 Escada Marinheiro Descida Ao Telhado - Danificada]]
 		- **Arquivo:** 
 		- (1) versão 02: ` DOC2604_Termo_de_Referência_para_Solicitação_Propostas_Término_Telhado_Bloco_2_v02.pdf `
 
