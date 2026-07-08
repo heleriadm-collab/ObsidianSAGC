@@ -7,15 +7,12 @@ created: 2026-03-17T18:19
 
 #documento 
 
-```
-REM == RETIRA-SE O MD5 PARA INTEGRIDADE ==
-certutil -hashfile "DOC251216_Manual_do_Síndico_Heleri_v1.pdf" md5
-```
 
-- **Descrição:** 
+
+- **Descrição:** Documento "**Manual do Síndico**" elaborado por [[Marcelo 101]], por ocasião do final da gestão de 2025 no intuito de ajudar na transição da administração
 		- **Arquivo:** DOC251216_Manual_do_Síndico_Heleri_v1.pdf
 
-- **Objetivo:** 
+- **Objetivo:** intuito de ajudar na transição da administração
 
 - **Motivação:** (1) garantir orientações sobre rotinas à próxima administração
 

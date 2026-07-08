@@ -7,7 +7,8 @@ created: 2026-04-29T14:41
 #heleri/fornecedor
 
 
-- **Descrição:** Engenheiro indicado no âmbito da [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]] <!-- categoria pode variar (1) servico (2) material (3) projeto (4) servico_e_material -->
+- **Descrição:** Engenheiro indicado no âmbito da [[Q260317_2227 Solicitação de Propostas Para Término Telhado Bloco 2]]
+		- **QUE** trabalha na [[Nissi Engenharia Eireli]]
 		- **Razão Social:** 
 		- **CNPJ:** 
 		- **Nome Completo:** 
